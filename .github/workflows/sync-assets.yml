@@ -1,0 +1,32 @@
+name: Sync assets to main repo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout assets repo
+        uses: actions/checkout@v4
+
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+        with:
+          repository: an2nin/trackmypulls
+          path: main-repo
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
+          ref: master
+
+      - name: Copy assets
+        run: |
+          rsync -av --delete ./assets/ ./main-repo/public/assets/
+
+      - name: Commit and push
+        run: |
+          cd main-repo
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets
+          git commit -m "Sync assets from assets repo" || echo "No changes to commit"
+          git push origin HEAD:master
