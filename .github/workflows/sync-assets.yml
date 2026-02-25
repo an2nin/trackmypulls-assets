@@ -6,27 +6,39 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        target:
+          - name: trackmypulls
+            repository: an2nin/trackmypulls
+            ref: master
+            assets_path: public/assets
+          - name: wuwapal
+            repository: an2nin/wuwapal
+            ref: master
+            assets_path: public/assets
     steps:
       - name: Checkout assets repo
         uses: actions/checkout@v4
 
-      - name: Checkout main repo
+      - name: Checkout target repo
         uses: actions/checkout@v4
         with:
-          repository: an2nin/trackmypulls
+          repository: ${{ matrix.target.repository }}
           path: main-repo
           token: ${{ secrets.MAIN_REPO_TOKEN }}
-          ref: master
+          ref: ${{ matrix.target.ref }}
 
       - name: Copy assets
         run: |
-          rsync -av --delete ./assets/ ./main-repo/public/assets/
+          rsync -av --delete ./assets/ ./main-repo/${{ matrix.target.assets_path }}/
 
       - name: Commit and push
         run: |
           cd main-repo
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add public/assets
+          git add "${{ matrix.target.assets_path }}"
           git commit -m "sync assets from assets repo" || echo "No changes to commit"
-          git push origin HEAD:master
+          git push origin HEAD:${{ matrix.target.ref }}
