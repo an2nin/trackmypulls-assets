@@ -23,7 +23,7 @@
     "website": "https://endfield.gryphline.com/en-us",
     "developer": "Gryphline",
     "item-types": [
-      { "name": "character", "label": "Resonator", "rarity": ["5", "6"], "attrs": ["element", "weapon-type", "class"] },
+      { "name": "character", "label": "Operators", "rarity": ["5", "6"], "attrs": ["element", "weapon-type", "class"] },
       { "name": "weapon", "label": "Weapon", "rarity": ["5", "6"], "attrs": ["element"] }
     ],
     "attr-types": [
