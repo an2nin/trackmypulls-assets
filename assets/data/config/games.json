@@ -8,7 +8,7 @@
     "developer": "Kuro Games",
     "item-types": [
       { "name": "character", "label": "Resonator", "rarity": ["4", "5"], "attrs": ["element", "weapon-type"] },
-      { "name": "weapon", "label": "Weapon", "rarity": ["4", "5"], "attrs": ["element"] }
+      { "name": "weapon", "label": "Weapon", "rarity": ["4", "5"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
       { "name": "element", "label": "Element", "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"] },
@@ -24,7 +24,7 @@
     "developer": "Gryphline",
     "item-types": [
       { "name": "character", "label": "Operators", "rarity": ["5", "6"], "attrs": ["element", "weapon-type", "class"] },
-      { "name": "weapon", "label": "Weapon", "rarity": ["5", "6"], "attrs": ["element"] }
+      { "name": "weapon", "label": "Weapon", "rarity": ["5", "6"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
       { "name": "element", "label": "Element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
