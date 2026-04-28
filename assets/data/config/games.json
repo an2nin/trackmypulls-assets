@@ -7,8 +7,8 @@
     "website": "https://wutheringwaves.kurogames.com/en/main",
     "developer": "Kuro Games",
     "item-types": [
-      { "name": "character", "label": "resonator", "rarity": ["4", "5"], "attrs": ["element", "weapon-type"] },
-      { "name": "weapon", "label": "weapon", "rarity": ["4", "5"], "attrs": ["weapon-type"] }
+      { "name": "character", "label": "resonator", "rarity": ["5", "4"], "attrs": ["element", "weapon-type"] },
+      { "name": "weapon", "label": "weapon", "rarity": ["5", "4"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
       { "name": "element", "label": "element", "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"] },
@@ -23,8 +23,8 @@
     "website": "https://endfield.gryphline.com/en-us",
     "developer": "Gryphline",
     "item-types": [
-      { "name": "character", "label": "operator", "rarity": ["5", "6"], "attrs": ["element", "weapon-type", "class"] },
-      { "name": "weapon", "label": "weapon", "rarity": ["5", "6"], "attrs": ["weapon-type"] }
+      { "name": "character", "label": "operator", "rarity": ["6", "5"], "attrs": ["element", "weapon-type", "class"] },
+      { "name": "weapon", "label": "weapon", "rarity": ["6", "5"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
       { "name": "element", "label": "element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
