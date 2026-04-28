@@ -23,13 +23,13 @@
     "website": "https://endfield.gryphline.com/en-us",
     "developer": "Gryphline",
     "item-types": [
-      { "name": "character", "label": "operator", "rarity": ["6", "5"], "attrs": ["element", "weapon-type", "class"] },
+      { "name": "character", "label": "operator", "rarity": ["6", "5"], "attrs": ["element", "weapon-type", "class-type"] },
       { "name": "weapon", "label": "weapon", "rarity": ["6", "5"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
       { "name": "element", "label": "element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
       { "name": "weapon-type", "label": "weapon type", "values": ["arts unit", "greatsword", "handcannon", "polearm", "sword"] },
-      { "name": "class", "label": "Class", "values": ["caster", "defender", "guard", "striker", "supporter", "vanguard"] }
+      { "name": "class-type", "label": "class type", "values": ["caster", "defender", "guard", "striker", "supporter", "vanguard"] }
     ]
   }
 ]
