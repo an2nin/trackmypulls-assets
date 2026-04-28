@@ -7,12 +7,12 @@
     "website": "https://wutheringwaves.kurogames.com/en/main",
     "developer": "Kuro Games",
     "item-types": [
-      { "name": "character", "label": "Resonator", "rarity": ["4", "5"], "attrs": ["element", "weapon-type"] },
-      { "name": "weapon", "label": "Weapon", "rarity": ["4", "5"], "attrs": ["weapon-type"] }
+      { "name": "character", "label": "resonator", "rarity": ["4", "5"], "attrs": ["element", "weapon-type"] },
+      { "name": "weapon", "label": "weapon", "rarity": ["4", "5"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
-      { "name": "element", "label": "Element", "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"] },
-      { "name": "weapon-type", "label": "Weapon Type", "values": ["broadblade", "gauntlets", "pistols", "rectifier", "sword"] }
+      { "name": "element", "label": "element", "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"] },
+      { "name": "weapon-type", "label": "weapon type", "values": ["broadblade", "gauntlets", "pistols", "rectifier", "sword"] }
     ]
   },
   {
@@ -23,12 +23,12 @@
     "website": "https://endfield.gryphline.com/en-us",
     "developer": "Gryphline",
     "item-types": [
-      { "name": "character", "label": "Operators", "rarity": ["5", "6"], "attrs": ["element", "weapon-type", "class"] },
-      { "name": "weapon", "label": "Weapon", "rarity": ["5", "6"], "attrs": ["weapon-type"] }
+      { "name": "character", "label": "operator", "rarity": ["5", "6"], "attrs": ["element", "weapon-type", "class"] },
+      { "name": "weapon", "label": "weapon", "rarity": ["5", "6"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
-      { "name": "element", "label": "Element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
-      { "name": "weapon-type", "label": "Weapon Type", "values": ["arts unit", "greatsword", "handcannon", "polearm", "sword"] },
+      { "name": "element", "label": "element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
+      { "name": "weapon-type", "label": "weapon type", "values": ["arts unit", "greatsword", "handcannon", "polearm", "sword"] },
       { "name": "class", "label": "Class", "values": ["caster", "defender", "guard", "striker", "supporter", "vanguard"] }
     ]
   }
