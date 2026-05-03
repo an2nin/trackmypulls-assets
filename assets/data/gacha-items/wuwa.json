@@ -73,7 +73,7 @@
     "Jianxin": {
       "quality": "5",
       "element": "aero",
-      "weaponType": "broadblade"
+      "weaponType": "gauntlets"
     },
     "Jinhsi": {
       "quality": "5",
@@ -88,7 +88,7 @@
     "Lingyang": {
       "quality": "5",
       "element": "glacio",
-      "weaponType": "broadblade"
+      "weaponType": "gauntlets"
     },
     "Lupa": {
       "quality": "5",
@@ -103,7 +103,7 @@
     "Lynae": {
       "quality": "5",
       "element": "spectro",
-      "weaponType": "broadblade"
+      "weaponType": "pistols"
     },
     "Mornye": {
       "quality": "5",
@@ -113,7 +113,7 @@
     "Phoebe": {
       "quality": "5",
       "element": "spectro",
-      "weaponType": "broadblade"
+      "weaponType": "rectifier"
     },
     "Phrolova": {
       "quality": "5",
