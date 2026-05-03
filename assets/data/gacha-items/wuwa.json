@@ -65,6 +65,11 @@
       "element": "fusion",
       "weaponType": "pistols"
     },
+    "hiyuki": {
+      "quality": "5",
+      "element": "glacio",
+      "weaponType": "sword"
+    },
     "Iuno": {
       "quality": "5",
       "element": "aero",
@@ -268,6 +273,10 @@
       "weaponType": "sword"
     },
     "Everbright Polestar": {
+      "quality": "5",
+      "weaponType": "sword"
+    },
+    "frostburn": {
       "quality": "5",
       "weaponType": "sword"
     },
