@@ -118,22 +118,22 @@
     "Phrolova": {
       "quality": "5",
       "element": "havoc",
-      "weaponType": "broadblade"
+      "weaponType": "rectifier"
     },
     "Qiuyuan": {
       "quality": "5",
       "element": "aero",
-      "weaponType": "broadblade"
+      "weaponType": "sword"
     },
     "Roccia": {
       "quality": "5",
       "element": "havoc",
-      "weaponType": "broadblade"
+      "weaponType": "gauntlets"
     },
     "Shorekeeper": {
       "quality": "5",
       "element": "spectro",
-      "weaponType": "broadblade"
+      "weaponType": "rectifier"
     },
     "Sigrika": {
       "quality": "5",
@@ -143,17 +143,17 @@
     "Verina": {
       "quality": "5",
       "element": "spectro",
-      "weaponType": "broadblade"
+      "weaponType": "rectifier"
     },
     "Xiangli Yao": {
       "quality": "5",
       "element": "electro",
-      "weaponType": "broadblade"
+      "weaponType": "gauntlets"
     },
     "Yinlin": {
       "quality": "5",
       "element": "electro",
-      "weaponType": "broadblade"
+      "weaponType": "rectifier"
     },
     "Zani": {
       "quality": "5",
@@ -168,27 +168,27 @@
     "Aalto": {
       "quality": "4",
       "element": "aero",
-      "weaponType": "broadblade"
+      "weaponType": "pistols"
     },
     "Baizhi": {
       "quality": "4",
       "element": "glacio",
-      "weaponType": "broadblade"
+      "weaponType": "rectifier"
     },
     "Buling": {
       "quality": "4",
       "element": "electro",
-      "weaponType": "broadblade"
+      "weaponType": "rectifier"
     },
     "Chixia": {
       "quality": "4",
       "element": "fusion",
-      "weaponType": "broadblade"
+      "weaponType": "pistols"
     },
     "Danjin": {
       "quality": "4",
       "element": "havoc",
-      "weaponType": "broadblade"
+      "weaponType": "sword"
     },
     "Lumi": {
       "quality": "4",
@@ -198,12 +198,12 @@
     "Mortefi": {
       "quality": "4",
       "element": "fusion",
-      "weaponType": "broadblade"
+      "weaponType": "pistols"
     },
     "Sanhua": {
       "quality": "4",
       "element": "glacio",
-      "weaponType": "broadblade"
+      "weaponType": "sword"
     },
     "Taoqi": {
       "quality": "4",
@@ -213,17 +213,17 @@
     "Yangyang": {
       "quality": "4",
       "element": "aero",
-      "weaponType": "broadblade"
+      "weaponType": "sword"
     },
     "Youhu": {
       "quality": "4",
       "element": "glacio",
-      "weaponType": "broadblade"
+      "weaponType": "gauntlets"
     },
     "Yuanwu": {
       "quality": "4",
       "element": "electro",
-      "weaponType": "broadblade"
+      "weaponType": "gauntlets"
     }
   },
   "weapon": {
