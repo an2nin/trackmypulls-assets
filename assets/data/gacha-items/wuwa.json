@@ -1,463 +1,464 @@
 {
-  "characters": {
+  "character": {
+    "Aalto": {
+      "quality": "4",
+      "element": "aero",
+      "weaponType": "broadblade"
+    },
     "Aemeath": {
-      "quality": 5,
+      "quality": "5",
       "element": "fusion",
       "weaponType": "sword"
     },
     "Augusta": {
-      "quality": 5,
+      "quality": "5",
       "element": "electro",
       "weaponType": "broadblade"
     },
+    "Baizhi": {
+      "quality": "4",
+      "element": "glacio",
+      "weaponType": "broadblade"
+    },
     "Brant": {
-      "quality": 5,
+      "quality": "5",
       "element": "fusion",
       "weaponType": "sword"
     },
+    "Buling": {
+      "quality": "4",
+      "element": "electro",
+      "weaponType": "broadblade"
+    },
     "Calcharo": {
-      "quality": 5,
+      "quality": "5",
       "element": "electro",
       "weaponType": "broadblade"
     },
     "Camellya": {
-      "quality": 5,
+      "quality": "5",
       "element": "havoc",
       "weaponType": "sword"
     },
     "Cantarella": {
-      "quality": 5,
+      "quality": "5",
       "element": "havoc",
       "weaponType": "rectifier"
     },
     "Carlotta": {
-      "quality": 5,
+      "quality": "5",
       "element": "glacio",
       "weaponType": "pistols"
     },
     "Cartethyia": {
-      "quality": 5,
+      "quality": "5",
       "element": "aero",
       "weaponType": "sword"
     },
     "Changli": {
-      "quality": 5,
+      "quality": "5",
       "element": "fusion",
       "weaponType": "sword"
     },
     "Chisa": {
-      "quality": 5,
+      "quality": "5",
       "element": "havoc",
       "weaponType": "broadblade"
     },
+    "Chixia": {
+      "quality": "4",
+      "element": "fusion",
+      "weaponType": "broadblade"
+    },
     "Ciaccona": {
-      "quality": 5,
-      "element": "glacio",
+      "quality": "5",
+      "element": "aero",
+      "weapon-type": "pistols",
       "weaponType": "pistols"
     },
+    "Danjin": {
+      "quality": "4",
+      "element": "havoc",
+      "weaponType": "broadblade"
+    },
     "Encore": {
-      "quality": 5,
+      "quality": "5",
       "element": "fusion",
       "weaponType": "rectifier"
     },
     "Galbrena": {
-      "quality": 5,
+      "quality": "5",
       "element": "fusion",
       "weaponType": "pistols"
     },
     "Iuno": {
-      "quality": 5,
+      "quality": "5",
       "element": "aero",
       "weaponType": "gauntlets"
     },
     "Jianxin": {
-      "quality": 5,
+      "quality": "5",
       "element": "aero",
       "weaponType": "broadblade"
     },
     "Jinhsi": {
-      "quality": 5,
+      "quality": "5",
       "element": "spectro",
       "weaponType": "broadblade"
     },
     "Jiyan": {
-      "quality": 5,
+      "quality": "5",
       "element": "aero",
       "weaponType": "broadblade"
     },
     "Lingyang": {
-      "quality": 5,
+      "quality": "5",
       "element": "glacio",
       "weaponType": "broadblade"
     },
+    "Lumi": {
+      "quality": "4",
+      "element": "electro",
+      "weaponType": "broadblade"
+    },
     "Lupa": {
-      "quality": 5,
+      "quality": "5",
       "element": "fusion",
       "weaponType": "broadblade"
     },
     "Luuk Herssen": {
-      "quality": 5,
+      "quality": "5",
       "element": "spectro",
       "weaponType": "gauntlets"
     },
     "Lynae": {
-      "quality": 5,
+      "quality": "5",
       "element": "spectro",
       "weaponType": "broadblade"
     },
     "Mornye": {
-      "quality": 5,
+      "quality": "5",
+      "element": "fusion",
+      "weaponType": "broadblade"
+    },
+    "Mortefi": {
+      "quality": "4",
       "element": "fusion",
       "weaponType": "broadblade"
     },
     "Phoebe": {
-      "quality": 5,
+      "quality": "5",
       "element": "spectro",
       "weaponType": "broadblade"
     },
     "Phrolova": {
-      "quality": 5,
+      "quality": "5",
       "element": "havoc",
       "weaponType": "broadblade"
     },
     "Qiuyuan": {
-      "quality": 5,
+      "quality": "5",
       "element": "aero",
       "weaponType": "broadblade"
     },
     "Roccia": {
-      "quality": 5,
+      "quality": "5",
       "element": "havoc",
       "weaponType": "broadblade"
     },
+    "Sanhua": {
+      "quality": "4",
+      "element": "glacio",
+      "weaponType": "broadblade"
+    },
     "Shorekeeper": {
-      "quality": 5,
+      "quality": "5",
       "element": "spectro",
       "weaponType": "broadblade"
     },
     "Sigrika": {
-      "quality": 5,
+      "quality": "5",
       "weaponType": "gauntlets",
       "element": "aero"
     },
+    "Taoqi": {
+      "quality": "4",
+      "element": "havoc",
+      "weaponType": "broadblade"
+    },
     "Verina": {
-      "quality": 5,
+      "quality": "5",
       "element": "spectro",
       "weaponType": "broadblade"
     },
     "Xiangli Yao": {
-      "quality": 5,
+      "quality": "5",
       "element": "electro",
-      "weaponType": "broadblade"
-    },
-    "Yinlin": {
-      "quality": 5,
-      "element": "electro",
-      "weaponType": "broadblade"
-    },
-    "Zani": {
-      "quality": 5,
-      "element": "spectro",
-      "weaponType": "broadblade"
-    },
-    "Zhezhi": {
-      "quality": 5,
-      "element": "glacio",
-      "weaponType": "broadblade"
-    },
-    "Aalto": {
-      "quality": 4,
-      "element": "aero",
-      "weaponType": "broadblade"
-    },
-    "Baizhi": {
-      "quality": 4,
-      "element": "glacio",
-      "weaponType": "broadblade"
-    },
-    "Buling": {
-      "quality": 4,
-      "element": "electro",
-      "weaponType": "broadblade"
-    },
-    "Chixia": {
-      "quality": 4,
-      "element": "fusion",
-      "weaponType": "broadblade"
-    },
-    "Danjin": {
-      "quality": 4,
-      "element": "havoc",
-      "weaponType": "broadblade"
-    },
-    "Lumi": {
-      "quality": 4,
-      "element": "electro",
-      "weaponType": "broadblade"
-    },
-    "Mortefi": {
-      "quality": 4,
-      "element": "fusion",
-      "weaponType": "broadblade"
-    },
-    "Sanhua": {
-      "quality": 4,
-      "element": "glacio",
-      "weaponType": "broadblade"
-    },
-    "Taoqi": {
-      "quality": 4,
-      "element": "havoc",
       "weaponType": "broadblade"
     },
     "Yangyang": {
-      "quality": 4,
+      "quality": "4",
       "element": "aero",
       "weaponType": "broadblade"
     },
+    "Yinlin": {
+      "quality": "5",
+      "element": "electro",
+      "weaponType": "broadblade"
+    },
     "Youhu": {
-      "quality": 4,
+      "quality": "4",
       "element": "glacio",
       "weaponType": "broadblade"
     },
     "Yuanwu": {
-      "quality": 4,
+      "quality": "4",
       "element": "electro",
+      "weaponType": "broadblade"
+    },
+    "Zani": {
+      "quality": "5",
+      "element": "spectro",
+      "weaponType": "broadblade"
+    },
+    "Zhezhi": {
+      "quality": "5",
+      "element": "glacio",
       "weaponType": "broadblade"
     }
   },
-  "weapons": {
+  "weapon": {
     "Abyss Surges": {
-      "quality": 5,
+      "quality": "5",
       "weaponType": "gauntlets"
     },
     "Ages of Harvest": {
-      "quality": 5,
+      "quality": "5",
       "weaponType": "broadblade"
     },
+    "Amity Accord": {
+      "quality": "4",
+      "weaponType": "gauntlets"
+    },
     "Blazing Brilliance": {
-      "quality": 5,
+      "quality": "5",
       "weaponType": "sword"
     },
     "Blazing Justice": {
-      "quality": 5,
+      "quality": "5",
       "weaponType": "gauntlets"
     },
     "Boson Astrolabe": {
-      "quality": 5,
+      "quality": "5",
       "weaponType": "rectifier"
-    },
-    "Cosmic Ripples": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "Daybreaker's Spine": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Defier's Thorn": {
-      "quality": 5,
-      "weaponType": "sword"
-    },
-    "Emerald of Genesis": {
-      "quality": 5,
-      "weaponType": "sword"
-    },
-    "Emerald Sentence": {
-      "quality": 5,
-      "weaponType": "sword"
-    },
-    "Everbright Polestar": {
-      "quality": 5,
-      "weaponType": "sword"
-    },
-    "Kumokiri": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Laser Shearer": {
-      "quality": 5,
-      "weaponType": "sword"
-    },
-    "Lethean Elegy": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "Luminous Hymn": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "Lustrous Razor": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Lux & Umbra": {
-      "quality": 5,
-      "weaponType": "pistols"
-    },
-    "Moongazer's Sigil": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "Phasic Homogenizer": {
-      "quality": 5,
-      "weaponType": "pistols"
-    },
-    "Pulsation Bracer": {
-      "quality": 5,
-      "weaponType": "gauntlets"
-    },
-    "Radiance Cleaver": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Red Spring": {
-      "quality": 5,
-      "weaponType": "sword"
-    },
-    "Rime-Draped Sprouts": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "Solsworn Ciphers": {
-      "quality": 5,
-      "weaponType": "gauntlets"
-    },
-    "Spectrum Blaster": {
-      "quality": 5,
-      "weaponType": "pistols"
-    },
-    "Starfield Calibrator": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Static Mist": {
-      "quality": 5,
-      "weaponType": "pistols"
-    },
-    "Stellar Symphony": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "Stringmaster": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "The Last Dance": {
-      "quality": 5,
-      "weaponType": "pistols"
-    },
-    "Thunderflare Dominion": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Tragicomedy": {
-      "quality": 5,
-      "weaponType": "gauntlets"
-    },
-    "Unflickering Valor": {
-      "quality": 5,
-      "weaponType": "sword"
-    },
-    "Verdant Summit": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Verity's Handle": {
-      "quality": 5,
-      "weaponType": "gauntlets"
-    },
-    "Whispers of Sirens": {
-      "quality": 5,
-      "weaponType": "rectifier"
-    },
-    "Wildfire Mark": {
-      "quality": 5,
-      "weaponType": "broadblade"
-    },
-    "Woodland Aria": {
-      "quality": 5,
-      "weaponType": "pistols"
-    },
-    "Amity Accord": {
-      "quality": 4,
-      "weaponType": "gauntlets"
     },
     "Cadenza": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "pistols"
     },
     "Celestial Spiral": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "gauntlets"
     },
     "Comet Flare": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "rectifier"
     },
     "Commando of Conviction": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "sword"
     },
+    "Cosmic Ripples": {
+      "quality": "5",
+      "weaponType": "rectifier"
+    },
     "Dauntless Evernight": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "broadblade"
+    },
+    "Daybreaker's Spine": {
+      "quality": "5",
+      "weaponType": "broadblade"
+    },
+    "Defier's Thorn": {
+      "quality": "5",
+      "weaponType": "sword"
     },
     "Discord": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "broadblade"
     },
+    "Emerald of Genesis": {
+      "quality": "5",
+      "weaponType": "sword"
+    },
+    "Emerald Sentence": {
+      "quality": "5",
+      "weaponType": "sword"
+    },
     "Endless Collapse": {
-      "quality": 4,
+      "quality": "4",
+      "weaponType": "sword"
+    },
+    "Everbright Polestar": {
+      "quality": "5",
       "weaponType": "sword"
     },
     "Fusion Accretion": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "rectifier"
     },
     "Helios Cleaver": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "broadblade"
     },
     "Hollow Mirage": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "gauntlets"
     },
     "Jinzhou Keeper": {
-      "quality": 4,
+      "quality": "4",
+      "weaponType": "rectifier"
+    },
+    "Kumokiri": {
+      "quality": "5",
+      "weaponType": "broadblade"
+    },
+    "Laser Shearer": {
+      "quality": "5",
+      "weaponType": "sword"
+    },
+    "Lethean Elegy": {
+      "quality": "5",
+      "weaponType": "rectifier"
+    },
+    "Luminous Hymn": {
+      "quality": "5",
       "weaponType": "rectifier"
     },
     "Lunar Cutter": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "sword"
     },
+    "Lustrous Razor": {
+      "quality": "5",
+      "weaponType": "broadblade"
+    },
+    "Lux & Umbra": {
+      "quality": "5",
+      "weaponType": "pistols"
+    },
     "Marcato": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "gauntlets"
     },
+    "Moongazer's Sigil": {
+      "quality": "5",
+      "weaponType": "rectifier"
+    },
     "Novaburst": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "pistols"
     },
     "Overture": {
-      "quality": 4,
+      "quality": "4",
+      "weaponType": "sword"
+    },
+    "Phasic Homogenizer": {
+      "quality": "5",
+      "weaponType": "pistols"
+    },
+    "Pulsation Bracer": {
+      "quality": "5",
+      "weaponType": "gauntlets"
+    },
+    "Radiance Cleaver": {
+      "quality": "5",
+      "weaponType": "broadblade"
+    },
+    "Red Spring": {
+      "quality": "5",
       "weaponType": "sword"
     },
     "Relativistic Jet": {
-      "quality": 4,
+      "quality": "4",
       "weaponType": "pistols"
     },
-    "Undying Flame": {
-      "quality": 4,
-      "weaponType": "pistols"
-    },
-    "Variation": {
-      "quality": 4,
+    "Rime-Draped Sprouts": {
+      "quality": "5",
       "weaponType": "rectifier"
     },
-    "Waning Redshift": {
-      "quality": 4,
+    "Solsworn Ciphers": {
+      "quality": "5",
+      "weaponType": "gauntlets"
+    },
+    "Spectrum Blaster": {
+      "quality": "5",
+      "weaponType": "pistols"
+    },
+    "Starfield Calibrator": {
+      "quality": "5",
       "weaponType": "broadblade"
+    },
+    "Static Mist": {
+      "quality": "5",
+      "weaponType": "pistols"
+    },
+    "Stellar Symphony": {
+      "quality": "5",
+      "weaponType": "rectifier"
+    },
+    "Stringmaster": {
+      "quality": "5",
+      "weaponType": "rectifier"
+    },
+    "The Last Dance": {
+      "quality": "5",
+      "weaponType": "pistols"
+    },
+    "Thunderflare Dominion": {
+      "quality": "5",
+      "weaponType": "broadblade"
+    },
+    "Tragicomedy": {
+      "quality": "5",
+      "weaponType": "gauntlets"
+    },
+    "Undying Flame": {
+      "quality": "4",
+      "weaponType": "pistols"
+    },
+    "Unflickering Valor": {
+      "quality": "5",
+      "weaponType": "sword"
+    },
+    "Variation": {
+      "quality": "4",
+      "weaponType": "rectifier"
+    },
+    "Verdant Summit": {
+      "quality": "5",
+      "weaponType": "broadblade"
+    },
+    "Verity's Handle": {
+      "quality": "5",
+      "weaponType": "gauntlets"
+    },
+    "Waning Redshift": {
+      "quality": "4",
+      "weaponType": "broadblade"
+    },
+    "Whispers of Sirens": {
+      "quality": "5",
+      "weaponType": "rectifier"
+    },
+    "Wildfire Mark": {
+      "quality": "5",
+      "weaponType": "broadblade"
+    },
+    "Woodland Aria": {
+      "quality": "5",
+      "weaponType": "pistols"
     }
   }
 }
