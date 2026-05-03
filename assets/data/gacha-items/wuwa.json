@@ -73,7 +73,6 @@
     "Ciaccona": {
       "quality": "5",
       "element": "aero",
-      "weapon-type": "pistols",
       "weaponType": "pistols"
     },
     "Danjin": {
@@ -178,8 +177,8 @@
     },
     "Sigrika": {
       "quality": "5",
-      "weaponType": "gauntlets",
-      "element": "aero"
+      "element": "aero",
+      "weaponType": "gauntlets"
     },
     "Taoqi": {
       "quality": "4",
