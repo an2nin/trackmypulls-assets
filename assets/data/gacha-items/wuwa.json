@@ -65,7 +65,7 @@
       "element": "fusion",
       "weaponType": "pistols"
     },
-    "hiyuki": {
+    "Hiyuki": {
       "quality": "5",
       "element": "glacio",
       "weaponType": "sword"
@@ -276,7 +276,7 @@
       "quality": "5",
       "weaponType": "sword"
     },
-    "frostburn": {
+    "Frostburn": {
       "quality": "5",
       "weaponType": "sword"
     },
