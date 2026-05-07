@@ -8,8 +8,8 @@
     "website": "https://wutheringwaves.kurogames.com/en/main",
     "developer": "Kuro Games",
     "item-types": [
-      { "name": "character", "label": "resonator", "plural": "characters", "icon": "mask", "rarity": ["5", "4"], "attrs": ["element", "weapon-type"] },
-      { "name": "weapon", "label": "weapon", "plural": "weapons", "icon": "sword", "rarity": ["5", "4"], "attrs": ["weapon-type"] }
+      { "name": "character", "label": "resonator", "plural": "characters", "icon": "character", "rarity": ["5", "4"], "attrs": ["element", "weapon-type"] },
+      { "name": "weapon", "label": "weapon", "plural": "weapons", "icon": "weapon", "rarity": ["5", "4"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
       { "name": "element", "label": "element", "plural": "elements", "icon": "element", "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"] },
@@ -51,8 +51,8 @@
     "website": "https://endfield.gryphline.com/en-us",
     "developer": "Gryphline",
     "item-types": [
-      { "name": "character", "label": "operator", "plural": "characters", "icon": "mask", "rarity": ["6", "5"], "attrs": ["element", "weapon-type", "class"] },
-      { "name": "weapon", "label": "weapon", "plural": "weapons", "icon": "sword", "rarity": ["6", "5"], "attrs": ["weapon-type"] }
+      { "name": "character", "label": "operator", "plural": "characters", "icon": "character", "rarity": ["6", "5"], "attrs": ["element", "weapon-type", "class"] },
+      { "name": "weapon", "label": "weapon", "plural": "weapons", "icon": "weapon", "rarity": ["6", "5"], "attrs": ["weapon-type"] }
     ],
     "attr-types": [
       { "name": "element", "label": "element", "plural": "elements", "icon": "element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
