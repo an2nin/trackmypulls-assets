@@ -8,12 +8,12 @@
     "website": "https://wutheringwaves.kurogames.com/en/main",
     "developer": "Kuro Games",
     "item-types": [
-      { "name": "character", "label": "resonator", "plural": "characters", "icon": "character", "rarity": ["5", "4"], "attrs": ["element", "weapon-type"] },
-      { "name": "weapon", "label": "weapon", "plural": "weapons", "icon": "weapon", "rarity": ["5", "4"], "attrs": ["weapon-type"] }
+      { "name": "characters", "label": "Resonators", "icon": "character", "rarity": ["5", "4"], "attrs": ["elements", "weapon-types"] },
+      { "name": "weapons", "label": "Weapons", "icon": "weapon", "rarity": ["5", "4"], "attrs": ["weapon-types"] }
     ],
     "attr-types": [
-      { "name": "element", "label": "element", "plural": "elements", "icon": "element", "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"] },
-      { "name": "weapon-type", "label": "weapon type", "plural": "weapon-types", "icon": "weapon", "values": ["broadblade", "gauntlets", "pistols", "rectifier", "sword"] }
+      { "name": "elements", "label": "Elements", "icon": "element", "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"] },
+      { "name": "weapon-types", "label": "Weapon Types", "icon": "weapon", "values": ["broadblade", "gauntlets", "pistols", "rectifier", "sword"] }
     ],
     "rarities": {
       "5": {
@@ -51,13 +51,13 @@
     "website": "https://endfield.gryphline.com/en-us",
     "developer": "Gryphline",
     "item-types": [
-      { "name": "character", "label": "operator", "plural": "characters", "icon": "character", "rarity": ["6", "5"], "attrs": ["element", "weapon-type", "class"] },
-      { "name": "weapon", "label": "weapon", "plural": "weapons", "icon": "weapon", "rarity": ["6", "5"], "attrs": ["weapon-type"] }
+      { "name": "characters", "label": "operator", "icon": "character", "rarity": ["6", "5"], "attrs": ["elements", "weapon-types", "classes"] },
+      { "name": "weapons", "label": "weapon", "icon": "weapon", "rarity": ["6", "5"], "attrs": ["weapon-types"] }
     ],
     "attr-types": [
-      { "name": "element", "label": "element", "plural": "elements", "icon": "element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
-      { "name": "weapon-type", "label": "weapon type", "plural": "weapon-types", "icon": "weapon", "values": ["arts unit", "greatsword", "handcannon", "polearm", "sword"] },
-      { "name": "class", "label": "class type", "plural": "classes", "icon": "class", "values": ["caster", "defender", "guard", "striker", "supporter", "vanguard"] }
+      { "name": "elements", "label": "Elements", "icon": "element", "values": ["cyro", "electric", "heat", "nature", "physical"] },
+      { "name": "weapon-types", "label": "Weapon Types", "icon": "weapon", "values": ["arts unit", "greatsword", "handcannon", "polearm", "sword"] },
+      { "name": "classes", "label": "Class Types", "icon": "class", "values": ["caster", "defender", "guard", "striker", "supporter", "vanguard"] }
     ],
     "rarities": {
       "6": {
