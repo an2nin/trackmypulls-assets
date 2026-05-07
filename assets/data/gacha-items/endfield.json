@@ -3,404 +3,548 @@
     {
       "name": "Ardelia",
       "quality": "6",
-      "element": "nature",
-      "weapon-type": "arts unit",
-      "class": "supporter"
+      "attributes": {
+        "element": "nature",
+        "weapon-type": "arts unit",
+        "class": "supporter"
+      }
     },
     {
       "name": "Ember",
       "quality": "6",
-      "element": "heat",
-      "weapon-type": "greatsword",
-      "class": "defender"
+      "attributes": {
+        "element": "heat",
+        "weapon-type": "greatsword",
+        "class": "defender"
+      }
     },
     {
       "name": "Gilberta",
       "quality": "6",
-      "element": "nature",
-      "weapon-type": "arts unit",
-      "class": "supporter"
+      "attributes": {
+        "element": "nature",
+        "weapon-type": "arts unit",
+        "class": "supporter"
+      }
     },
     {
       "name": "Laevatain",
       "quality": "6",
-      "element": "heat",
-      "weapon-type": "sword",
-      "class": "striker"
+      "attributes": {
+        "element": "heat",
+        "weapon-type": "sword",
+        "class": "striker"
+      }
     },
     {
       "name": "Last Rite",
       "quality": "6",
-      "element": "cyro",
-      "weapon-type": "greatsword",
-      "class": "striker"
+      "attributes": {
+        "element": "cyro",
+        "weapon-type": "greatsword",
+        "class": "striker"
+      }
     },
     {
       "name": "Lifeng",
       "quality": "6",
-      "element": "physical",
-      "weapon-type": "polearm",
-      "class": "guard"
+      "attributes": {
+        "element": "physical",
+        "weapon-type": "polearm",
+        "class": "guard"
+      }
     },
     {
       "name": "Pogranichnik",
       "quality": "6",
-      "element": "physical",
-      "weapon-type": "sword",
-      "class": "vanguard"
+      "attributes": {
+        "element": "physical",
+        "weapon-type": "sword",
+        "class": "vanguard"
+      }
     },
     {
       "name": "Rossi",
       "quality": "6",
-      "element": "physical",
-      "weapon-type": "sword",
-      "class": "guard"
+      "attributes": {
+        "element": "physical",
+        "weapon-type": "sword",
+        "class": "guard"
+      }
     },
     {
       "name": "Tangtang",
       "quality": "6",
-      "element": "cyro",
-      "weapon-type": "handcannon",
-      "class": "caster"
+      "attributes": {
+        "element": "cyro",
+        "weapon-type": "handcannon",
+        "class": "caster"
+      }
     },
     {
       "name": "Yvonne",
       "quality": "6",
-      "element": "cyro",
-      "weapon-type": "handcannon",
-      "class": "striker"
+      "attributes": {
+        "element": "cyro",
+        "weapon-type": "handcannon",
+        "class": "striker"
+      }
     },
     {
       "name": "Zhuang Fangyi",
       "quality": "6",
-      "element": "electric",
-      "weapon-type": "arts unit",
-      "class": "striker"
+      "attributes": {
+        "element": "electric",
+        "weapon-type": "arts unit",
+        "class": "striker"
+      }
     },
     {
       "name": "Alesh",
       "quality": "5",
-      "element": "cyro",
-      "weapon-type": "sword",
-      "class": "vanguard"
+      "attributes": {
+        "element": "cyro",
+        "weapon-type": "sword",
+        "class": "vanguard"
+      }
     },
     {
       "name": "Arclight",
       "quality": "5",
-      "element": "electric",
-      "weapon-type": "sword",
-      "class": "vanguard"
+      "attributes": {
+        "element": "electric",
+        "weapon-type": "sword",
+        "class": "vanguard"
+      }
     },
     {
       "name": "Avywenna",
       "quality": "5",
-      "element": "electric",
-      "weapon-type": "polearm",
-      "class": "striker"
+      "attributes": {
+        "element": "electric",
+        "weapon-type": "polearm",
+        "class": "striker"
+      }
     },
     {
       "name": "Chen Qianyu",
       "quality": "5",
-      "element": "physical",
-      "weapon-type": "sword",
-      "class": "guard"
+      "attributes": {
+        "element": "physical",
+        "weapon-type": "sword",
+        "class": "guard"
+      }
     },
     {
       "name": "Da Pan",
       "quality": "5",
-      "element": "physical",
-      "weapon-type": "greatsword",
-      "class": "striker"
+      "attributes": {
+        "element": "physical",
+        "weapon-type": "greatsword",
+        "class": "striker"
+      }
     },
     {
       "name": "Perlica",
       "quality": "5",
-      "element": "electric",
-      "weapon-type": "arts unit",
-      "class": "caster"
+      "attributes": {
+        "element": "electric",
+        "weapon-type": "arts unit",
+        "class": "caster"
+      }
     },
     {
       "name": "Snowshine",
       "quality": "5",
-      "element": "cyro",
-      "weapon-type": "greatsword",
-      "class": "defender"
+      "attributes": {
+        "element": "cyro",
+        "weapon-type": "greatsword",
+        "class": "defender"
+      }
     },
     {
       "name": "Wulfgard",
       "quality": "5",
-      "element": "heat",
-      "weapon-type": "handcannon",
-      "class": "caster"
+      "attributes": {
+        "element": "heat",
+        "weapon-type": "handcannon",
+        "class": "caster"
+      }
     },
     {
       "name": "Xaihi",
       "quality": "5",
-      "element": "cyro",
-      "weapon-type": "arts unit",
-      "class": "supporter"
+      "attributes": {
+        "element": "cyro",
+        "weapon-type": "arts unit",
+        "class": "supporter"
+      }
     }
   ],
   "weapons": [
     {
       "name": "Artzy Tyrannical",
       "quality": "6",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "Brigand's Calling",
       "quality": "6",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "Chivalric Virtues",
       "quality": "6",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Clannibal",
       "quality": "6",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "Delivery Guaranteed",
       "quality": "6",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Detonation Unit",
       "quality": "6",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Dreams of the Starry Beach",
       "quality": "6",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Eminent Repute",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Exemplar",
       "quality": "6",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Forgeborn Scathe",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Former Finery",
       "quality": "6",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Glorious Memory",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Grand Vision",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Home Longing",
       "quality": "6",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "JET",
       "quality": "6",
-      "weapon-type": "polearm"
+      "attributes": {
+        "weapon-type": "polearm"
+      }
     },
     {
       "name": "Khravengger",
       "quality": "6",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Lone Barge",
       "quality": "6",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Lupine Scarlet",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Mountain Bearer",
       "quality": "6",
-      "weapon-type": "polearm"
+      "attributes": {
+        "weapon-type": "polearm"
+      }
     },
     {
       "name": "Navigator",
       "quality": "6",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "Never Rest",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Oblivion",
       "quality": "6",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Opus: Etch Figure",
       "quality": "6",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Rapid Ascent",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Sundered Prince",
       "quality": "6",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Thermite Cutter",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Thunderberge",
       "quality": "6",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Umbral Torch",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Valiant",
       "quality": "6",
-      "weapon-type": "polearm"
+      "attributes": {
+        "weapon-type": "polearm"
+      }
     },
     {
       "name": "Wedge",
       "quality": "6",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "White Night Nova",
       "quality": "6",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Ancient Canal",
       "quality": "5",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Aspirant",
       "quality": "5",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Chimeric Justice",
       "quality": "5",
-      "weapon-type": "polearm"
+      "attributes": {
+        "weapon-type": "polearm"
+      }
     },
     {
       "name": "Cohesive Traction",
       "quality": "5",
-      "weapon-type": "polearm"
+      "attributes": {
+        "weapon-type": "polearm"
+      }
     },
     {
       "name": "Finchaser 3.0",
       "quality": "5",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Finishing Call",
       "quality": "5",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Fortmaker",
       "quality": "5",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Freedom to Proselytize",
       "quality": "5",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Monaihe",
       "quality": "5",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "OBJ Arts Identifier",
       "quality": "5",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "OBJ Edge of Lightness",
       "quality": "5",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "OBJ Heavy Burden",
       "quality": "5",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "OBJ Razohorn",
       "quality": "5",
-      "weapon-type": "polearm"
+      "attributes": {
+        "weapon-type": "polearm"
+      }
     },
     {
       "name": "OBJ Velocitous",
       "quality": "5",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "Opus: The Living",
       "quality": "5",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "Rational Farewell",
       "quality": "5",
-      "weapon-type": "handcannon"
+      "attributes": {
+        "weapon-type": "handcannon"
+      }
     },
     {
       "name": "Seeker of Dark Lung",
       "quality": "5",
-      "weapon-type": "greatsword"
+      "attributes": {
+        "weapon-type": "greatsword"
+      }
     },
     {
       "name": "Stanza of Memorials",
       "quality": "5",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     },
     {
       "name": "Sundering Steel",
       "quality": "5",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Twelve Questions",
       "quality": "5",
-      "weapon-type": "sword"
+      "attributes": {
+        "weapon-type": "sword"
+      }
     },
     {
       "name": "Wild Wanderer",
       "quality": "5",
-      "weapon-type": "arts unit"
+      "attributes": {
+        "weapon-type": "arts unit"
+      }
     }
   ]
 }
