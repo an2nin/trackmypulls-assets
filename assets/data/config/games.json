@@ -38,13 +38,13 @@
       }
     ],
     "collectionConfig": {
-      "countOffsetByCategory": {
-        "characters": -1,
-        "weapons": 0
+      "characters": {
+        "countOffset": -1,
+        "countLabel": "S"
       },
-      "countLabelByCategory": {
-        "characters": "S",
-        "weapons": "R"
+      "weapons": {
+        "countOffset": 0,
+        "countLabel": "R"
       }
     },
     "mappings": {
@@ -136,13 +136,13 @@
       }
     ],
     "collectionConfig": {
-      "countOffsetByCategory": {
-        "characters": -1,
-        "weapons": 0
+      "characters": {
+        "countOffset": -1,
+        "countLabel": "P"
       },
-      "countLabelByCategory": {
-        "characters": "P",
-        "weapons": "P"
+      "weapons": {
+        "countOffset": 0,
+        "countLabel": "P"
       }
     },
     "mappings": {
