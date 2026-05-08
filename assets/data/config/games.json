@@ -12,14 +12,14 @@
         "name": "characters",
         "label": "Resonators",
         "icon": "character",
-        "rarity": ["5", "4"],
+        "rarities": ["5", "4"],
         "attrs": ["elements", "weapon-types"]
       },
       {
         "name": "weapons",
         "label": "Weapons",
         "icon": "weapon",
-        "rarity": ["5", "4"],
+        "rarities": ["5", "4"],
         "attrs": ["weapon-types"]
       }
     ],
@@ -97,14 +97,14 @@
         "name": "characters",
         "label": "operator",
         "icon": "character",
-        "rarity": ["6", "5"],
+        "rarities": ["6", "5"],
         "attrs": ["elements", "weapon-types", "classes"]
       },
       {
         "name": "weapons",
         "label": "weapon",
         "icon": "weapon",
-        "rarity": ["6", "5"],
+        "rarities": ["6", "5"],
         "attrs": ["weapon-types"]
       }
     ],
