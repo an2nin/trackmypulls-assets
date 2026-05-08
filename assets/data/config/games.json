@@ -47,6 +47,16 @@
         "weapons": "R"
       }
     },
+    "mappings": {
+      "characters": {
+        "matchedAs": "resonator",
+        "storedAs": "r"
+      },
+      "weapons": {
+        "matchedAs": "weapon",
+        "storedAs": "w"
+      }
+    },
     "rarities": {
       "5": {
         "text": "text-yellow-400",
@@ -133,6 +143,16 @@
       "countLabelByCategory": {
         "characters": "P",
         "weapons": "P"
+      }
+    },
+    "mappings": {
+      "characters": {
+        "matchedAs": "character",
+        "storedAs": "c"
+      },
+      "weapons": {
+        "matchedAs": "weapon",
+        "storedAs": "w"
       }
     },
     "rarities": {
