@@ -4,6 +4,10 @@
 
 This repository does not contain the app itself. It contains the game definitions, structured content, and image assets the frontend consumes to render supported games dynamically.
 
+TrackMyPulls is a gacha tracking project. This repository is the shared data layer for game support, pull tracking content, character and weapon data, and frontend-ready assets.
+
+Current game data in this repository includes support for Wuthering Waves and Arknights: Endfield.
+
 ## What lives here
 
 - Game configuration
@@ -12,6 +16,17 @@ This repository does not contain the app itself. It contains the game definition
 - Contribution-friendly content updates
 
 In practice, this means new game support can be introduced here by adding the required config, data, and assets without changing the public contents of the frontend repository.
+
+## Discoverability
+
+This repository may be useful if you are looking for:
+
+- gacha game data
+- gacha tracker assets
+- pull tracker configuration
+- Wuthering Waves character and weapon data
+- Arknights Endfield character and weapon data
+- frontend-ready game assets for a tracking app
 
 ## Repo Roles
 
@@ -28,6 +43,8 @@ In practice, this means new game support can be introduced here by adding the re
 ## Contributing
 
 Contributions are intended to happen here.
+
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for contribution guidelines.
 
 Useful examples include:
 
