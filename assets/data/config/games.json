@@ -7,6 +7,12 @@
     "image": "",
     "website": "https://wutheringwaves.kurogames.com/en/main",
     "developer": "Kuro Games",
+    "features": {
+      "tracker": true,
+      "collections": true,
+      "import": true,
+      "manualEntry": false
+    },
     "itemTypes": [
       {
         "name": "characters",
@@ -92,6 +98,12 @@
     "image": "",
     "website": "https://endfield.gryphline.com/en-us",
     "developer": "Gryphline",
+    "features": {
+      "tracker": true,
+      "collections": true,
+      "import": true,
+      "manualEntry": false
+    },
     "itemTypes": [
       {
         "name": "characters",
