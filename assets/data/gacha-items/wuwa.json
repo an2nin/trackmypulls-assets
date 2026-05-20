@@ -89,6 +89,14 @@
       }
     },
     {
+      "name": "Denia",
+      "quality": "5",
+      "attributes": {
+        "elements": "fusion",
+        "weapon-types": "rectifier"
+      }
+    },
+    {
       "name": "Encore",
       "quality": "5",
       "attributes": {
@@ -445,6 +453,13 @@
       "quality": "5",
       "attributes": {
         "weapon-types": "sword"
+      }
+    },
+    {
+      "name": "Forged Dwarf Star",
+      "quality": "5",
+      "attributes": {
+        "weapon-types": "rectifier"
       }
     },
     {
