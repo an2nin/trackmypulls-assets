@@ -19,14 +19,14 @@
         "label": "Resonators",
         "icon": "character",
         "rarities": ["5", "4"],
-        "attrs": ["elements", "weaponTypes"]
+        "attrs": ["elements", "weapons"]
       },
       {
         "name": "weapons",
         "label": "Weapons",
         "icon": "weapon",
         "rarities": ["5", "4"],
-        "attrs": ["weaponTypes"]
+        "attrs": ["weapons"]
       }
     ],
     "attrTypes": [
@@ -37,7 +37,7 @@
         "values": ["aero", "electro", "fusion", "glacio", "havoc", "spectro"]
       },
       {
-        "name": "weaponTypes",
+        "name": "weapons",
         "label": "Weapon Types",
         "icon": "weapon",
         "values": ["broadblade", "gauntlets", "pistols", "rectifier", "sword"]
@@ -110,14 +110,14 @@
         "label": "operator",
         "icon": "character",
         "rarities": ["6", "5"],
-        "attrs": ["elements", "weaponTypes", "classes"]
+        "attrs": ["elements", "weapons", "classes"]
       },
       {
         "name": "weapons",
         "label": "weapon",
         "icon": "weapon",
         "rarities": ["6", "5"],
-        "attrs": ["weaponTypes"]
+        "attrs": ["weapons"]
       }
     ],
     "attrTypes": [
@@ -128,7 +128,7 @@
         "values": ["cyro", "electric", "heat", "nature", "physical"]
       },
       {
-        "name": "weaponTypes",
+        "name": "weapons",
         "label": "Weapon Types",
         "icon": "weapon",
         "values": ["arts unit", "greatsword", "handcannon", "polearm", "sword"]
