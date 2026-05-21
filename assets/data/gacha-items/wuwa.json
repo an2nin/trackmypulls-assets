@@ -5,7 +5,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -13,7 +13,7 @@
       "quality": "5",
       "attributes": {
         "elements": "electro",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -21,7 +21,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -29,7 +29,7 @@
       "quality": "5",
       "attributes": {
         "elements": "electro",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -37,7 +37,7 @@
       "quality": "5",
       "attributes": {
         "elements": "havoc",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -45,7 +45,7 @@
       "quality": "5",
       "attributes": {
         "elements": "havoc",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -53,7 +53,7 @@
       "quality": "5",
       "attributes": {
         "elements": "glacio",
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
@@ -61,7 +61,7 @@
       "quality": "5",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -69,7 +69,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -77,7 +77,7 @@
       "quality": "5",
       "attributes": {
         "elements": "havoc",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -85,7 +85,7 @@
       "quality": "5",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
@@ -93,7 +93,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -101,7 +101,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -109,7 +109,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
@@ -117,7 +117,7 @@
       "quality": "5",
       "attributes": {
         "elements": "glacio",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -125,7 +125,7 @@
       "quality": "5",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -133,7 +133,7 @@
       "quality": "5",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -141,7 +141,7 @@
       "quality": "5",
       "attributes": {
         "elements": "spectro",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -149,7 +149,7 @@
       "quality": "5",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -157,7 +157,7 @@
       "quality": "5",
       "attributes": {
         "elements": "glacio",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -165,7 +165,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -173,7 +173,7 @@
       "quality": "5",
       "attributes": {
         "elements": "spectro",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -181,7 +181,7 @@
       "quality": "5",
       "attributes": {
         "elements": "spectro",
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
@@ -189,7 +189,7 @@
       "quality": "5",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -197,7 +197,7 @@
       "quality": "5",
       "attributes": {
         "elements": "spectro",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -205,7 +205,7 @@
       "quality": "5",
       "attributes": {
         "elements": "havoc",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -213,7 +213,7 @@
       "quality": "5",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -221,7 +221,7 @@
       "quality": "5",
       "attributes": {
         "elements": "havoc",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -229,7 +229,7 @@
       "quality": "5",
       "attributes": {
         "elements": "spectro",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -237,7 +237,7 @@
       "quality": "5",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -245,7 +245,7 @@
       "quality": "5",
       "attributes": {
         "elements": "spectro",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -253,7 +253,7 @@
       "quality": "5",
       "attributes": {
         "elements": "electro",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -261,7 +261,7 @@
       "quality": "5",
       "attributes": {
         "elements": "electro",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -269,7 +269,7 @@
       "quality": "5",
       "attributes": {
         "elements": "spectro",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -277,7 +277,7 @@
       "quality": "5",
       "attributes": {
         "elements": "glacio",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -285,7 +285,7 @@
       "quality": "4",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
@@ -293,7 +293,7 @@
       "quality": "4",
       "attributes": {
         "elements": "glacio",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -301,7 +301,7 @@
       "quality": "4",
       "attributes": {
         "elements": "electro",
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
@@ -309,7 +309,7 @@
       "quality": "4",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
@@ -317,7 +317,7 @@
       "quality": "4",
       "attributes": {
         "elements": "havoc",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -325,7 +325,7 @@
       "quality": "4",
       "attributes": {
         "elements": "electro",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -333,7 +333,7 @@
       "quality": "4",
       "attributes": {
         "elements": "fusion",
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
@@ -341,7 +341,7 @@
       "quality": "4",
       "attributes": {
         "elements": "glacio",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -349,7 +349,7 @@
       "quality": "4",
       "attributes": {
         "elements": "havoc",
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
@@ -357,7 +357,7 @@
       "quality": "4",
       "attributes": {
         "elements": "aero",
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
@@ -365,7 +365,7 @@
       "quality": "4",
       "attributes": {
         "elements": "glacio",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -373,7 +373,7 @@
       "quality": "4",
       "attributes": {
         "elements": "electro",
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     }
   ],
@@ -382,420 +382,420 @@
       "name": "Abyss Surges",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Ages of Harvest",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Blazing Brilliance",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Blazing Justice",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Boson Astrolabe",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Cosmic Ripples",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Daybreaker's Spine",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Defier's Thorn",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Emerald of Genesis",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Emerald Sentence",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Everbright Polestar",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Forged Dwarf Star",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Frostburn",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Kumokiri",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Laser Shearer",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Lethean Elegy",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Luminous Hymn",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Lustrous Razor",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Lux & Umbra",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Moongazer's Sigil",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Phasic Homogenizer",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Pulsation Bracer",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Radiance Cleaver",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Red Spring",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Rime-Draped Sprouts",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Solsworn Ciphers",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Spectrum Blaster",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Starfield Calibrator",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Static Mist",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Stellar Symphony",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Stringmaster",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "The Last Dance",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Thunderflare Dominion",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Tragicomedy",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Unflickering Valor",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Verdant Summit",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Verity's Handle",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Whispers of Sirens",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Wildfire Mark",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Woodland Aria",
       "quality": "5",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Amity Accord",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Cadenza",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Celestial Spiral",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Comet Flare",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Commando of Conviction",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Dauntless Evernight",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Discord",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Endless Collapse",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Fusion Accretion",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Helios Cleaver",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     },
     {
       "name": "Hollow Mirage",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Jinzhou Keeper",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Lunar Cutter",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Marcato",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "gauntlets"
+        "weapons": "gauntlets"
       }
     },
     {
       "name": "Novaburst",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Overture",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "sword"
+        "weapons": "sword"
       }
     },
     {
       "name": "Relativistic Jet",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Undying Flame",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "pistols"
+        "weapons": "pistols"
       }
     },
     {
       "name": "Variation",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "rectifier"
+        "weapons": "rectifier"
       }
     },
     {
       "name": "Waning Redshift",
       "quality": "4",
       "attributes": {
-        "weaponTypes": "broadblade"
+        "weapons": "broadblade"
       }
     }
   ]
