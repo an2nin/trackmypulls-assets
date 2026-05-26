@@ -1,15 +1,15 @@
 
-import endfield from "./endfield";
-import wuwa from "./wuwa";
+import ENDFIELD from "./endfield";
+import WUWA from "./wuwa";
 
 export const games = [
-  endfield,
-  wuwa,
+  ENDFIELD,
+  WUWA,
 ] as const;
 
 export {
-  endfield,
-  wuwa
+  ENDFIELD,
+  WUWA
 };
 
 export default games;

@@ -27,9 +27,7 @@ export default function convertGames(): void {
 
     const baseName = path.basename(file, ".json");
 
-    const variableName = baseName.replace(/[-\s]+(.)?/g, (_, c) =>
-      c ? c.toUpperCase() : "",
-    );
+    const variableName = baseName.replace('-', '_').toUpperCase();
 
     const tsContent = `const ${variableName} = ${JSON.stringify(
       parsed,

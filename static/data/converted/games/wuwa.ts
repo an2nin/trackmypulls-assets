@@ -1,4 +1,4 @@
-const wuwa = {
+const WUWA = {
   "slug": "wuwa",
   "name": "Wuthering Waves",
   "description": "Open World Gacha Game",
@@ -99,4 +99,4 @@ const wuwa = {
   }
 } as const;
 
-export default wuwa;
+export default WUWA;

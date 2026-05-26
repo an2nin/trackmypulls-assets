@@ -1,4 +1,4 @@
-const endfield = {
+const ENDFIELD = {
   "slug": "endfield",
   "name": "Arknights: Endfield",
   "description": "Open World Gacha Game",
@@ -112,4 +112,4 @@ const endfield = {
   }
 } as const;
 
-export default endfield;
+export default ENDFIELD;
