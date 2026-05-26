@@ -1,0 +1,115 @@
+const endfield = {
+  "slug": "endfield",
+  "name": "Arknights: Endfield",
+  "description": "Open World Gacha Game",
+  "gachaTerm": "Headhunt",
+  "image": "",
+  "website": "https://endfield.gryphline.com/en-us",
+  "developer": "Gryphline",
+  "features": {
+    "tracker": true,
+    "collections": true,
+    "import": true,
+    "manualEntry": false
+  },
+  "itemTypes": [
+    {
+      "name": "characters",
+      "label": "operator",
+      "icon": "character",
+      "rarities": [
+        "6",
+        "5"
+      ],
+      "attrs": [
+        "elements",
+        "weapons",
+        "classes"
+      ]
+    },
+    {
+      "name": "weapons",
+      "label": "weapon",
+      "icon": "weapon",
+      "rarities": [
+        "6",
+        "5"
+      ],
+      "attrs": [
+        "weapons"
+      ]
+    }
+  ],
+  "attrTypes": [
+    {
+      "name": "elements",
+      "label": "Elements",
+      "icon": "element",
+      "values": [
+        "cyro",
+        "electric",
+        "heat",
+        "nature",
+        "physical"
+      ]
+    },
+    {
+      "name": "weapons",
+      "label": "Weapon Types",
+      "icon": "weapon",
+      "values": [
+        "arts unit",
+        "greatsword",
+        "handcannon",
+        "polearm",
+        "sword"
+      ]
+    },
+    {
+      "name": "classes",
+      "label": "Class Types",
+      "icon": "class",
+      "values": [
+        "caster",
+        "defender",
+        "guard",
+        "striker",
+        "supporter",
+        "vanguard"
+      ]
+    }
+  ],
+  "collectionConfig": {
+    "characters": {
+      "countOffset": -1,
+      "countLabel": "P"
+    },
+    "weapons": {
+      "countOffset": 0,
+      "countLabel": "P"
+    }
+  },
+  "mappings": {
+    "characters": {
+      "matchedAs": "character",
+      "storedAs": "c"
+    },
+    "weapons": {
+      "matchedAs": "weapon",
+      "storedAs": "w"
+    }
+  },
+  "rarities": {
+    "4": {
+      "colors": "purple"
+    },
+    "5": {
+      "colors": "yellow"
+    },
+    "6": {
+      "colors": "rose"
+    }
+  }
+} as const;
+
+export default endfield;

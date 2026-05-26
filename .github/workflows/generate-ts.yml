@@ -1,0 +1,35 @@
+name: Generate TS
+
+on:
+  push:
+    paths:
+      - "data/**/*.json"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install
+      - run: npm run generate:ts
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add generated
+
+          git diff --cached --quiet || (
+            git commit -m "chore: generate ts files"
+            git push
+          )

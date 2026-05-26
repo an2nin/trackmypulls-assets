@@ -33,7 +33,7 @@ jobs:
       - name: Copy assets
         run: |
           mkdir -p ./main-repo/${{ matrix.target.assets_path }}/images
-          rsync -av --delete ./assets/images/ ./main-repo/${{ matrix.target.assets_path }}/images/
+          rsync -av --delete ./static/assets/images/ ./main-repo/${{ matrix.target.assets_path }}/images/
 
       - name: Commit and push
         run: |
