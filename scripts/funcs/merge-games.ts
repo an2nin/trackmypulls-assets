@@ -14,18 +14,16 @@ export default function mergeGames(): void {
 
   const files = fs.readdirSync(inputDir).filter((f) => f.endsWith(".json"));
 
-  const merged: Record<string, unknown> = {};
+  const merged: unknown[] = [];
 
   for (const file of files) {
     const jsonPath = path.join(inputDir, file);
     const raw = fs.readFileSync(jsonPath, "utf-8");
     try {
       const parsed = JSON.parse(raw);
-      const baseName = path.basename(file, ".json");
-      merged[baseName] = parsed;
+      merged.push(parsed);
     } catch (err) {
-      // Skip invalid JSON files but surface a console message
-      // so callers can investigate.
+      // Skip invalid JSON files but surface a console message so callers can investigate.
       // eslint-disable-next-line no-console
       console.warn(`Skipping invalid JSON file: ${file} — ${err}`);
     }
@@ -35,5 +33,5 @@ export default function mergeGames(): void {
   fs.writeFileSync(outPath, JSON.stringify(merged, null, 2), "utf-8");
 
   // eslint-disable-next-line no-console
-  console.log(`Wrote merged JSON to ${outPath}`);
+  console.log(`Wrote merged JSON (array) to ${outPath}`);
 }

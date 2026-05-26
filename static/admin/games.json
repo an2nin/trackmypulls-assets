@@ -1,5 +1,5 @@
-{
-  "endfield": {
+[
+  {
     "slug": "endfield",
     "name": "Arknights: Endfield",
     "description": "Open World Gacha Game",
@@ -112,7 +112,7 @@
       }
     }
   },
-  "wuwa": {
+  {
     "slug": "wuwa",
     "name": "Wuthering Waves",
     "description": "Open World Gacha Game",
@@ -212,4 +212,4 @@
       }
     }
   }
-}
+]
