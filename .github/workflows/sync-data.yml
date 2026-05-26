@@ -1,0 +1,41 @@
+name: Sync assets to main repo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        target:
+          - name: trackmypulls
+            repository: an2nin/trackmypulls
+            ref: master
+            assets_path: public/assets
+    steps:
+      - name: Checkout assets repo
+        uses: actions/checkout@v4
+
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ matrix.target.repository }}
+          path: main-repo
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
+          ref: ${{ matrix.target.ref }}
+
+      - name: Copy assets
+        run: |
+          mkdir -p ./main-repo/${{ matrix.target.assets_path }}/images
+          rsync -av --delete ./static/assets/images/ ./main-repo/${{ matrix.target.assets_path }}/images/
+
+      - name: Commit and push
+        run: |
+          cd main-repo
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add "${{ matrix.target.assets_path }}/images"
+          git commit -m "sync image assets from assets repo" || echo "No changes to commit"
+          git push origin HEAD:${{ matrix.target.ref }}
