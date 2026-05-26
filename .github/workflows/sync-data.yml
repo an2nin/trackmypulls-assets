@@ -1,4 +1,4 @@
-name: Sync assets to main repo
+name: Sync data to main repo
 
 on:
   workflow_dispatch:
@@ -13,7 +13,7 @@ jobs:
           - name: trackmypulls
             repository: an2nin/trackmypulls
             ref: master
-            assets_path: public/assets
+            data_path: app/lib/config
     steps:
       - name: Checkout assets repo
         uses: actions/checkout@v4
@@ -28,14 +28,14 @@ jobs:
 
       - name: Copy assets
         run: |
-          mkdir -p ./main-repo/${{ matrix.target.assets_path }}/images
-          rsync -av --delete ./static/assets/images/ ./main-repo/${{ matrix.target.assets_path }}/images/
+          mkdir -p ./main-repo/${{ matrix.target.data_path }}/games
+          rsync -av --delete ./static/data/converted/ ./main-repo/${{ matrix.target.data_path }}/
 
       - name: Commit and push
         run: |
           cd main-repo
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add "${{ matrix.target.assets_path }}/images"
-          git commit -m "sync image assets from assets repo" || echo "No changes to commit"
+          git add "${{ matrix.target.data_path }}/images"
+          git commit -m "sync image data from data repo" || echo "No changes to commit"
           git push origin HEAD:${{ matrix.target.ref }}
