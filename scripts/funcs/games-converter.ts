@@ -4,6 +4,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import gachaColors from './../../static/data/config/others/gacha-colors.json';
 
 export default function convertGames(): void {
   const inputDir = path.join(process.cwd(), "./static/data/config/games");
@@ -24,8 +25,15 @@ export default function convertGames(): void {
 
     const raw = fs.readFileSync(jsonPath, "utf-8");
     const parsed = JSON.parse(raw);
+    const currentRarityStyles = parsed.rarityStyles;
+    const processedRarityStyles = Object.fromEntries(
+      Object.entries(currentRarityStyles).map(([rarity, color]) => {
+        return [rarity, gachaColors[color as keyof typeof gachaColors]] as const;
+      }),
+    );
+    parsed.rarityStyles = processedRarityStyles;
 
-    const baseName = path.basename(file, ".json");
+    const baseName = path.basename(file, ".json").split('-')[1];
 
     const variableName = baseName.replace('-', '_').toUpperCase();
 
@@ -33,7 +41,7 @@ export default function convertGames(): void {
       parsed,
       null,
       2,
-    )} as const;
+    )};
 
 export default ${variableName};
 `;
@@ -50,15 +58,11 @@ export default ${variableName};
   const indexContent = `
 ${indexImports.join("\n")}
 
-export const games = [
+const GAMES = [
 ${arrayEntries.join("\n")}
 ] as const;
 
-export {
-  ${indexExports.join(",\n  ")}
-};
-
-export default games;
+export default GAMES;
 `;
 
   fs.writeFileSync(path.join(outputDir, "index.ts"), indexContent);

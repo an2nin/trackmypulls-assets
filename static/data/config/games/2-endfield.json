@@ -75,9 +75,9 @@
       "storedAs": "w"
     }
   },
-  "rarities": {
-    "6": { "colors": "rose" },
-    "5": { "colors": "yellow" },
-    "4": { "colors": "purple" }
+  "rarityStyles": {
+    "6": "rose",
+    "5": "yellow",
+    "4": "purple"
   }
 }
