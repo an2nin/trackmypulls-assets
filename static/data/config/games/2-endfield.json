@@ -79,5 +79,63 @@
     "6": "rose",
     "5": "yellow",
     "4": "purple"
-  }
+  },
+  "banners": [
+    {
+      "id": "special",
+      "pool_id": "E_CharacterGachaPoolType_Special",
+      "name": "Chartered Headhunting",
+      "currency": "chartered_hh_permit",
+      "duration": "limited",
+      "icon": "character",
+      "rate": 0.8,
+      "hasBannerInfo": true,
+      "pityMaxByRarity": { "6": 80, "5": 10 }
+    },
+    {
+      "id": "joint",
+      "pool_id": "E_CharacterGachaPoolType_Joint",
+      "name": "Rerun Headhunting",
+      "currency": "chartered_hh_permit",
+      "duration": "limited",
+      "icon": "character",
+      "rate": 0.8,
+      "hasBannerInfo": false,
+      "pityMaxByRarity": { "6": 80, "5": 10 }
+    },
+    {
+      "id": "arsenal",
+      "pool_id": "E_CharacterGachaPoolType_Arsenal",
+      "name": "Arsenal Issues",
+      "currency": "arsenal_ticket",
+      "duration": "limited",
+      "icon": "weapon",
+      "rate": 4.0,
+      "hasBannerInfo": true,
+      "pityMaxByRarity": { "6": 40, "5": 10 },
+      "hasSubBanners": true
+    },
+    {
+      "id": "standard",
+      "pool_id": "E_CharacterGachaPoolType_Standard",
+      "name": "Basic Headhunting",
+      "currency": "basic_hh_permit",
+      "duration": "permanent",
+      "icon": "character",
+      "rate": 0.8,
+      "hasBannerInfo": false,
+      "pityMaxByRarity": { "6": 80, "5": 10 }
+    },
+    {
+      "id": "beginner",
+      "pool_id": "E_CharacterGachaPoolType_Beginner",
+      "name": "New Horizons Headhunting",
+      "currency": "new_horizons_hh_permit",
+      "duration": "permanent",
+      "icon": "character",
+      "rate": 0.8,
+      "hasBannerInfo": false,
+      "pityMaxByRarity": { "6": 40, "5": 10 }
+    }
+  ]
 }

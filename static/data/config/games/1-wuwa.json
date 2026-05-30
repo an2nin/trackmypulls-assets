@@ -66,5 +66,80 @@
     "5": "yellow",
     "4": "purple",
     "3": "blue"
-  }
+  },
+  "banners": [
+    {
+      "id": "featured_resonator",
+      "pool_id": 1,
+      "name": "Featured Resonator",
+      "currency": "radiant_tide",
+      "duration": "limited",
+      "icon": "character",
+      "rate": 0.8,
+      "pityMaxByRarity": { "5": 80, "4": 10 }
+    },
+    {
+      "id": "featured_weapon",
+      "pool_id": 2,
+      "name": "Featured Weapon",
+      "currency": "forging_tide",
+      "duration": "limited",
+      "icon": "weapon",
+      "rate": 0.8,
+      "pityMaxByRarity": { "5": 80, "4": 10 }
+    },
+    {
+      "id": "standard_resonator",
+      "pool_id": 3,
+      "name": "Standard Resonator",
+      "currency": "lustrous_tide",
+      "duration": "permanent",
+      "icon": "character",
+      "rate": 0.8,
+      "pityMaxByRarity": { "5": 80, "4": 10 }
+    },
+    {
+      "id": "standard_weapon",
+      "pool_id": 4,
+      "name": "Standard Weapon",
+      "currency": "lustrous_tide",
+      "duration": "permanent",
+      "icon": "weapon",
+      "rate": 0.8,
+      "pityMaxByRarity": { "5": 80, "4": 10 }
+    },
+    {
+      "id": "beginner",
+      "pool_id": 5,
+      "name": "Beginner",
+      "currency": "lustrous_tide",
+      "duration": "limited",
+      "icon": "character",
+      "rate": 0.8,
+      "pityMaxByRarity": { "5": 50, "4": 10 },
+      "isHidden": true
+    },
+    {
+      "id": "beginner_choice",
+      "pool_id": 6,
+      "name": "Beginner Choice",
+      "currency": "lustrous_tide",
+      "duration": "limited",
+      "icon": "character",
+      "rate": 0.8,
+      "pityMaxByRarity": { "5": 80, "4": 10 },
+      "isHidden": true
+    },
+    {
+      "id": "giveback_event",
+      "pool_id": 7,
+      "name": "Giveback Event",
+      "currency": "lustrous_tide",
+      "duration": "limited",
+      "icon": "character",
+      "rate": 0.8,
+      "pityMaxByRarity": { "5": 1, "4": 0 },
+      "isHidden": true
+    }
+  ]
 }
