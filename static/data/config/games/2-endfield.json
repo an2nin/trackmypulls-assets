@@ -75,11 +75,23 @@
       "storedAs": "w"
     }
   },
-  "rarityStyles": {
-    "6": "rose",
-    "5": "yellow",
-    "4": "purple"
-  },
+  "rarities": [
+    {
+      "name": "6",
+      "label": "6★",
+      "styles": "rose"
+    },
+    {
+      "name": "5",
+      "label": "5★",
+      "styles": "yellow"
+    },
+    {
+      "name": "4",
+      "label": "4★",
+      "styles": "purple"
+    }
+  ],
   "banners": [
     {
       "id": "special",
@@ -89,7 +101,6 @@
       "duration": "limited",
       "icon": "character",
       "rate": 0.8,
-      "hasBannerInfo": true,
       "pityMaxByRarity": { "6": 80, "5": 10 }
     },
     {
@@ -100,7 +111,6 @@
       "duration": "limited",
       "icon": "character",
       "rate": 0.8,
-      "hasBannerInfo": false,
       "pityMaxByRarity": { "6": 80, "5": 10 }
     },
     {
@@ -111,9 +121,8 @@
       "duration": "limited",
       "icon": "weapon",
       "rate": 4.0,
-      "hasBannerInfo": true,
       "pityMaxByRarity": { "6": 40, "5": 10 },
-      "hasSubBanners": true
+      "canSplitBannersBy": "b"
     },
     {
       "id": "standard",
@@ -123,7 +132,6 @@
       "duration": "permanent",
       "icon": "character",
       "rate": 0.8,
-      "hasBannerInfo": false,
       "pityMaxByRarity": { "6": 80, "5": 10 }
     },
     {
@@ -134,7 +142,6 @@
       "duration": "permanent",
       "icon": "character",
       "rate": 0.8,
-      "hasBannerInfo": false,
       "pityMaxByRarity": { "6": 40, "5": 10 }
     }
   ]

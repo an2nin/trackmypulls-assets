@@ -62,11 +62,23 @@
       "storedAs": "w"
     }
   },
-  "rarityStyles": {
-    "5": "yellow",
-    "4": "purple",
-    "3": "blue"
-  },
+  "rarities": [
+    {
+      "name": "5",
+      "label": "5★",
+      "styles": "yellow"
+    },
+    {
+      "name": "4",
+      "label": "4★",
+      "styles": "purple"
+    },
+    {
+      "name": "3",
+      "label": "3★",
+      "styles": "blue"
+    }
+  ],
   "banners": [
     {
       "id": "featured_resonator",
