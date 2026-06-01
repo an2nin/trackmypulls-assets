@@ -88,7 +88,8 @@
       "duration": "limited",
       "icon": "character",
       "rate": 0.8,
-      "pityMaxByRarity": { "5": 80, "4": 10 }
+      "pityMaxByRarity": { "5": 80, "4": 10 },
+      "topResetPityForAll": true
     },
     {
       "id": "featured_weapon",
@@ -98,7 +99,8 @@
       "duration": "limited",
       "icon": "weapon",
       "rate": 0.8,
-      "pityMaxByRarity": { "5": 80, "4": 10 }
+      "pityMaxByRarity": { "5": 80, "4": 10 },
+      "topResetPityForAll": true
     },
     {
       "id": "standard_resonator",
@@ -108,7 +110,8 @@
       "duration": "permanent",
       "icon": "character",
       "rate": 0.8,
-      "pityMaxByRarity": { "5": 80, "4": 10 }
+      "pityMaxByRarity": { "5": 80, "4": 10 },
+      "topResetPityForAll": true
     },
     {
       "id": "standard_weapon",
@@ -118,7 +121,8 @@
       "duration": "permanent",
       "icon": "weapon",
       "rate": 0.8,
-      "pityMaxByRarity": { "5": 80, "4": 10 }
+      "pityMaxByRarity": { "5": 80, "4": 10 },
+      "topResetPityForAll": true
     },
     {
       "id": "beginner",
@@ -129,7 +133,8 @@
       "icon": "character",
       "rate": 0.8,
       "pityMaxByRarity": { "5": 50, "4": 10 },
-      "isHidden": true
+      "isHidden": true,
+      "topResetPityForAll": true
     },
     {
       "id": "beginner_choice",
@@ -140,7 +145,8 @@
       "icon": "character",
       "rate": 0.8,
       "pityMaxByRarity": { "5": 80, "4": 10 },
-      "isHidden": true
+      "isHidden": true,
+      "topResetPityForAll": true
     },
     {
       "id": "giveback_event",
@@ -151,7 +157,8 @@
       "icon": "character",
       "rate": 0.8,
       "pityMaxByRarity": { "5": 1, "4": 0 },
-      "isHidden": true
+      "isHidden": true,
+      "topResetPityForAll": true
     }
   ]
 }

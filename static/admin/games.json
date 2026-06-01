@@ -116,7 +116,8 @@
         "pityMaxByRarity": {
           "4": 10,
           "5": 80
-        }
+        },
+        "topResetPityForAll": true
       },
       {
         "id": "featured_weapon",
@@ -129,7 +130,8 @@
         "pityMaxByRarity": {
           "4": 10,
           "5": 80
-        }
+        },
+        "topResetPityForAll": true
       },
       {
         "id": "standard_resonator",
@@ -142,7 +144,8 @@
         "pityMaxByRarity": {
           "4": 10,
           "5": 80
-        }
+        },
+        "topResetPityForAll": true
       },
       {
         "id": "standard_weapon",
@@ -155,7 +158,8 @@
         "pityMaxByRarity": {
           "4": 10,
           "5": 80
-        }
+        },
+        "topResetPityForAll": true
       },
       {
         "id": "beginner",
@@ -169,7 +173,8 @@
           "4": 10,
           "5": 50
         },
-        "isHidden": true
+        "isHidden": true,
+        "topResetPityForAll": true
       },
       {
         "id": "beginner_choice",
@@ -183,7 +188,8 @@
           "4": 10,
           "5": 80
         },
-        "isHidden": true
+        "isHidden": true,
+        "topResetPityForAll": true
       },
       {
         "id": "giveback_event",
@@ -197,7 +203,8 @@
           "4": 0,
           "5": 1
         },
-        "isHidden": true
+        "isHidden": true,
+        "topResetPityForAll": true
       }
     ]
   },
@@ -331,7 +338,8 @@
         "pityMaxByRarity": {
           "5": 10,
           "6": 80
-        }
+        },
+        "topResetPityForAll": true
       },
       {
         "id": "joint",
@@ -344,7 +352,8 @@
         "pityMaxByRarity": {
           "5": 10,
           "6": 80
-        }
+        },
+        "topResetPityForAll": true
       },
       {
         "id": "arsenal",
@@ -358,6 +367,7 @@
           "5": 10,
           "6": 40
         },
+        "topResetPityForAll": true,
         "canSplitBannersBy": "b"
       },
       {
@@ -371,7 +381,8 @@
         "pityMaxByRarity": {
           "5": 10,
           "6": 80
-        }
+        },
+        "topResetPityForAll": true
       },
       {
         "id": "beginner",
@@ -384,7 +395,8 @@
         "pityMaxByRarity": {
           "5": 10,
           "6": 40
-        }
+        },
+        "topResetPityForAll": true
       }
     ]
   }

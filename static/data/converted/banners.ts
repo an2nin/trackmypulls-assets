@@ -11,7 +11,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "4": 10,
         "5": 80
-      }
+      },
+      "topResetPityForAll": true
     },
     {
       "id": "featured_weapon",
@@ -24,7 +25,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "4": 10,
         "5": 80
-      }
+      },
+      "topResetPityForAll": true
     },
     {
       "id": "standard_resonator",
@@ -37,7 +39,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "4": 10,
         "5": 80
-      }
+      },
+      "topResetPityForAll": true
     },
     {
       "id": "standard_weapon",
@@ -50,7 +53,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "4": 10,
         "5": 80
-      }
+      },
+      "topResetPityForAll": true
     },
     {
       "id": "beginner",
@@ -64,7 +68,8 @@ const BANNERS = {
         "4": 10,
         "5": 50
       },
-      "isHidden": true
+      "isHidden": true,
+      "topResetPityForAll": true
     },
     {
       "id": "beginner_choice",
@@ -78,7 +83,8 @@ const BANNERS = {
         "4": 10,
         "5": 80
       },
-      "isHidden": true
+      "isHidden": true,
+      "topResetPityForAll": true
     },
     {
       "id": "giveback_event",
@@ -92,7 +98,8 @@ const BANNERS = {
         "4": 0,
         "5": 1
       },
-      "isHidden": true
+      "isHidden": true,
+      "topResetPityForAll": true
     }
   ],
   "endfield": [
@@ -107,7 +114,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "5": 10,
         "6": 80
-      }
+      },
+      "topResetPityForAll": true
     },
     {
       "id": "joint",
@@ -120,7 +128,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "5": 10,
         "6": 80
-      }
+      },
+      "topResetPityForAll": true
     },
     {
       "id": "arsenal",
@@ -134,6 +143,7 @@ const BANNERS = {
         "5": 10,
         "6": 40
       },
+      "topResetPityForAll": true,
       "canSplitBannersBy": "b"
     },
     {
@@ -147,7 +157,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "5": 10,
         "6": 80
-      }
+      },
+      "topResetPityForAll": true
     },
     {
       "id": "beginner",
@@ -160,7 +171,8 @@ const BANNERS = {
       "pityMaxByRarity": {
         "5": 10,
         "6": 40
-      }
+      },
+      "topResetPityForAll": true
     }
   ]
 };
