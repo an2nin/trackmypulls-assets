@@ -339,7 +339,8 @@
           "5": 10,
           "6": 80
         },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "ignorePityOnFreePull": true
       },
       {
         "id": "joint",
@@ -353,7 +354,8 @@
           "5": 10,
           "6": 80
         },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "ignorePityOnFreePull": true
       },
       {
         "id": "arsenal",
@@ -368,7 +370,8 @@
           "6": 40
         },
         "topResetPityForAll": true,
-        "canSplitBannersBy": "b"
+        "canSplitBannersBy": "b",
+        "ignorePityOnFreePull": true
       },
       {
         "id": "standard",
@@ -382,7 +385,8 @@
           "5": 10,
           "6": 80
         },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "ignorePityOnFreePull": true
       },
       {
         "id": "beginner",
@@ -396,7 +400,8 @@
           "5": 10,
           "6": 40
         },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "ignorePityOnFreePull": true
       }
     ]
   }

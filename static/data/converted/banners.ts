@@ -115,7 +115,8 @@ const BANNERS = {
         "5": 10,
         "6": 80
       },
-      "topResetPityForAll": true
+      "topResetPityForAll": true,
+      "ignorePityOnFreePull": true
     },
     {
       "id": "joint",
@@ -129,7 +130,8 @@ const BANNERS = {
         "5": 10,
         "6": 80
       },
-      "topResetPityForAll": true
+      "topResetPityForAll": true,
+      "ignorePityOnFreePull": true
     },
     {
       "id": "arsenal",
@@ -144,7 +146,8 @@ const BANNERS = {
         "6": 40
       },
       "topResetPityForAll": true,
-      "canSplitBannersBy": "b"
+      "canSplitBannersBy": "b",
+      "ignorePityOnFreePull": true
     },
     {
       "id": "standard",
@@ -158,7 +161,8 @@ const BANNERS = {
         "5": 10,
         "6": 80
       },
-      "topResetPityForAll": true
+      "topResetPityForAll": true,
+      "ignorePityOnFreePull": true
     },
     {
       "id": "beginner",
@@ -172,7 +176,8 @@ const BANNERS = {
         "5": 10,
         "6": 40
       },
-      "topResetPityForAll": true
+      "topResetPityForAll": true,
+      "ignorePityOnFreePull": true
     }
   ]
 };
