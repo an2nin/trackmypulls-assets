@@ -55,6 +55,15 @@
       }
     },
     {
+      "name": "Mi Fu",
+      "quality": "6",
+        "attributes": {
+        "elements": "physical",
+        "weapons": "greatsword",
+        "classes": "guard"
+      }
+    },
+    {
       "name": "Pogranichnik",
       "quality": "6",
         "attributes": {
@@ -183,10 +192,24 @@
   ],
   "weapons": [
     {
+      "name": "Amaranthine Tassel",
+      "quality": "6",
+      "attributes": {
+        "weapons": "greatsword"
+      }
+    },
+    {
       "name": "Artzy Tyrannical",
       "quality": "6",
       "attributes": {
         "weapons": "handcannon"
+      }
+    },
+    {
+      "name": "Beacon of Duty",
+      "quality": "6",
+      "attributes": {
+        "weapons": "polearm"
       }
     },
     {
@@ -341,6 +364,13 @@
       "quality": "6",
       "attributes": {
         "weapons": "arts unit"
+      }
+    },
+    {
+      "name": "Phantom Pain",
+      "quality": "6",
+      "attributes": {
+        "weapons": "greatsword"
       }
     },
     {
