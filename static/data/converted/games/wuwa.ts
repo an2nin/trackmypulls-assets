@@ -17,6 +17,7 @@ const WUWA = {
       "name": "characters",
       "label": "Resonators",
       "icon": "character",
+      "mappedTo": "r",
       "rarities": [
         "5",
         "4"
@@ -30,6 +31,7 @@ const WUWA = {
       "name": "weapons",
       "label": "Weapons",
       "icon": "weapon",
+      "mappedTo": "w",
       "rarities": [
         "5",
         "4"
@@ -89,7 +91,7 @@ const WUWA = {
   "rarities": [
     {
       "name": "5",
-      "label": "5★",
+      "label": "5✦",
       "styles": {
         "text": "text-yellow-400",
         "background": "bg-yellow-500",
@@ -101,7 +103,7 @@ const WUWA = {
     },
     {
       "name": "4",
-      "label": "4★",
+      "label": "4✦",
       "styles": {
         "text": "text-purple-400",
         "background": "bg-purple-500",
@@ -113,7 +115,7 @@ const WUWA = {
     },
     {
       "name": "3",
-      "label": "3★",
+      "label": "3✦",
       "styles": {
         "text": "text-blue-400",
         "background": "bg-blue-500",

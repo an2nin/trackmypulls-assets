@@ -161,6 +161,22 @@
       }
     },
     {
+      "name": "Lucilla",
+      "quality": "5",
+      "attributes": {
+        "elements": "glacio",
+        "weapons": "rectifier"
+      }
+    },
+    {
+      "name": "Lucy",
+      "quality": "5",
+      "attributes": {
+        "elements": "spectro",
+        "weapons": "pistols"
+      }
+    },
+    {
       "name": "Lupa",
       "quality": "5",
       "attributes": {
@@ -238,6 +254,14 @@
       "attributes": {
         "elements": "aero",
         "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Rebecca",
+      "quality": "5",
+      "attributes": {
+        "elements": "electro",
+        "weapons": "pistols"
       }
     },
     {
@@ -463,6 +487,13 @@
       }
     },
     {
+      "name": "Freeze Frame",
+      "quality": "5",
+      "attributes": {
+        "weapons": "rectifier"
+      }
+    },
+    {
       "name": "Frostburn",
       "quality": "5",
       "attributes": {
@@ -530,6 +561,20 @@
       "quality": "5",
       "attributes": {
         "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Skull Thrasher",
+      "quality": "5",
+      "attributes": {
+        "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Spectral Trigger",
+      "quality": "5",
+      "attributes": {
+        "weapons": "pistols"
       }
     },
     {

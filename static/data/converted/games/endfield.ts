@@ -17,6 +17,7 @@ const ENDFIELD = {
       "name": "characters",
       "label": "operator",
       "icon": "character",
+      "mappedTo": "c",
       "rarities": [
         "6",
         "5"
@@ -31,6 +32,7 @@ const ENDFIELD = {
       "name": "weapons",
       "label": "weapon",
       "icon": "weapon",
+      "mappedTo": "w",
       "rarities": [
         "6",
         "5"
@@ -102,7 +104,7 @@ const ENDFIELD = {
   "rarities": [
     {
       "name": "6",
-      "label": "6★",
+      "label": "6✦",
       "styles": {
         "text": "text-rose-400",
         "background": "bg-rose-500",
@@ -114,7 +116,7 @@ const ENDFIELD = {
     },
     {
       "name": "5",
-      "label": "5★",
+      "label": "5✦",
       "styles": {
         "text": "text-yellow-400",
         "background": "bg-yellow-500",
@@ -126,7 +128,7 @@ const ENDFIELD = {
     },
     {
       "name": "4",
-      "label": "4★",
+      "label": "4✦",
       "styles": {
         "text": "text-purple-400",
         "background": "bg-purple-500",

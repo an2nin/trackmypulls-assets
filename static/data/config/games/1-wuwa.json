@@ -17,6 +17,7 @@
       "name": "characters",
       "label": "Resonators",
       "icon": "character",
+      "mappedTo": "r",
       "rarities": ["5", "4"],
       "attrs": ["elements", "weapons"]
     },
@@ -24,6 +25,7 @@
       "name": "weapons",
       "label": "Weapons",
       "icon": "weapon",
+      "mappedTo": "w",
       "rarities": ["5", "4"],
       "attrs": ["weapons"]
     }
@@ -65,17 +67,17 @@
   "rarities": [
     {
       "name": "5",
-      "label": "5★",
+      "label": "5✦",
       "styles": "yellow"
     },
     {
       "name": "4",
-      "label": "4★",
+      "label": "4✦",
       "styles": "purple"
     },
     {
       "name": "3",
-      "label": "3★",
+      "label": "3✦",
       "styles": "blue"
     }
   ],
