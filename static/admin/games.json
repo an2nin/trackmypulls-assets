@@ -136,6 +136,34 @@
         "topResetPityForAll": true
       },
       {
+        "id": "cp_collab_resonator",
+        "pool_id": 10,
+        "name": "Collab Resonator",
+        "currency": "radiant_tide",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "topResetPityForAll": true
+      },
+      {
+        "id": "cp_collab_weapon",
+        "pool_id": 11,
+        "name": "Collab Weapon",
+        "currency": "forging_tide",
+        "duration": "limited",
+        "icon": "weapon",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "topResetPityForAll": true
+      },
+      {
         "id": "standard_resonator",
         "pool_id": 3,
         "name": "Standard Resonator",
