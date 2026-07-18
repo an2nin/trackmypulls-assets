@@ -1,18 +1,36 @@
 {
   "characters": [
     {
+      "name": "Arcane",
+      "quality": "6",
+      "attributes": {
+        "elements": "nature",
+        "weapons": "arts unit",
+        "classes": "caster"
+      }
+    },
+    {
       "name": "Ardelia",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "nature",
         "weapons": "arts unit",
         "classes": "supporter"
       }
     },
     {
+      "name": "Camille",
+      "quality": "6",
+      "attributes": {
+        "elements": "heat",
+        "weapons": "polearm",
+        "classes": "vanguard"
+      }
+    },
+    {
       "name": "Ember",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "heat",
         "weapons": "greatsword",
         "classes": "defender"
@@ -21,7 +39,7 @@
     {
       "name": "Gilberta",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "nature",
         "weapons": "arts unit",
         "classes": "supporter"
@@ -30,7 +48,7 @@
     {
       "name": "Laevatain",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "heat",
         "weapons": "sword",
         "classes": "striker"
@@ -39,7 +57,7 @@
     {
       "name": "Last Rite",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "cyro",
         "weapons": "greatsword",
         "classes": "striker"
@@ -48,7 +66,7 @@
     {
       "name": "Lifeng",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "physical",
         "weapons": "polearm",
         "classes": "guard"
@@ -57,7 +75,7 @@
     {
       "name": "Mi Fu",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "physical",
         "weapons": "greatsword",
         "classes": "guard"
@@ -66,7 +84,7 @@
     {
       "name": "Pogranichnik",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "physical",
         "weapons": "sword",
         "classes": "vanguard"
@@ -75,7 +93,7 @@
     {
       "name": "Rossi",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "physical",
         "weapons": "sword",
         "classes": "guard"
@@ -84,7 +102,7 @@
     {
       "name": "Tangtang",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "cyro",
         "weapons": "handcannon",
         "classes": "caster"
@@ -93,7 +111,7 @@
     {
       "name": "Yvonne",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "cyro",
         "weapons": "handcannon",
         "classes": "striker"
@@ -102,7 +120,7 @@
     {
       "name": "Zhuang Fangyi",
       "quality": "6",
-        "attributes": {
+      "attributes": {
         "elements": "electric",
         "weapons": "arts unit",
         "classes": "striker"
@@ -269,6 +287,13 @@
       }
     },
     {
+      "name": "Farsight",
+      "quality": "6",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Forgeborn Scathe",
       "quality": "6",
       "attributes": {
@@ -290,6 +315,13 @@
       }
     },
     {
+      "name": "Golden Age",
+      "quality": "6",
+      "attributes": {
+        "weapons": "polearm"
+      }
+    },
+    {
       "name": "Grand Vision",
       "quality": "6",
       "attributes": {
@@ -308,6 +340,13 @@
       "quality": "6",
       "attributes": {
         "weapons": "polearm"
+      }
+    },
+    {
+      "name": "Junction Point",
+      "quality": "6",
+      "attributes": {
+        "weapons": "arts unit"
       }
     },
     {
@@ -399,6 +438,13 @@
       "quality": "6",
       "attributes": {
         "weapons": "greatsword"
+      }
+    },
+    {
+      "name": "Type 42: Solemn Phalanx",
+      "quality": "6",
+      "attributes": {
+        "weapons": "arts unit"
       }
     },
     {
