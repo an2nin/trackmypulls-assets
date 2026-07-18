@@ -425,6 +425,13 @@
       }
     },
     {
+      "name": "Azure Oath",
+      "quality": "5",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Blazing Brilliance",
       "quality": "5",
       "attributes": {
@@ -593,7 +600,7 @@
       }
     },
     {
-      "name": "Skull Thrasher",
+      "name": "Skull Thresher",
       "quality": "5",
       "attributes": {
         "weapons": "pistols"
