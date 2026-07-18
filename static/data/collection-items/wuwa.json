@@ -233,6 +233,14 @@
       }
     },
     {
+      "name": "Rebecca",
+      "quality": "5",
+      "attributes": {
+        "elements": "electro",
+        "weapons": "pistols"
+      }
+    },
+    {
       "name": "Roccia",
       "quality": "5",
       "attributes": {
@@ -257,14 +265,6 @@
       }
     },
     {
-      "name": "Rebecca",
-      "quality": "5",
-      "attributes": {
-        "elements": "electro",
-        "weapons": "pistols"
-      }
-    },
-    {
       "name": "Verina",
       "quality": "5",
       "attributes": {
@@ -278,6 +278,14 @@
       "attributes": {
         "elements": "electro",
         "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Yangyang: Xuanling",
+      "quality": "5",
+      "attributes": {
+        "elements": "havoc",
+        "weapons": "sword"
       }
     },
     {
@@ -564,20 +572,6 @@
       }
     },
     {
-      "name": "Skull Thrasher",
-      "quality": "5",
-      "attributes": {
-        "weapons": "pistols"
-      }
-    },
-    {
-      "name": "Spectral Trigger",
-      "quality": "5",
-      "attributes": {
-        "weapons": "pistols"
-      }
-    },
-    {
       "name": "Radiance Cleaver",
       "quality": "5",
       "attributes": {
@@ -599,10 +593,24 @@
       }
     },
     {
+      "name": "Skull Thrasher",
+      "quality": "5",
+      "attributes": {
+        "weapons": "pistols"
+      }
+    },
+    {
       "name": "Solsworn Ciphers",
       "quality": "5",
       "attributes": {
         "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Spectral Trigger",
+      "quality": "5",
+      "attributes": {
+        "weapons": "pistols"
       }
     },
     {
