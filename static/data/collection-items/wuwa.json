@@ -137,6 +137,14 @@
       }
     },
     {
+      "name": "Jingran",
+      "quality": "5",
+      "attributes": {
+        "elements": "fusion",
+        "weapons": "broadblade"
+      }
+    },
+    {
       "name": "Jinhsi",
       "quality": "5",
       "attributes": {
@@ -225,6 +233,14 @@
       }
     },
     {
+      "name": "Qingxiao",
+      "quality": "5",
+      "attributes": {
+        "elements": "aero",
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Qiuyuan",
       "quality": "5",
       "attributes": {
@@ -262,6 +278,14 @@
       "attributes": {
         "elements": "aero",
         "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Suisui",
+      "quality": "5",
+      "attributes": {
+        "elements": "glacio",
+        "weapons": "rectifier"
       }
     },
     {
@@ -495,6 +519,13 @@
       }
     },
     {
+      "name": "Firstlight's Herald",
+      "quality": "5",
+      "attributes": {
+        "weapons": "rectifier"
+      }
+    },
+    {
       "name": "Forged Dwarf Star",
       "quality": "5",
       "attributes": {
@@ -510,6 +541,13 @@
     },
     {
       "name": "Frostburn",
+      "quality": "5",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
+      "name": "Glint of Clouds",
       "quality": "5",
       "attributes": {
         "weapons": "sword"
@@ -660,6 +698,13 @@
       "quality": "5",
       "attributes": {
         "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Thousandfold Deliverance",
+      "quality": "5",
+      "attributes": {
+        "weapons": "broadblade"
       }
     },
     {
