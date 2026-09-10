@@ -73,6 +73,15 @@
       }
     },
     {
+      "name": "Liino",
+      "quality": "6",
+      "attributes": {
+        "elements": "electric",
+        "weapons": "polearm",
+        "classes": "supporter"
+      }
+    },
+    {
       "name": "Mi Fu",
       "quality": "6",
       "attributes": {
@@ -106,6 +115,15 @@
         "elements": "cyro",
         "weapons": "handcannon",
         "classes": "caster"
+      }
+    },
+    {
+      "name": "Typhoeus",
+      "quality": "6",
+      "attributes": {
+        "elements": "nature",
+        "weapons": "arts unit",
+        "classes": "striker"
       }
     },
     {
@@ -225,6 +243,13 @@
     },
     {
       "name": "Beacon of Duty",
+      "quality": "6",
+      "attributes": {
+        "weapons": "polearm"
+      }
+    },
+    {
+      "name": "Bedazzling Night Debut",
       "quality": "6",
       "attributes": {
         "weapons": "polearm"
@@ -420,6 +445,13 @@
       }
     },
     {
+      "name": "Suffering's End",
+      "quality": "6",
+      "attributes": {
+        "weapons": "arts unit"
+      }
+    },
+    {
       "name": "Sundered Prince",
       "quality": "6",
       "attributes": {
@@ -442,6 +474,13 @@
     },
     {
       "name": "Type 42: Solemn Phalanx",
+      "quality": "6",
+      "attributes": {
+        "weapons": "arts unit"
+      }
+    },
+    {
+      "name": "Umbra of Frigid Eventide",
       "quality": "6",
       "attributes": {
         "weapons": "arts unit"
