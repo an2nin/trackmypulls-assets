@@ -199,6 +199,15 @@
       }
     },
     {
+      "name": "Purrchena",
+      "quality": "5",
+      "attributes": {
+        "elements": "physical",
+        "weapons": "sword",
+        "classes": "defender"
+      }
+    },
+    {
       "name": "Snowshine",
       "quality": "5",
       "attributes": {
@@ -540,6 +549,13 @@
       "quality": "5",
       "attributes": {
         "weapons": "polearm"
+      }
+    },
+    {
+      "name": "Dessert Moment",
+      "quality": "5",
+      "attributes": {
+        "weapons": "sword"
       }
     },
     {
