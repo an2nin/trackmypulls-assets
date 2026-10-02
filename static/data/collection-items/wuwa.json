@@ -121,6 +121,14 @@
       }
     },
     {
+      "name": "Hsin",
+      "quality": "5",
+      "attributes": {
+        "elements": "electro",
+        "weapons": "rectifier"
+      }
+    },
+    {
       "name": "Iuno",
       "quality": "5",
       "attributes": {
@@ -467,6 +475,13 @@
       "quality": "5",
       "attributes": {
         "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Blooming Jadehaven",
+      "quality": "5",
+      "attributes": {
+        "weapons": "rectifier"
       }
     },
     {
