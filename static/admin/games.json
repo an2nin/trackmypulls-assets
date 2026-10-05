@@ -203,7 +203,6 @@
           "4": 10,
           "5": 50
         },
-        "isHidden": true,
         "topResetPityForAll": true
       },
       {
@@ -218,7 +217,6 @@
           "4": 10,
           "5": 80
         },
-        "isHidden": true,
         "topResetPityForAll": true
       },
       {
@@ -233,7 +231,6 @@
           "4": 0,
           "5": 1
         },
-        "isHidden": true,
         "topResetPityForAll": true
       }
     ]
