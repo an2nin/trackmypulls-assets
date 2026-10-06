@@ -512,5 +512,204 @@
         "ignorePityOnFreePull": true
       }
     ]
+  },
+  {
+    "slug": "zzz",
+    "name": "Zenless Zone Zero",
+    "description": "Open World Gacha Game",
+    "gachaTerm": "Signal",
+    "image": "",
+    "website": "https://zenless.hoyoverse.com/en-us/",
+    "developer": "miHoYo",
+    "features": {
+      "tracker": true,
+      "collections": true,
+      "import": true,
+      "manualEntry": false
+    },
+    "itemTypes": [
+      {
+        "name": "characters",
+        "label": "Agents",
+        "icon": "character",
+        "mappedTo": "c",
+        "rarities": [
+          "4",
+          "3"
+        ],
+        "attrs": [
+          "attributes",
+          "specialities",
+          "attacks"
+        ]
+      },
+      {
+        "name": "weapons",
+        "label": "W-Engines",
+        "icon": "weapon",
+        "mappedTo": "w",
+        "rarities": [
+          "4",
+          "3"
+        ],
+        "attrs": [
+          "specialities"
+        ]
+      },
+      {
+        "name": "bangboo",
+        "label": "Bangboo",
+        "icon": "cat",
+        "mappedTo": "b",
+        "rarities": [
+          "4",
+          "3"
+        ],
+        "attrs": []
+      }
+    ],
+    "attrTypes": [
+      {
+        "name": "attributes",
+        "label": "Attributes",
+        "icon": "attributes",
+        "values": [
+          "physical",
+          "fire",
+          "ice",
+          "electric",
+          "wind",
+          "ether",
+          "lumiflux"
+        ]
+      },
+      {
+        "name": "specialities",
+        "label": "Specialities",
+        "icon": "specialities",
+        "values": [
+          "attack",
+          "stun",
+          "anomaly",
+          "support",
+          "defence",
+          "rupture",
+          "armorer"
+        ]
+      },
+      {
+        "name": "attacks",
+        "label": "Attack Type",
+        "icon": "attacks",
+        "values": [
+          "slash",
+          "strike",
+          "pierce"
+        ]
+      }
+    ],
+    "collectionConfig": {
+      "characters": {
+        "countOffset": -1,
+        "countLabel": "M"
+      },
+      "weapons": {
+        "countOffset": 0,
+        "countLabel": "P"
+      },
+      "bangboo": {
+        "countOffset": 0,
+        "countLabel": "L"
+      }
+    },
+    "mappings": {
+      "characters": {
+        "matchedAs": "Agents",
+        "storedAs": "c"
+      },
+      "weapons": {
+        "matchedAs": "W-Engine",
+        "storedAs": "w"
+      },
+      "bangboo": {
+        "matchedAs": "Bangboo",
+        "storedAs": "b"
+      }
+    },
+    "rarities": [
+      {
+        "name": "4",
+        "label": "S Rank",
+        "styles": "yellow"
+      },
+      {
+        "name": "3",
+        "label": "A Rank",
+        "styles": "purple"
+      },
+      {
+        "name": "2",
+        "label": "B Rank",
+        "styles": "blue"
+      }
+    ],
+    "banners": [
+      {
+        "id": "exclusive",
+        "pool_id": 2001,
+        "name": "Exclusive Channel",
+        "currency": "encypted_master_tape",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.6,
+        "pityMaxByRarity": {
+          "3": 10,
+          "4": 90
+        },
+        "isActive": true
+      },
+      {
+        "id": "wengine",
+        "pool_id": 3001,
+        "name": "W-Engine Channel",
+        "currency": "encypted_master_tape",
+        "duration": "limited",
+        "icon": "weapon",
+        "rate": 1,
+        "pityMaxByRarity": {
+          "3": 10,
+          "4": 80
+        },
+        "isActive": true
+      },
+      {
+        "id": "stable",
+        "pool_id": 1001,
+        "name": "Stable Channel",
+        "currency": "master_tape",
+        "duration": "permanent",
+        "icon": "combined",
+        "rate": 0.6,
+        "pityMaxByRarity": {
+          "3": 10,
+          "4": 90
+        },
+        "isActive": true
+      },
+      {
+        "id": "bangboo",
+        "pool_id": 5001,
+        "name": "Bangboo Channel",
+        "currency": "boopon",
+        "duration": "permanent",
+        "icon": "cat",
+        "rate": 1,
+        "pityMaxByRarity": {
+          "3": 10,
+          "4": 80
+        },
+        "isActive": true
+      }
+    ]
   }
 ]
