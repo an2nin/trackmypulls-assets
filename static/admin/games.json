@@ -539,8 +539,7 @@
         ],
         "attrs": [
           "attributes",
-          "specialities",
-          "attacks"
+          "specialities"
         ]
       },
       {
@@ -595,16 +594,6 @@
           "defence",
           "rupture",
           "armorer"
-        ]
-      },
-      {
-        "name": "attacks",
-        "label": "Attack Type",
-        "icon": "attacks",
-        "values": [
-          "slash",
-          "strike",
-          "pierce"
         ]
       }
     ],
