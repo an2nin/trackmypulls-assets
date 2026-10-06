@@ -1,6 +1,38 @@
 {
   "characters": [
     {
+      "name": "Alice",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Aria",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Astra Yao",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Banyue",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "specialties": "rupture"
+      }
+    },
+    {
       "name": "Burnice",
       "quality": "4",
       "attributes": {
@@ -9,7 +41,7 @@
       }
     },
     {
-      "name": "Caeser",
+      "name": "Caesar",
       "quality": "4",
       "attributes": {
         "attributes": "physical",
@@ -17,10 +49,42 @@
       }
     },
     {
+      "name": "Cissia",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Claret",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialties": "armorer"
+      }
+    },
+    {
+      "name": "Dialyn",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "specialties": "stun"
+      }
+    },
+    {
       "name": "Ellen",
       "quality": "4",
       "attributes": {
         "attributes": "ice",
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Evelyn",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
         "specialties": "attack"
       }
     },
@@ -57,6 +121,14 @@
       }
     },
     {
+      "name": "Ju Fufu",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "specialties": "stun"
+      }
+    },
+    {
       "name": "Koleda",
       "quality": "4",
       "attributes": {
@@ -70,6 +142,14 @@
       "attributes": {
         "attributes": "fire",
         "specialties": "stun"
+      }
+    },
+    {
+      "name": "Lucia",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
+        "specialties": "support"
       }
     },
     {
@@ -89,10 +169,50 @@
       }
     },
     {
+      "name": "Nangong Yu",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
+        "specialties": "stun"
+      }
+    },
+    {
       "name": "Nekomata",
       "quality": "4",
       "attributes": {
         "attributes": "physical",
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Norma",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Orphie & Magus",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Promeia",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Pyrois",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
         "specialties": "attack"
       }
     },
@@ -105,11 +225,51 @@
       }
     },
     {
+      "name": "Remielle",
+      "quality": "4",
+      "attributes": {
+        "attributes": "lumiflux",
+        "specialties": "anomaly"
+      }
+    },
+    {
       "name": "Rina",
       "quality": "4",
       "attributes": {
         "attributes": "electric",
         "specialties": "support"
+      }
+    },
+    {
+      "name": "Roxy",
+      "quality": "4",
+      "attributes": {
+        "attributes": "wind",
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Seed",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Sigrid",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Soldier 0 - Anby",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialties": "attack"
       }
     },
     {
@@ -121,6 +281,46 @@
       }
     },
     {
+      "name": "Starlight - Billy",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Sunna",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Trigger",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Velina",
+      "quality": "4",
+      "attributes": {
+        "attributes": "wind",
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Vivian",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
+        "specialties": "anomaly"
+      }
+    },
+    {
       "name": "Yanagi",
       "quality": "4",
       "attributes": {
@@ -129,11 +329,43 @@
       }
     },
     {
+      "name": "Ye Shunguang",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "specialties": "attack"
+      }
+    },
+    {
       "name": "Yidhari",
       "quality": "4",
       "attributes": {
         "attributes": "ice",
         "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Yixuan",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Yuzuha",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Zhao",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "specialties": "defense"
       }
     },
     {
