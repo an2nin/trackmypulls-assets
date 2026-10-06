@@ -481,6 +481,147 @@
       }
     }
   ],
-  "weapons": [],
+  "weapons": [
+    {
+      "name": "Bashful Demon",
+      "quality": "3",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Big Cylinder",
+      "quality": "3",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
+      "name": "Bloodmarrow Coffer",
+      "quality": "3",
+      "attributes": {
+        "specialties": "armorer"
+      }
+    },
+    {
+      "name": "Boisterous Echoes",
+      "quality": "3",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Box Cutter",
+      "quality": "3",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Cannon Rotor",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Cauldron of Clarity",
+      "quality": "3",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Demara Battery Mark II",
+      "quality": "3",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Drill Rig - Red Axis",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Grill O'Wisp",
+      "quality": "3",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Housekeeper",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Kaboom the Cannon",
+      "quality": "3",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Peacekeeper - Specialized",
+      "quality": "3",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
+      "name": "Roaring Ride",
+      "quality": "3",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Six Shooter",
+      "quality": "3",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Starlight Engine Replica",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "The Simmering Pot",
+      "quality": "3",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "The Vault",
+      "quality": "3",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Tremor Trigram Vessel",
+      "quality": "3",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
+      "name": "Unfettered Game Ball",
+      "quality": "3",
+      "attributes": {
+        "specialties": "support"
+      }
+    }
+  ],
   "bangboo": []
 }
