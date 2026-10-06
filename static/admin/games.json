@@ -268,9 +268,9 @@
         "topResetPityForAll": true
       },
       {
-        "id": "everb Resonator",
+        "id": "reverb_resonator",
         "pool_id": 12,
-        "name": "reverb_resonator",
+        "name": "Reverb Resonator",
         "currency": "radiant_tide",
         "duration": "limited",
         "icon": "character",
