@@ -483,6 +483,335 @@
   ],
   "weapons": [
     {
+      "name": "Angel in the Shell",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Bellicose Blaze",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Blazing Laurel",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Chief Sidekick",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Cloudcleave Radiance",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Cordis Germina",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Crimson Moon Casket",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Crimson Thirst",
+      "quality": "4",
+      "attributes": {
+        "specialties": "armorer"
+      }
+    },
+    {
+      "name": "Deep Sea Visitor",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Dreamlit Hearth",
+      "quality": "4",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Elegant Vanity",
+      "quality": "4",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Flamemaker Shaker",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Flight of Fancy",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Frostfall Sickle",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Fusion Compiler",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Hailstorm Shrine",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Half-Sugar Bunny",
+      "quality": "4",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
+      "name": "Heartstring Nocturne",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Hellfire Gears",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Ice-Jade Teapot",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Joyau Dore",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Knight's Extolment",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Kraken's Cradle",
+      "quality": "4",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Metanukimorphosis",
+      "quality": "4",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Myriad Eclipse",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Neon Fantasies",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Ode of Resurrected Wings",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Practiced Perfection",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Qingming Birdcage",
+      "quality": "4",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Riot Suppressor Mark VI",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Roaring Fur-nace",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Serpentine Seeker",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Severed Innocence",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Sharpened Stinger",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Sol Exuvia",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Spectral Gaze",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Starlight Rider Faceplate",
+      "quality": "4",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Steel Cushion",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "The Brimstone",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "The Restrained",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Thoughtbop",
+      "quality": "4",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Timeweaver",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Tusks of Fury",
+      "quality": "4",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
+      "name": "Weeping Cradle",
+      "quality": "4",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Wrathful Vajra",
+      "quality": "4",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Yesterday Calls",
+      "quality": "4",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Zanshin Herb Case",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
       "name": "Bashful Demon",
       "quality": "3",
       "attributes": {
