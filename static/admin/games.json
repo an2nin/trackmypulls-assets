@@ -539,7 +539,7 @@
         ],
         "attrs": [
           "attributes",
-          "specialities"
+          "specialties"
         ]
       },
       {
@@ -552,7 +552,7 @@
           "3"
         ],
         "attrs": [
-          "specialities"
+          "specialties"
         ]
       },
       {
@@ -583,15 +583,15 @@
         ]
       },
       {
-        "name": "specialities",
-        "label": "Specialities",
-        "icon": "specialities",
+        "name": "specialties",
+        "label": "Specialties",
+        "icon": "specialties",
         "values": [
           "attack",
           "stun",
           "anomaly",
           "support",
-          "defence",
+          "defense",
           "rupture",
           "armorer"
         ]

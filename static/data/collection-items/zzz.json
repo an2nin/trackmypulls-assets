@@ -5,8 +5,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "fire",
-        "specialities": "anomaly",
-        "attacks": "pierce"
+        "specialties": "anomaly"
       }
     },
     {
@@ -14,8 +13,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "physical",
-        "attacks": "slash",
-        "specialities": "defence"
+        "specialties": "defense"
       }
     },
     {
@@ -23,8 +21,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "ice",
-        "specialities": "attack",
-        "attacks": "slash"
+        "specialties": "attack"
       }
     },
     {
@@ -32,8 +29,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "electric",
-        "specialities": "anomaly",
-        "attacks": "pierce"
+        "specialties": "anomaly"
       }
     },
     {
@@ -41,8 +37,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "electric",
-        "specialities": "attack",
-        "attacks": "pierce"
+        "specialties": "attack"
       }
     },
     {
@@ -50,8 +45,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "ice",
-        "specialities": "attack",
-        "attacks": "slash"
+        "specialties": "attack"
       }
     },
     {
@@ -59,8 +53,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "physical",
-        "specialities": "anomaly",
-        "attacks": "slash"
+        "specialties": "anomaly"
       }
     },
     {
@@ -68,8 +61,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "fire",
-        "attacks": "strike",
-        "specialities": "stun"
+        "specialties": "stun"
       }
     },
     {
@@ -77,8 +69,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "fire",
-        "specialities": "stun",
-        "attacks": "strike"
+        "specialties": "stun"
       }
     },
     {
@@ -86,8 +77,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "ice",
-        "specialities": "stun",
-        "attacks": "strike"
+        "specialties": "stun"
       }
     },
     {
@@ -95,8 +85,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "ice",
-        "attacks": "slash",
-        "specialities": "anomaly"
+        "specialties": "anomaly"
       }
     },
     {
@@ -104,8 +93,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "physical",
-        "attacks": "slash",
-        "specialities": "attack"
+        "specialties": "attack"
       }
     },
     {
@@ -113,8 +101,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "electric",
-        "specialities": "stun",
-        "attacks": "strike"
+        "specialties": "stun"
       }
     },
     {
@@ -122,8 +109,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "electric",
-        "specialities": "support",
-        "attacks": "strike"
+        "specialties": "support"
       }
     },
     {
@@ -131,8 +117,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "fire",
-        "attacks": "slash",
-        "specialities": "attack"
+        "specialties": "attack"
       }
     },
     {
@@ -140,8 +125,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "electric",
-        "specialities": "anomaly",
-        "attacks": "slash"
+        "specialties": "anomaly"
       }
     },
     {
@@ -149,8 +133,7 @@
       "quality": "4",
       "attributes": {
         "attributes": "ice",
-        "attacks": "strike",
-        "specialities": "rupture"
+        "specialties": "rupture"
       }
     },
     {
@@ -158,26 +141,23 @@
       "quality": "4",
       "attributes": {
         "attributes": "ether",
-        "specialities": "attack",
-        "attacks": "pierce"
+        "specialties": "attack"
       }
     },
     {
       "name": "Anby",
       "quality": "3",
       "attributes": {
-        "attacks": "slash",
         "attributes": "electric",
-        "specialities": "stun"
+        "specialties": "stun"
       }
     },
     {
       "name": "Anton",
       "quality": "3",
       "attributes": {
-        "attacks": "pierce",
         "attributes": "electric",
-        "specialities": "attack"
+        "specialties": "attack"
       }
     },
     {
@@ -185,26 +165,23 @@
       "quality": "3",
       "attributes": {
         "attributes": "fire",
-        "attacks": "strike",
-        "specialities": "defence"
+        "specialties": "defense"
       }
     },
     {
       "name": "Billy",
       "quality": "3",
       "attributes": {
-        "attacks": "pierce",
         "attributes": "physical",
-        "specialities": "attack"
+        "specialties": "attack"
       }
     },
     {
       "name": "Corin",
       "quality": "3",
       "attributes": {
-        "attacks": "slash",
         "attributes": "physical",
-        "specialities": "attack"
+        "specialties": "attack"
       }
     },
     {
@@ -212,8 +189,7 @@
       "quality": "3",
       "attributes": {
         "attributes": "fire",
-        "attacks": "strike",
-        "specialities": "support"
+        "specialties": "support"
       }
     },
     {
@@ -221,17 +197,15 @@
       "quality": "3",
       "attributes": {
         "attributes": "fire",
-        "attacks": "slash",
-        "specialities": "rupture"
+        "specialties": "rupture"
       }
     },
     {
       "name": "Nicole",
       "quality": "3",
       "attributes": {
-        "attacks": "strike",
         "attributes": "ether",
-        "specialities": "support"
+        "specialties": "support"
       }
     },
     {
@@ -239,8 +213,7 @@
       "quality": "3",
       "attributes": {
         "attributes": "physical",
-        "attacks": "strike",
-        "specialities": "defence"
+        "specialties": "defense"
       }
     },
     {
@@ -248,8 +221,7 @@
       "quality": "3",
       "attributes": {
         "attributes": "physical",
-        "attacks": "slash",
-        "specialities": "anomaly"
+        "specialties": "anomaly"
       }
     },
     {
@@ -257,8 +229,7 @@
       "quality": "3",
       "attributes": {
         "attributes": "physical",
-        "attacks": "slash",
-        "specialities": "stun"
+        "specialties": "stun"
       }
     },
     {
@@ -266,8 +237,7 @@
       "quality": "3",
       "attributes": {
         "attributes": "electric",
-        "attacks": "slash",
-        "specialities": "defence"
+        "specialties": "defense"
       }
     },
     {
@@ -275,8 +245,7 @@
       "quality": "3",
       "attributes": {
         "attributes": "ice",
-        "attacks": "slash",
-        "specialities": "support"
+        "specialties": "support"
       }
     }
   ],
