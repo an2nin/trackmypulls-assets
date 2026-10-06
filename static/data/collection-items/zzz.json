@@ -1064,5 +1064,106 @@
       }
     }
   ],
-  "bangboo": []
+  "bangboo": [
+    {
+      "name": "Avocaboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Baddieboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Bagboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Bild N. Boolok",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Boollseye",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Booltergeist",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Booressure",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Brawlerboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Cryboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Devilboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Electroboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Excaliboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Exploreboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Knightboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Luckyboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Magnetiboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Overtimeboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Paperboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Penguinboo",
+      "quality": "3",
+      "attributes": {}
+    },
+    {
+      "name": "Sumoboo",
+      "quality": "3",
+      "attributes": {}
+    }
+  ]
 }
