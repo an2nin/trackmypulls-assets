@@ -1,88 +1,44 @@
 // scripts/funcs/games-converter.ts
-// Ensure Node.js types are available to TypeScript (fixes "Cannot find name 'process'" errors)
+// Splits `config/games.json` into `converted/games.ts` (game info) and `converted/banners.ts` (banners keyed by slug).
 /// <reference types="node" />
 
 import fs from "node:fs";
 import path from "node:path";
-import gachaColors from './../../static/data/config/others/gacha-colors.json';
+import toTsLiteral from "./ts-literal";
+
+type Rarity = { name: string; label: string; styles: string };
+type Game = { slug: string; rarities: Rarity[]; banners: unknown[]; [key: string]: unknown };
 
 export default function convertGames(): void {
-  const inputDir = path.join(process.cwd(), "./static/data/config/games");
-  const outputDir = path.join(process.cwd(), "./static/data/converted/games");
-  const othersDir = path.join(process.cwd(), "./static/data/converted");
+  const configDir = path.join(process.cwd(), "./static/data/config");
+  const outputDir = path.join(process.cwd(), "./static/data/converted");
 
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
-  if (!fs.existsSync(othersDir)) {
-    fs.mkdirSync(othersDir, { recursive: true });
-  }
+  const games: Game[] = JSON.parse(fs.readFileSync(path.join(configDir, "games.json"), "utf-8"));
+  const gachaColors: Record<string, unknown> = JSON.parse(
+    fs.readFileSync(path.join(configDir, "gacha-colors.json"), "utf-8"),
+  );
 
-  const files = fs.readdirSync(inputDir);
+  const banners: Record<string, unknown[]> = {};
 
-  const indexExports: string[] = [];
-  const indexImports: string[] = [];
-  const arrayEntries: string[] = [];
-  const banners: any = {};
+  const gamesInfo = games.map(({ banners: gameBanners, ...game }) => {
+    banners[game.slug] = gameBanners;
 
-  for (const file of files) {
-    const jsonPath = path.join(inputDir, file);
+    return {
+      ...game,
+      rarities: game.rarities.map((rarity) => {
+        const styles = gachaColors[rarity.styles];
+        if (!styles) {
+          throw new Error(`Unknown rarity style "${rarity.styles}" in game "${game.slug}"`);
+        }
+        return { ...rarity, styles };
+      }),
+    };
+  });
 
-    const raw = fs.readFileSync(jsonPath, "utf-8");
-    const parsed = JSON.parse(raw);
-    const currentRarities = parsed.rarities;
-    // const processedRarityStyles = Object.fromEntries(
-    //   currentRarityStyles.map(() => {
-    //     return [rarity, gachaColors[color as keyof typeof gachaColors]] as const;
-    //   }),
-    // );
-    const processedRarities = currentRarities.map((rarity: { name: string; label: string; styles: string }) => {
-      const color = gachaColors[rarity.styles as keyof typeof gachaColors];
-      return {
-        ...rarity,
-        styles: color,
-      };
-    });
-    parsed.rarities = processedRarities;
-
-
-
-    const baseName = path.basename(file, ".json").split('-')[1];
-    const variableName = baseName.replace('-', '_').toUpperCase();
-
-    banners[baseName.toLowerCase()] = parsed.banners;
-    delete parsed.banners;
-
-    const tsContent = `const ${variableName} = ${JSON.stringify(
-      parsed,
-      null,
-      2,
-    )};
-
-
-export default ${variableName};
-`;
-
-    fs.writeFileSync(path.join(outputDir, `${baseName}.ts`), tsContent);
-
-    indexImports.push(`import ${variableName} from "./${baseName}";`);
-
-    indexExports.push(variableName);
-
-    arrayEntries.push(`  ${variableName},`);
-  }
-
-  const indexContent = `
-${indexImports.join("\n")}
-
-const GAMES = [
-${arrayEntries.join("\n")}
-] as const;
-
-export default GAMES;
-`;
-
-  fs.writeFileSync(path.join(outputDir, "index.ts"), indexContent);
-  fs.writeFileSync(path.join(othersDir, "banners.ts"), `const BANNERS = ${JSON.stringify(banners, null, 2)};\n\nexport default BANNERS;\n`);
+  fs.writeFileSync(path.join(outputDir, "games.ts"), `export const GAMES = ${toTsLiteral(gamesInfo)};\n`);
+  fs.writeFileSync(path.join(outputDir, "banners.ts"), `export const BANNERS = ${toTsLiteral(banners)};\n`);
 }

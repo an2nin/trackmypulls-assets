@@ -26,9 +26,9 @@ jobs:
           token: ${{ secrets.MAIN_REPO_TOKEN }}
           ref: ${{ matrix.target.ref }}
 
-      - name: Copy assets
+      - name: Copy data
         run: |
-          mkdir -p ./main-repo/${{ matrix.target.data_path }}/games
+          mkdir -p ./main-repo/${{ matrix.target.data_path }}
           rsync -av --delete ./static/data/converted/ ./main-repo/${{ matrix.target.data_path }}/
 
       - name: Commit and push
@@ -37,5 +37,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add "${{ matrix.target.data_path }}/"
-          git commit -m "sync image data from data repo" || echo "No changes to commit"
+          git commit -m "sync data from assets repo" || echo "No changes to commit"
           git push origin HEAD:${{ matrix.target.ref }}

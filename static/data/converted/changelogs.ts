@@ -1,5 +1,31 @@
 export const CHANGELOGS = [
   {
+    date: 'Oct 6, 2026',
+    changes: [
+      'Cloud Sync now keeps your last 20 Google Drive backups, and you can restore any of them from Settings',
+    ],
+  },
+  {
+    date: 'Oct 5, 2026',
+    changes: [
+      'Share any banner as an image straight from its Tracker summary card',
+      'Removed the Flex My Pulls page in favor of sharing from the Tracker',
+    ],
+  },
+  {
+    date: 'Oct 4, 2026',
+    changes: [
+      'Revamped the UI across the app',
+      'Redesigned the sidebar, which can now be collapsed to icons only',
+      'Refreshed the Tracker, Collections, and Recent Pulls layouts',
+      'Reworked the Import page with clearer step-by-step instructions for each method',
+    ],
+  },
+  {
+    date: 'June 8, 2026',
+    changes: ['Added new collab banners tracking for Wuwa'],
+  },
+  {
     date: 'May 16, 2026',
     changes: [
       'Added new rerun banner tracking for Endfield',
@@ -9,7 +35,7 @@ export const CHANGELOGS = [
     date: 'May 7, 2026',
     changes: [
       'Redesign and Refactored the collections feature codebase so its now way easier to add new games',
-      'Removed many redudent and unused codes',
+      'Removed many redundant and unused codes',
     ],
   },
   {

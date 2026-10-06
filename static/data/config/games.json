@@ -230,7 +230,7 @@
         "name": "New Voyage Weapon",
         "currency": "forging_tide",
         "duration": "limited",
-        "icon": "character",
+        "icon": "weapon",
         "rate": 0.8,
         "pityMaxByRarity": {
           "4": 10,
@@ -438,7 +438,7 @@
       {
         "id": "rerun",
         "pool_id": "E_CharacterGachaPoolType_Rerun",
-        "name": "Refactor Headhunting'",
+        "name": "Refactor Headhunting",
         "currency": "chartered_hh_permit",
         "duration": "limited",
         "icon": "character",
@@ -448,7 +448,8 @@
           "6": 80
         },
         "isActive": false,
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "ignorePityOnFreePull": true
       },
       {
         "id": "joint",
