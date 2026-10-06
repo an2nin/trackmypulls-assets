@@ -1,6 +1,168 @@
 {
   "characters": [
     {
+      "name": "Burnice",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "specialities": "anomaly",
+        "attacks": "pierce"
+      }
+    },
+    {
+      "name": "Caeser",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "attacks": "slash",
+        "specialities": "defence"
+      }
+    },
+    {
+      "name": "Ellen",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "specialities": "attack",
+        "attacks": "slash"
+      }
+    },
+    {
+      "name": "Grace",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialities": "anomaly",
+        "attacks": "pierce"
+      }
+    },
+    {
+      "name": "Harumasa",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialities": "attack",
+        "attacks": "pierce"
+      }
+    },
+    {
+      "name": "Hugo",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "specialities": "attack",
+        "attacks": "slash"
+      }
+    },
+    {
+      "name": "Jane",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "specialities": "anomaly",
+        "attacks": "slash"
+      }
+    },
+    {
+      "name": "Koleda",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "attacks": "strike",
+        "specialities": "stun"
+      }
+    },
+    {
+      "name": "Lighter",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "specialities": "stun",
+        "attacks": "strike"
+      }
+    },
+    {
+      "name": "Lycaon",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "specialities": "stun",
+        "attacks": "strike"
+      }
+    },
+    {
+      "name": "Miyabi",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "attacks": "slash",
+        "specialities": "anomaly"
+      }
+    },
+    {
+      "name": "Nekomata",
+      "quality": "4",
+      "attributes": {
+        "attributes": "physical",
+        "attacks": "slash",
+        "specialities": "attack"
+      }
+    },
+    {
+      "name": "Qingyi",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialities": "stun",
+        "attacks": "strike"
+      }
+    },
+    {
+      "name": "Rina",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialities": "support",
+        "attacks": "strike"
+      }
+    },
+    {
+      "name": "Soldier 11",
+      "quality": "4",
+      "attributes": {
+        "attributes": "fire",
+        "attacks": "slash",
+        "specialities": "attack"
+      }
+    },
+    {
+      "name": "Yanagi",
+      "quality": "4",
+      "attributes": {
+        "attributes": "electric",
+        "specialities": "anomaly",
+        "attacks": "slash"
+      }
+    },
+    {
+      "name": "Yidhari",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ice",
+        "attacks": "strike",
+        "specialities": "rupture"
+      }
+    },
+    {
+      "name": "Zhu Yuan",
+      "quality": "4",
+      "attributes": {
+        "attributes": "ether",
+        "specialities": "attack",
+        "attacks": "pierce"
+      }
+    },
+    {
       "name": "Anby",
       "quality": "3",
       "attributes": {
