@@ -541,7 +541,8 @@
         "attrs": [
           "attributes",
           "specialties"
-        ]
+        ],
+        "forceIds": true
       },
       {
         "name": "weapons",
@@ -554,7 +555,8 @@
         ],
         "attrs": [
           "specialties"
-        ]
+        ],
+        "forceIds": true
       },
       {
         "name": "bangboo",
@@ -565,7 +567,8 @@
           "4",
           "3"
         ],
-        "attrs": []
+        "attrs": [],
+        "forceIds": true
       }
     ],
     "attrTypes": [
