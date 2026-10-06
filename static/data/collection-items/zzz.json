@@ -483,6 +483,13 @@
   ],
   "weapons": [
     {
+      "name": "Starlight Engine",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
       "name": "Bashful Demon",
       "quality": "3",
       "attributes": {
@@ -518,10 +525,24 @@
       }
     },
     {
+      "name": "Bunny Band",
+      "quality": "3",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
       "name": "Cannon Rotor",
       "quality": "3",
       "attributes": {
         "specialties": "attack"
+      }
+    },
+    {
+      "name": "Catty Luck",
+      "quality": "3",
+      "attributes": {
+        "specialties": "armorer"
       }
     },
     {
@@ -540,6 +561,13 @@
     },
     {
       "name": "Drill Rig - Red Axis",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Gilded Blossom",
       "quality": "3",
       "attributes": {
         "specialties": "attack"
@@ -567,7 +595,56 @@
       }
     },
     {
+      "name": "Marcato Desire",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Original Transmorpher",
+      "quality": "3",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
       "name": "Peacekeeper - Specialized",
+      "quality": "3",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
+      "name": "Precious Fossilized Core",
+      "quality": "3",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Puzzle Sphere",
+      "quality": "3",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Radiowave Journey",
+      "quality": "3",
+      "attributes": {
+        "specialties": "rupture"
+      }
+    },
+    {
+      "name": "Rainforest Gourmet",
+      "quality": "3",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
+      "name": "Reel Projector",
       "quality": "3",
       "attributes": {
         "specialties": "defense"
@@ -588,7 +665,35 @@
       }
     },
     {
+      "name": "Slice of Time",
+      "quality": "3",
+      "attributes": {
+        "specialties": "support"
+      }
+    },
+    {
+      "name": "Spring Embrace",
+      "quality": "3",
+      "attributes": {
+        "specialties": "defense"
+      }
+    },
+    {
       "name": "Starlight Engine Replica",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
+      "name": "Steam Oven",
+      "quality": "3",
+      "attributes": {
+        "specialties": "stun"
+      }
+    },
+    {
+      "name": "Street Superstar",
       "quality": "3",
       "attributes": {
         "specialties": "attack"
@@ -620,6 +725,13 @@
       "quality": "3",
       "attributes": {
         "specialties": "support"
+      }
+    },
+    {
+      "name": "Weeping Gemini",
+      "quality": "3",
+      "attributes": {
+        "specialties": "anomaly"
       }
     }
   ],
