@@ -1,6 +1,7 @@
 {
   "characters": [
     {
+      "id": 1401,
       "name": "Alice",
       "quality": "4",
       "attributes": {
@@ -9,6 +10,7 @@
       }
     },
     {
+      "id": 1501,
       "name": "Aria",
       "quality": "4",
       "attributes": {
@@ -17,6 +19,7 @@
       }
     },
     {
+      "id": 1311,
       "name": "Astra Yao",
       "quality": "4",
       "attributes": {
@@ -25,6 +28,7 @@
       }
     },
     {
+      "id": 1471,
       "name": "Banyue",
       "quality": "4",
       "attributes": {
@@ -33,6 +37,7 @@
       }
     },
     {
+      "id": 1171,
       "name": "Burnice",
       "quality": "4",
       "attributes": {
@@ -41,6 +46,7 @@
       }
     },
     {
+      "id": 1071,
       "name": "Caesar",
       "quality": "4",
       "attributes": {
@@ -49,6 +55,7 @@
       }
     },
     {
+      "id": 1521,
       "name": "Cissia",
       "quality": "4",
       "attributes": {
@@ -57,6 +64,7 @@
       }
     },
     {
+      "id": 1611,
       "name": "Claret",
       "quality": "4",
       "attributes": {
@@ -65,6 +73,7 @@
       }
     },
     {
+      "id": 1481,
       "name": "Dialyn",
       "quality": "4",
       "attributes": {
@@ -73,6 +82,7 @@
       }
     },
     {
+      "id": 1191,
       "name": "Ellen",
       "quality": "4",
       "attributes": {
@@ -81,6 +91,7 @@
       }
     },
     {
+      "id": 1321,
       "name": "Evelyn",
       "quality": "4",
       "attributes": {
@@ -89,6 +100,7 @@
       }
     },
     {
+      "id": 1181,
       "name": "Grace",
       "quality": "4",
       "attributes": {
@@ -97,6 +109,7 @@
       }
     },
     {
+      "id": 1201,
       "name": "Harumasa",
       "quality": "4",
       "attributes": {
@@ -105,6 +118,7 @@
       }
     },
     {
+      "id": 1291,
       "name": "Hugo",
       "quality": "4",
       "attributes": {
@@ -113,6 +127,7 @@
       }
     },
     {
+      "id": 1261,
       "name": "Jane",
       "quality": "4",
       "attributes": {
@@ -121,6 +136,7 @@
       }
     },
     {
+      "id": 1391,
       "name": "Ju Fufu",
       "quality": "4",
       "attributes": {
@@ -129,6 +145,7 @@
       }
     },
     {
+      "id": 1101,
       "name": "Koleda",
       "quality": "4",
       "attributes": {
@@ -137,6 +154,7 @@
       }
     },
     {
+      "id": 1161,
       "name": "Lighter",
       "quality": "4",
       "attributes": {
@@ -145,6 +163,7 @@
       }
     },
     {
+      "id": 1451,
       "name": "Lucia",
       "quality": "4",
       "attributes": {
@@ -153,6 +172,7 @@
       }
     },
     {
+      "id": 1141,
       "name": "Lycaon",
       "quality": "4",
       "attributes": {
@@ -161,6 +181,7 @@
       }
     },
     {
+      "id": 1091,
       "name": "Miyabi",
       "quality": "4",
       "attributes": {
@@ -169,6 +190,7 @@
       }
     },
     {
+      "id": 1511,
       "name": "Nangong Yu",
       "quality": "4",
       "attributes": {
@@ -177,6 +199,7 @@
       }
     },
     {
+      "id": 1021,
       "name": "Nekomata",
       "quality": "4",
       "attributes": {
@@ -185,6 +208,7 @@
       }
     },
     {
+      "id": 1571,
       "name": "Norma",
       "quality": "4",
       "attributes": {
@@ -193,6 +217,7 @@
       }
     },
     {
+      "id": 1301,
       "name": "Orphie & Magus",
       "quality": "4",
       "attributes": {
@@ -201,6 +226,7 @@
       }
     },
     {
+      "id": 1541,
       "name": "Promeia",
       "quality": "4",
       "attributes": {
@@ -209,6 +235,7 @@
       }
     },
     {
+      "id": 1551,
       "name": "Pyrois",
       "quality": "4",
       "attributes": {
@@ -217,6 +244,7 @@
       }
     },
     {
+      "id": 1251,
       "name": "Qingyi",
       "quality": "4",
       "attributes": {
@@ -225,6 +253,7 @@
       }
     },
     {
+      "id": 1581,
       "name": "Remielle",
       "quality": "4",
       "attributes": {
@@ -233,6 +262,7 @@
       }
     },
     {
+      "id": 1211,
       "name": "Rina",
       "quality": "4",
       "attributes": {
@@ -241,6 +271,7 @@
       }
     },
     {
+      "id": 1621,
       "name": "Roxy",
       "quality": "4",
       "attributes": {
@@ -249,6 +280,7 @@
       }
     },
     {
+      "id": 1461,
       "name": "Seed",
       "quality": "4",
       "attributes": {
@@ -257,6 +289,7 @@
       }
     },
     {
+      "id": 1591,
       "name": "Sigrid",
       "quality": "4",
       "attributes": {
@@ -265,6 +298,7 @@
       }
     },
     {
+      "id": 1381,
       "name": "Soldier 0 - Anby",
       "quality": "4",
       "attributes": {
@@ -273,6 +307,7 @@
       }
     },
     {
+      "id": 1041,
       "name": "Soldier 11",
       "quality": "4",
       "attributes": {
@@ -281,6 +316,7 @@
       }
     },
     {
+      "id": 1531,
       "name": "Starlight - Billy",
       "quality": "4",
       "attributes": {
@@ -289,6 +325,7 @@
       }
     },
     {
+      "id": 1491,
       "name": "Sunna",
       "quality": "4",
       "attributes": {
@@ -297,6 +334,7 @@
       }
     },
     {
+      "id": 1361,
       "name": "Trigger",
       "quality": "4",
       "attributes": {
@@ -305,6 +343,7 @@
       }
     },
     {
+      "id": 1561,
       "name": "Velina",
       "quality": "4",
       "attributes": {
@@ -313,6 +352,7 @@
       }
     },
     {
+      "id": 1331,
       "name": "Vivian",
       "quality": "4",
       "attributes": {
@@ -321,6 +361,7 @@
       }
     },
     {
+      "id": 1221,
       "name": "Yanagi",
       "quality": "4",
       "attributes": {
@@ -329,6 +370,7 @@
       }
     },
     {
+      "id": 1431,
       "name": "Ye Shunguang",
       "quality": "4",
       "attributes": {
@@ -337,6 +379,7 @@
       }
     },
     {
+      "id": 1051,
       "name": "Yidhari",
       "quality": "4",
       "attributes": {
@@ -345,6 +388,7 @@
       }
     },
     {
+      "id": 1371,
       "name": "Yixuan",
       "quality": "4",
       "attributes": {
@@ -353,6 +397,7 @@
       }
     },
     {
+      "id": 1411,
       "name": "Yuzuha",
       "quality": "4",
       "attributes": {
@@ -361,6 +406,7 @@
       }
     },
     {
+      "id": 1341,
       "name": "Zhao",
       "quality": "4",
       "attributes": {
@@ -369,6 +415,7 @@
       }
     },
     {
+      "id": 1241,
       "name": "Zhu Yuan",
       "quality": "4",
       "attributes": {
@@ -377,6 +424,7 @@
       }
     },
     {
+      "id": 1011,
       "name": "Anby",
       "quality": "3",
       "attributes": {
@@ -385,6 +433,7 @@
       }
     },
     {
+      "id": 1111,
       "name": "Anton",
       "quality": "3",
       "attributes": {
@@ -393,6 +442,7 @@
       }
     },
     {
+      "id": 1121,
       "name": "Ben",
       "quality": "3",
       "attributes": {
@@ -401,6 +451,7 @@
       }
     },
     {
+      "id": 1081,
       "name": "Billy",
       "quality": "3",
       "attributes": {
@@ -409,6 +460,7 @@
       }
     },
     {
+      "id": 1061,
       "name": "Corin",
       "quality": "3",
       "attributes": {
@@ -417,6 +469,7 @@
       }
     },
     {
+      "id": 1151,
       "name": "Lucy",
       "quality": "3",
       "attributes": {
@@ -425,6 +478,7 @@
       }
     },
     {
+      "id": 1441,
       "name": "Manato",
       "quality": "3",
       "attributes": {
@@ -433,6 +487,7 @@
       }
     },
     {
+      "id": 1031,
       "name": "Nicole",
       "quality": "3",
       "attributes": {
@@ -441,6 +496,7 @@
       }
     },
     {
+      "id": 1421,
       "name": "Pan Yinhu",
       "quality": "3",
       "attributes": {
@@ -449,6 +505,7 @@
       }
     },
     {
+      "id": 1281,
       "name": "Piper",
       "quality": "3",
       "attributes": {
@@ -457,6 +514,7 @@
       }
     },
     {
+      "id": 1351,
       "name": "Pulchra",
       "quality": "3",
       "attributes": {
@@ -465,6 +523,7 @@
       }
     },
     {
+      "id": 1271,
       "name": "Seth",
       "quality": "3",
       "attributes": {
@@ -473,6 +532,7 @@
       }
     },
     {
+      "id": 1131,
       "name": "Soukaku",
       "quality": "3",
       "attributes": {
