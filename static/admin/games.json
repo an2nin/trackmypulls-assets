@@ -119,7 +119,8 @@
           "4": 10,
           "5": 80
         },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "isActive": true
       },
       {
         "id": "featured_weapon",
@@ -133,35 +134,8 @@
           "4": 10,
           "5": 80
         },
-        "topResetPityForAll": true
-      },
-      {
-        "id": "cp_collab_resonator",
-        "pool_id": 10,
-        "name": "Collab Resonator",
-        "currency": "radiant_tide",
-        "duration": "limited",
-        "icon": "character",
-        "rate": 0.8,
-        "pityMaxByRarity": {
-          "4": 10,
-          "5": 80
-        },
-        "topResetPityForAll": true
-      },
-      {
-        "id": "cp_collab_weapon",
-        "pool_id": 11,
-        "name": "Collab Weapon",
-        "currency": "forging_tide",
-        "duration": "limited",
-        "icon": "weapon",
-        "rate": 0.8,
-        "pityMaxByRarity": {
-          "4": 10,
-          "5": 80
-        },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "isActive": true
       },
       {
         "id": "standard_resonator",
@@ -175,7 +149,8 @@
           "4": 10,
           "5": 80
         },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "isActive": true
       },
       {
         "id": "standard_weapon",
@@ -189,7 +164,8 @@
           "4": 10,
           "5": 80
         },
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "isActive": true
       },
       {
         "id": "beginner",
@@ -231,6 +207,94 @@
           "4": 0,
           "5": 1
         },
+        "topResetPityForAll": true
+      },
+      {
+        "id": "new_voyage_resonator",
+        "pool_id": 8,
+        "name": "New Voyage Resonator",
+        "currency": "radiant_tide",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "isActive": false,
+        "topResetPityForAll": true
+      },
+      {
+        "id": "new_voyage_weapon",
+        "pool_id": 9,
+        "name": "New Voyage Weapon",
+        "currency": "forging_tide",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "isActive": false,
+        "topResetPityForAll": true
+      },
+      {
+        "id": "cp_collab_resonator",
+        "pool_id": 10,
+        "name": "Collab Resonator",
+        "currency": "radiant_tide",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "topResetPityForAll": true
+      },
+      {
+        "id": "cp_collab_weapon",
+        "pool_id": 11,
+        "name": "Collab Weapon",
+        "currency": "forging_tide",
+        "duration": "limited",
+        "icon": "weapon",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "topResetPityForAll": true
+      },
+      {
+        "id": "everb Resonator",
+        "pool_id": 12,
+        "name": "reverb_resonator",
+        "currency": "radiant_tide",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "isActive": false,
+        "topResetPityForAll": true
+      },
+      {
+        "id": "reverb_weapon",
+        "pool_id": 13,
+        "name": "Reverb Weapon",
+        "currency": "forging_tide",
+        "duration": "limited",
+        "icon": "weapon",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "isActive": false,
         "topResetPityForAll": true
       }
     ]
