@@ -298,6 +298,7 @@ export const GAMES = [
           'attributes',
           'specialties',
         ],
+        forceIds: true,
       },
       {
         name: 'weapons',
@@ -311,6 +312,7 @@ export const GAMES = [
         attrs: [
           'specialties',
         ],
+        forceIds: true,
       },
       {
         name: 'bangboo',
@@ -322,6 +324,7 @@ export const GAMES = [
           '3',
         ],
         attrs: [],
+        forceIds: true,
       },
     ],
     attrTypes: [
