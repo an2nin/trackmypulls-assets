@@ -483,13 +483,6 @@
   ],
   "weapons": [
     {
-      "name": "Starlight Engine",
-      "quality": "4",
-      "attributes": {
-        "specialties": "attack"
-      }
-    },
-    {
       "name": "Bashful Demon",
       "quality": "3",
       "attributes": {
@@ -676,6 +669,13 @@
       "quality": "3",
       "attributes": {
         "specialties": "defense"
+      }
+    },
+    {
+      "name": "Starlight Engine",
+      "quality": "3",
+      "attributes": {
+        "specialties": "attack"
       }
     },
     {
