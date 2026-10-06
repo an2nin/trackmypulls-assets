@@ -1,0 +1,123 @@
+{
+  "characters": [
+    {
+      "name": "Anby",
+      "quality": "3",
+      "attributes": {
+        "attacks": "slash",
+        "attributes": "electric",
+        "specialities": "stun"
+      }
+    },
+    {
+      "name": "Anton",
+      "quality": "3",
+      "attributes": {
+        "attacks": "pierce",
+        "attributes": "electric",
+        "specialities": "attack"
+      }
+    },
+    {
+      "name": "Ben",
+      "quality": "3",
+      "attributes": {
+        "attributes": "fire",
+        "attacks": "strike",
+        "specialities": "defence"
+      }
+    },
+    {
+      "name": "Billy",
+      "quality": "3",
+      "attributes": {
+        "attacks": "pierce",
+        "attributes": "physical",
+        "specialities": "attack"
+      }
+    },
+    {
+      "name": "Corin",
+      "quality": "3",
+      "attributes": {
+        "attacks": "slash",
+        "attributes": "physical",
+        "specialities": "attack"
+      }
+    },
+    {
+      "name": "Lucy",
+      "quality": "3",
+      "attributes": {
+        "attributes": "fire",
+        "attacks": "strike",
+        "specialities": "support"
+      }
+    },
+    {
+      "name": "Manato",
+      "quality": "3",
+      "attributes": {
+        "attributes": "fire",
+        "attacks": "slash",
+        "specialities": "rupture"
+      }
+    },
+    {
+      "name": "Nicole",
+      "quality": "3",
+      "attributes": {
+        "attacks": "strike",
+        "attributes": "ether",
+        "specialities": "support"
+      }
+    },
+    {
+      "name": "Pan Yinhu",
+      "quality": "3",
+      "attributes": {
+        "attributes": "physical",
+        "attacks": "strike",
+        "specialities": "defence"
+      }
+    },
+    {
+      "name": "Piper",
+      "quality": "3",
+      "attributes": {
+        "attributes": "physical",
+        "attacks": "slash",
+        "specialities": "anomaly"
+      }
+    },
+    {
+      "name": "Pulchra",
+      "quality": "3",
+      "attributes": {
+        "attributes": "physical",
+        "attacks": "slash",
+        "specialities": "stun"
+      }
+    },
+    {
+      "name": "Seth",
+      "quality": "3",
+      "attributes": {
+        "attributes": "electric",
+        "attacks": "slash",
+        "specialities": "defence"
+      }
+    },
+    {
+      "name": "Soukaku",
+      "quality": "3",
+      "attributes": {
+        "attributes": "ice",
+        "attacks": "slash",
+        "specialities": "support"
+      }
+    }
+  ],
+  "weapons": [],
+  "bangboo": []
+}
