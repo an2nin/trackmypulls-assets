@@ -436,6 +436,21 @@
         "ignorePityOnFreePull": true
       },
       {
+        "id": "rerun",
+        "pool_id": "E_CharacterGachaPoolType_Rerun",
+        "name": "Refactor Headhunting'",
+        "currency": "chartered_hh_permit",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "5": 10,
+          "6": 80
+        },
+        "isActive": false,
+        "topResetPityForAll": true
+      },
+      {
         "id": "joint",
         "pool_id": "E_CharacterGachaPoolType_Joint",
         "name": "Rerun Headhunting",
