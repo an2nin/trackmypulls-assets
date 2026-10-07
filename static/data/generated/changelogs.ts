@@ -23,7 +23,9 @@ export const CHANGELOGS = [
   },
   {
     date: 'June 8, 2026',
-    changes: ['Added new collab banners tracking for Wuwa'],
+    changes: [
+      'Added new collab banners tracking for Wuwa',
+    ],
   },
   {
     date: 'May 16, 2026',
@@ -90,19 +92,27 @@ export const CHANGELOGS = [
   },
   {
     date: 'Jan 26, 2026',
-    changes: ['Add Endfield Support'],
+    changes: [
+      'Add Endfield Support',
+    ],
   },
   {
     date: 'Jan 1, 2026',
-    changes: ['Refactored Codebase'],
+    changes: [
+      'Refactored Codebase',
+    ],
   },
   {
     date: 'July 24, 2025',
-    changes: ['Added Phrolova & Lethean Elegy to WuWa'],
+    changes: [
+      'Added Phrolova & Lethean Elegy to WuWa',
+    ],
   },
   {
     date: 'June 25, 2025',
-    changes: ['Added Lupa & Wildfire Mark to WuWa'],
+    changes: [
+      'Added Lupa & Wildfire Mark to WuWa',
+    ],
   },
   {
     date: 'June 15, 2025',

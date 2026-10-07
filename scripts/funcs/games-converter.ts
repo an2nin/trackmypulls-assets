@@ -1,5 +1,5 @@
 // scripts/funcs/games-converter.ts
-// Splits `config/games.json` into `converted/games.ts` (game info) and `converted/banners.ts` (banners keyed by slug).
+// Splits `config/games.json` into `generated/games.ts` (game info) and `generated/banners.ts` (banners keyed by slug).
 /// <reference types="node" />
 
 import fs from "node:fs";
@@ -11,7 +11,7 @@ type Game = { slug: string; rarities: Rarity[]; banners: unknown[]; [key: string
 
 export default function convertGames(): void {
   const configDir = path.join(process.cwd(), "./static/data/config");
-  const outputDir = path.join(process.cwd(), "./static/data/converted");
+  const outputDir = path.join(process.cwd(), "./static/data/generated");
 
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });

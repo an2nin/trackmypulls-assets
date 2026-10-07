@@ -39,6 +39,7 @@ This repository may be useful if you are looking for:
 
 - [`static/data/config/games.json`](./static/data/config/games.json): game registry and display/config metadata
 - [`static/data/collection-items`](./static/data/collection-items): per-game item data
+- [`static/data/generated`](./static/data/generated): TS built from `static/data/config` by `npm run generate:ts`. Do not edit by hand; edit the JSON in `config` instead
 - [`static/assets/images`](./static/assets/images): per-game visual assets used by the frontend
 
 ## Contributing

@@ -1,4 +1,4 @@
-name: Sync assets to main repo
+name: Sync images to app repos
 
 on:
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
             ref: master
             assets_path: public/assets
     steps:
-      - name: Checkout assets repo
+      - name: Checkout gacha-data repo
         uses: actions/checkout@v4
 
       - name: Checkout target repo
@@ -41,5 +41,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add "${{ matrix.target.assets_path }}/images"
-          git commit -m "sync image assets from assets repo" || echo "No changes to commit"
+          git commit -m "chore: sync images from trackmypulls-gacha-data" || echo "No changes to commit"
           git push origin HEAD:${{ matrix.target.ref }}

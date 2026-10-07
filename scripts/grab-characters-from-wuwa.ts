@@ -26,7 +26,7 @@ function main(): void {
 		: path.join(process.cwd(), "./static/data/collection-items/wuwa.json");
 	const outputFile = process.argv[3]
 		? path.resolve(process.cwd(), process.argv[3])
-		: path.join(process.cwd(), "./static/data/converted/games/wuwa-resonators.ts");
+		: path.join(process.cwd(), "./static/data/generated/games/wuwa-resonators.ts");
 
 	const raw = fs.readFileSync(inputFile, "utf-8");
 	const parsed = JSON.parse(raw) as WuwaData;
