@@ -31,14 +31,15 @@ This repository may be useful if you are looking for:
 ## Repo Roles
 
 - `trackmypulls-gacha-data`: public data, config, and assets
-- `trackmypulls-web`: private frontend application
+- `trackmypulls`: private frontend application
 - `trackmypulls-api`: private backend application
+- `trackmypulls-admin`: private admin UI for editing this repo
 
 ## Structure
 
-- [`assets/data/config/games.json`](./assets/data/config/games.json): game registry and display/config metadata
-- [`assets/data/gacha-items`](./assets/data/gacha-items): per-game item data
-- [`assets/images`](./assets/images): per-game visual assets used by the frontend
+- [`static/data/config/games.json`](./static/data/config/games.json): game registry and display/config metadata
+- [`static/data/collection-items`](./static/data/collection-items): per-game item data
+- [`static/assets/images`](./static/assets/images): per-game visual assets used by the frontend
 
 ## Contributing
 
@@ -55,17 +56,17 @@ Useful examples include:
 
 When adding a new game:
 
-- update [`assets/data/config/games.json`](./assets/data/config/games.json) to register the game and define its frontend-facing config
-- add or update the matching game file in [`assets/data/gacha-items`](./assets/data/gacha-items) to include characters, weapons, or other supported items
-- add the required game assets under [`assets/images`](./assets/images)
+- update [`static/data/config/games.json`](./static/data/config/games.json) to register the game and define its frontend-facing config
+- add or update the matching game file in [`static/data/collection-items`](./static/data/collection-items) to include characters, weapons, or other supported items
+- add the required game assets under [`static/assets/images`](./static/assets/images)
 
 Keep config, data, and assets aligned so the frontend can consume the new entry consistently.
 
 ## New Game Checklist
 
-1. Add the new game entry to [`assets/data/config/games.json`](./assets/data/config/games.json).
-2. Create or update the game item file in [`assets/data/gacha-items`](./assets/data/gacha-items), following the existing per-game pattern such as `wuwa.json` or `endfield.json`.
-3. Add the game asset folder under [`assets/images`](./assets/images), using a consistent slug for the new game.
+1. Add the new game entry to [`static/data/config/games.json`](./static/data/config/games.json).
+2. Create or update the game item file in [`static/data/collection-items`](./static/data/collection-items), following the existing per-game pattern such as `wuwa.json` or `endfield.json`.
+3. Add the game asset folder under [`static/assets/images`](./static/assets/images), using a consistent slug for the new game.
 4. Add the image subfolders needed by that game's config and item data, such as character, weapon, element, or other attribute folders.
 5. Verify the config slug, item data file, and image folder naming all match.
 

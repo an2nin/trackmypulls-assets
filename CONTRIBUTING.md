@@ -16,16 +16,16 @@ Good contributions include:
 
 Make sure your change is consistent across the repo:
 
-- register the game in [`assets/data/config/games.json`](./assets/data/config/games.json) when adding a new game
-- add or update the matching game file in [`assets/data/gacha-items`](./assets/data/gacha-items)
-- add the required images under [`assets/images`](./assets/images)
+- register the game in [`static/data/config/games.json`](./static/data/config/games.json) when adding a new game
+- add or update the matching game file in [`static/data/collection-items`](./static/data/collection-items)
+- add the required images under [`static/assets/images`](./static/assets/images)
 - keep slugs and folder names aligned between config, data files, and asset folders
 
 ## New game checklist
 
-1. Add the game entry to [`assets/data/config/games.json`](./assets/data/config/games.json).
-2. Create a matching item file in [`assets/data/gacha-items`](./assets/data/gacha-items).
-3. Add the matching asset folder in [`assets/images`](./assets/images).
+1. Add the game entry to [`static/data/config/games.json`](./static/data/config/games.json).
+2. Create a matching item file in [`static/data/collection-items`](./static/data/collection-items).
+3. Add the matching asset folder in [`static/assets/images`](./static/assets/images).
 4. Add the required subfolders and files for the item and attribute types used by that game.
 5. Verify naming matches everywhere before opening the pull request.
 
