@@ -136,6 +136,7 @@ export const GAMES = [
     developer: 'Gryphline',
     features: {
       import: true,
+      allowImportRefresh: true,
       manualEntry: false,
     },
     itemTypes: [
@@ -276,6 +277,7 @@ export const GAMES = [
     developer: 'miHoYo',
     features: {
       import: true,
+      allowImportRefresh: true,
       manualEntry: false,
     },
     itemTypes: [
