@@ -657,7 +657,8 @@
           "3": 10,
           "4": 90
         },
-        "isActive": true
+        "isActive": true,
+        "topResetPityForAll": true
       },
       {
         "id": "wengine",
@@ -671,7 +672,8 @@
           "3": 10,
           "4": 80
         },
-        "isActive": true
+        "isActive": true,
+        "topResetPityForAll": true
       },
       {
         "id": "stable",
@@ -685,7 +687,8 @@
           "3": 10,
           "4": 90
         },
-        "isActive": true
+        "isActive": true,
+        "topResetPityForAll": true
       },
       {
         "id": "bangboo",
@@ -699,7 +702,8 @@
           "3": 10,
           "4": 80
         },
-        "isActive": true
+        "isActive": true,
+        "topResetPityForAll": true
       }
     ]
   }
