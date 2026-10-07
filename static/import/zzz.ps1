@@ -36,14 +36,16 @@ $keepParams = @('authkey', 'authkey_ver', 'sign_type', 'game_biz', 'lang')
 function Read-SharedFileBytes {
     param ([string]$Path)
 
-    # Open with ReadWrite sharing so the read works while the game has the file open
+    # Share ReadWrite and Delete so the read works while the game has the file open.
+    # The game's embedded Chromium opens its cache files with DELETE access, so without
+    # FileShare.Delete Windows rejects the open with "being used by another process".
     $stream = $null
     try {
         $stream = [System.IO.File]::Open(
             $Path,
             [System.IO.FileMode]::Open,
             [System.IO.FileAccess]::Read,
-            [System.IO.FileShare]::ReadWrite
+            ([System.IO.FileShare]::ReadWrite -bor [System.IO.FileShare]::Delete)
         )
         $memoryStream = New-Object System.IO.MemoryStream
         $stream.CopyTo($memoryStream)
