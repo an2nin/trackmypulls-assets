@@ -9,6 +9,7 @@ export const GAMES = [
     developer: 'Kuro Games',
     features: {
       import: true,
+      allowImportRefresh: false,
       manualEntry: false,
     },
     itemTypes: [
