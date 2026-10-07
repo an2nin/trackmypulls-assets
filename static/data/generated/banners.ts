@@ -299,6 +299,7 @@ export const BANNERS = {
         4: 90,
       },
       isActive: true,
+      topResetPityForAll: true,
     },
     {
       id: 'wengine',
@@ -313,6 +314,7 @@ export const BANNERS = {
         4: 80,
       },
       isActive: true,
+      topResetPityForAll: true,
     },
     {
       id: 'stable',
@@ -327,6 +329,7 @@ export const BANNERS = {
         4: 90,
       },
       isActive: true,
+      topResetPityForAll: true,
     },
     {
       id: 'bangboo',
@@ -341,6 +344,7 @@ export const BANNERS = {
         4: 80,
       },
       isActive: true,
+      topResetPityForAll: true,
     },
   ],
 };
