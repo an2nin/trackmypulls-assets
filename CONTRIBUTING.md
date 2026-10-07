@@ -1,4 +1,4 @@
-# Contributing to trackmypulls-core
+# Contributing to trackmypulls-gacha-data
 
 Thanks for contributing. This repository is the public core data and asset layer for TrackMyPulls.
 

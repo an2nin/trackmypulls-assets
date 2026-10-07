@@ -1,7 +1,7 @@
 {
-  "name": "trackmypulls-assets",
+  "name": "trackmypulls-gacha-data",
   "version": "1.0.0",
-  "description": "`trackmypulls-core` is the public source of truth for the data, assets, and configuration that power the TrackMyPulls frontend.",
+  "description": "`trackmypulls-gacha-data` is the public source of truth for the data, assets, and configuration that power the TrackMyPulls frontend.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/an2nin/trackmypulls-assets.git"
+    "url": "git+https://github.com/an2nin/trackmypulls-gacha-data.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/an2nin/trackmypulls-assets/issues"
+    "url": "https://github.com/an2nin/trackmypulls-gacha-data/issues"
   },
-  "homepage": "https://github.com/an2nin/trackmypulls-assets#readme",
+  "homepage": "https://github.com/an2nin/trackmypulls-gacha-data#readme",
   "devDependencies": {
     "@types/node": "^25.9.1",
     "tsx": "^4.22.3"

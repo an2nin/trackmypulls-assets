@@ -1,6 +1,6 @@
-# trackmypulls-core
+# trackmypulls-gacha-data
 
-`trackmypulls-core` is the public source of truth for the data, assets, and configuration that power the TrackMyPulls frontend.
+`trackmypulls-gacha-data` is the public source of truth for the data, assets, and configuration that power the TrackMyPulls frontend.
 
 This repository does not contain the app itself. It contains the game definitions, structured content, and image assets the frontend consumes to render supported games dynamically.
 
@@ -30,7 +30,7 @@ This repository may be useful if you are looking for:
 
 ## Repo Roles
 
-- `trackmypulls-core`: public data, config, and assets
+- `trackmypulls-gacha-data`: public data, config, and assets
 - `trackmypulls-web`: private frontend application
 - `trackmypulls-api`: private backend application
 
