@@ -8,8 +8,6 @@ export const GAMES = [
     website: 'https://wutheringwaves.kurogames.com/en/main',
     developer: 'Kuro Games',
     features: {
-      tracker: true,
-      collections: true,
       import: true,
       manualEntry: false,
     },
@@ -137,8 +135,6 @@ export const GAMES = [
     website: 'https://endfield.gryphline.com/en-us',
     developer: 'Gryphline',
     features: {
-      tracker: true,
-      collections: true,
       import: true,
       manualEntry: false,
     },
@@ -279,8 +275,6 @@ export const GAMES = [
     website: 'https://zenless.hoyoverse.com/en-us/',
     developer: 'miHoYo',
     features: {
-      tracker: true,
-      collections: true,
       import: true,
       manualEntry: false,
     },
