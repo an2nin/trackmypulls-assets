@@ -307,6 +307,7 @@
     "developer": "Gryphline",
     "features": {
       "import": true,
+      "allowImportRefresh": true,
       "manualEntry": false
     },
     "itemTypes": [
@@ -520,6 +521,7 @@
     "developer": "miHoYo",
     "features": {
       "import": true,
+      "allowImportRefresh": true,
       "manualEntry": false
     },
     "itemTypes": [
