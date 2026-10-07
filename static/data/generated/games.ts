@@ -276,6 +276,7 @@ export const GAMES = [
     image: '',
     website: 'https://zenless.hoyoverse.com/en-us/',
     developer: 'miHoYo',
+    isBeta: true,
     features: {
       import: true,
       allowImportRefresh: true,
