@@ -241,7 +241,8 @@
       "attributes": {
         "attributes": "ether",
         "specialties": "attack"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 1251,
@@ -820,7 +821,8 @@
       "quality": "4",
       "attributes": {
         "specialties": "attack"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 14136,
@@ -940,7 +942,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "armorer"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13018,
@@ -948,7 +951,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "anomaly"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13135,
@@ -972,7 +976,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "attack"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13017,
@@ -988,7 +993,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "rupture"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13101,
@@ -1012,7 +1018,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "anomaly"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13013,
@@ -1020,7 +1027,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "attack"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13144,
@@ -1052,7 +1060,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "attack"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13007,
@@ -1092,7 +1101,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "rupture"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13003,
@@ -1108,7 +1118,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "defense"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13128,
@@ -1124,7 +1135,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "stun"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13002,
@@ -1140,7 +1152,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "defense"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13004,
@@ -1180,7 +1193,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "stun"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13103,
@@ -1204,7 +1218,8 @@
       "quality": "3",
       "attributes": {
         "specialties": "support"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "id": 13008,
@@ -1364,7 +1379,8 @@
       "id": 53019,
       "name": "Bild N. Boolok",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53009,
@@ -1376,19 +1392,22 @@
       "id": 53021,
       "name": "Booltergeist",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53012,
       "name": "Booressure",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53015,
       "name": "Brawlerboo",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53007,
@@ -1412,7 +1431,8 @@
       "id": 53016,
       "name": "Excaliboo",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53003,
@@ -1424,13 +1444,15 @@
       "id": 53017,
       "name": "Knightboo",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53002,
       "name": "Luckyboo",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53011,
@@ -1442,7 +1464,8 @@
       "id": 53014,
       "name": "Overtimeboo",
       "quality": "3",
-      "attributes": {}
+      "attributes": {},
+      "isNonGacha": true
     },
     {
       "id": 53005,
