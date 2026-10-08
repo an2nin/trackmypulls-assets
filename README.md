@@ -72,6 +72,25 @@ Keep config, data, and assets aligned so the frontend can consume the new entry 
 4. Add the image subfolders needed by that game's config and item data, such as character, weapon, element, or other attribute folders.
 5. Verify the config slug, item data file, and image folder naming all match.
 
+## Banner 50/50 Pools
+
+A banner in `games.json` can mark its top rarity as a 50/50 with `fiftyFifty`. `loseItems` lists what you can get by losing it, by collection item name:
+
+```json
+"fiftyFifty": {
+  "itemType": "characters",
+  "loseItems": [
+    "Calcharo",
+    { "name": "SomeCharacter", "since": "2026-09-15" }
+  ]
+}
+```
+
+- A plain name has been in the pool since launch.
+- `{ "name", "since" }` is a formerly limited item that joined the pool later. `since` is an ISO date, or a full time with offset (`2026-09-15T04:00:00+08:00`) when the pool changed partway through a day. Pulls of it before `since` count as 50/50 wins.
+
+The admin UI's banner editor sets both.
+
 ## Sync
 
 This repository is used as a shared input for downstream apps. The asset sync workflow copies the contents of [`assets`](./assets) into target application repositories.
