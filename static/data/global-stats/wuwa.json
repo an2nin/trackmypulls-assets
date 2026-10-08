@@ -1,6 +1,6 @@
 {
   "game": "wuwa",
-  "updatedAt": "2026-10-08T23:45:50.005Z",
+  "updatedAt": "2026-10-08T23:57:13.307Z",
   "summary": {
     "players": 7890,
     "totalPulls": 4945583,
@@ -228,7 +228,7 @@
         }
       ],
       "estimated": {
-        "players": 11189,
+        "players": 7753,
         "totalPulls": 4768601,
         "topItems": [
           {
@@ -544,7 +544,7 @@
         }
       ],
       "estimated": {
-        "players": 10409,
+        "players": 7256,
         "totalPulls": 1582887,
         "topItems": [
           {
@@ -860,7 +860,7 @@
         }
       ],
       "estimated": {
-        "players": 7046,
+        "players": 4271,
         "totalPulls": 232485,
         "topItems": [
           {
@@ -1176,7 +1176,7 @@
         }
       ],
       "estimated": {
-        "players": 10820,
+        "players": 7022,
         "totalPulls": 1111299,
         "topItems": [
           {

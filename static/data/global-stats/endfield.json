@@ -1,6 +1,6 @@
 {
   "game": "endfield",
-  "updatedAt": "2026-10-08T23:45:57.622Z",
+  "updatedAt": "2026-10-08T23:57:21.216Z",
   "summary": {
     "players": 5506,
     "totalPulls": 2872640,
@@ -224,7 +224,7 @@
         }
       ],
       "estimated": {
-        "players": 8021,
+        "players": 5475,
         "totalPulls": 2662172,
         "topItems": [
           {
@@ -500,7 +500,7 @@
         }
       ],
       "estimated": {
-        "players": 8369,
+        "players": 5436,
         "totalPulls": 1837096,
         "topItems": [
           {
@@ -795,7 +795,7 @@
         }
       ],
       "estimated": {
-        "players": 9074,
+        "players": 5447,
         "totalPulls": 810949,
         "topItems": [
           {
