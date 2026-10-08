@@ -58,7 +58,7 @@
       "name": "Last Rite",
       "quality": "6",
       "attributes": {
-        "elements": "cyro",
+        "elements": "cryo",
         "weapons": "greatsword",
         "classes": "striker"
       }
@@ -112,7 +112,7 @@
       "name": "Tangtang",
       "quality": "6",
       "attributes": {
-        "elements": "cyro",
+        "elements": "cryo",
         "weapons": "handcannon",
         "classes": "caster"
       }
@@ -130,7 +130,7 @@
       "name": "Yvonne",
       "quality": "6",
       "attributes": {
-        "elements": "cyro",
+        "elements": "cryo",
         "weapons": "handcannon",
         "classes": "striker"
       }
@@ -148,7 +148,7 @@
       "name": "Alesh",
       "quality": "5",
       "attributes": {
-        "elements": "cyro",
+        "elements": "cryo",
         "weapons": "sword",
         "classes": "vanguard"
       }
@@ -211,7 +211,7 @@
       "name": "Snowshine",
       "quality": "5",
       "attributes": {
-        "elements": "cyro",
+        "elements": "cryo",
         "weapons": "greatsword",
         "classes": "defender"
       }
@@ -229,7 +229,7 @@
       "name": "Xaihi",
       "quality": "5",
       "attributes": {
-        "elements": "cyro",
+        "elements": "cryo",
         "weapons": "arts unit",
         "classes": "supporter"
       }
