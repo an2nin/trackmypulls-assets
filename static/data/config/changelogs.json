@@ -1,5 +1,12 @@
 [
   {
+    "date": "Oct 7, 2026",
+    "changes": [
+      "Added Zenless Zone Zero (beta): import your Signal Search history from the game, or bring it over from an rng.moe backup",
+      "ZZZ support was requested by Oshy. Huge thanks to him for supporting TrackMyPulls. Oshy, this one's for you!"
+    ]
+  },
+  {
     "date": "Oct 6, 2026",
     "changes": [
       "Cloud Sync now keeps your last 20 Google Drive backups, and you can restore any of them from Settings"
