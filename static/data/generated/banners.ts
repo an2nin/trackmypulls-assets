@@ -14,6 +14,16 @@ export const BANNERS = {
       },
       topResetPityForAll: true,
       isActive: true,
+      fiftyFifty: {
+        itemType: 'characters',
+        loseItems: [
+          'Calcharo',
+          'Encore',
+          'Jianxin',
+          'Lingyang',
+          'Verina',
+        ],
+      },
     },
     {
       id: 'featured_weapon',
