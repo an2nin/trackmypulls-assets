@@ -130,7 +130,8 @@
             "Lingyang",
             "Verina"
           ]
-        }
+        },
+        "showGlobalStats": true
       },
       {
         "id": "featured_weapon",
@@ -145,7 +146,8 @@
           "5": 80
         },
         "topResetPityForAll": true,
-        "isActive": true
+        "isActive": true,
+        "showGlobalStats": true
       },
       {
         "id": "standard_resonator",
@@ -160,7 +162,8 @@
           "5": 80
         },
         "topResetPityForAll": true,
-        "isActive": true
+        "isActive": true,
+        "showGlobalStats": true
       },
       {
         "id": "standard_weapon",
@@ -175,7 +178,8 @@
           "5": 80
         },
         "topResetPityForAll": true,
-        "isActive": true
+        "isActive": true,
+        "showGlobalStats": true
       },
       {
         "id": "beginner",
@@ -443,7 +447,9 @@
           "6": 80
         },
         "topResetPityForAll": true,
-        "ignorePityOnFreePull": true
+        "ignorePityOnFreePull": true,
+        "showGlobalStats": true,
+        "isActive": true
       },
       {
         "id": "rerun",
@@ -490,7 +496,9 @@
         },
         "topResetPityForAll": true,
         "canSplitBannersBy": "b",
-        "ignorePityOnFreePull": true
+        "ignorePityOnFreePull": true,
+        "showGlobalStats": true,
+        "isActive": true
       },
       {
         "id": "standard",
@@ -505,7 +513,9 @@
           "6": 80
         },
         "topResetPityForAll": true,
-        "ignorePityOnFreePull": true
+        "ignorePityOnFreePull": true,
+        "showGlobalStats": true,
+        "isActive": true
       },
       {
         "id": "beginner",
@@ -694,7 +704,8 @@
               "since": "2026-07-29T11:00:00+08:00"
             }
           ]
-        }
+        },
+        "showGlobalStats": true
       },
       {
         "id": "wengine",
@@ -733,7 +744,8 @@
             },
             "Weeping Cradle"
           ]
-        }
+        },
+        "showGlobalStats": true
       },
       {
         "id": "stable",
@@ -748,7 +760,8 @@
           "4": 90
         },
         "isActive": true,
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "showGlobalStats": true
       },
       {
         "id": "bangboo",
@@ -763,7 +776,8 @@
           "4": 80
         },
         "isActive": true,
-        "topResetPityForAll": true
+        "topResetPityForAll": true,
+        "showGlobalStats": true
       }
     ]
   }
