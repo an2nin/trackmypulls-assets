@@ -24,6 +24,7 @@ export const BANNERS = {
           'Verina',
         ],
       },
+      showGlobalStats: true,
     },
     {
       id: 'featured_weapon',
@@ -39,6 +40,7 @@ export const BANNERS = {
       },
       topResetPityForAll: true,
       isActive: true,
+      showGlobalStats: true,
     },
     {
       id: 'standard_resonator',
@@ -54,6 +56,7 @@ export const BANNERS = {
       },
       topResetPityForAll: true,
       isActive: true,
+      showGlobalStats: true,
     },
     {
       id: 'standard_weapon',
@@ -69,6 +72,7 @@ export const BANNERS = {
       },
       topResetPityForAll: true,
       isActive: true,
+      showGlobalStats: true,
     },
     {
       id: 'beginner',
@@ -216,6 +220,8 @@ export const BANNERS = {
       },
       topResetPityForAll: true,
       ignorePityOnFreePull: true,
+      showGlobalStats: true,
+      isActive: true,
     },
     {
       id: 'rerun',
@@ -263,6 +269,8 @@ export const BANNERS = {
       topResetPityForAll: true,
       canSplitBannersBy: 'b',
       ignorePityOnFreePull: true,
+      showGlobalStats: true,
+      isActive: true,
     },
     {
       id: 'standard',
@@ -278,6 +286,8 @@ export const BANNERS = {
       },
       topResetPityForAll: true,
       ignorePityOnFreePull: true,
+      showGlobalStats: true,
+      isActive: true,
     },
     {
       id: 'beginner',
@@ -333,6 +343,7 @@ export const BANNERS = {
           },
         ],
       },
+      showGlobalStats: true,
     },
     {
       id: 'wengine',
@@ -372,6 +383,7 @@ export const BANNERS = {
           'Weeping Cradle',
         ],
       },
+      showGlobalStats: true,
     },
     {
       id: 'stable',
@@ -387,6 +399,7 @@ export const BANNERS = {
       },
       isActive: true,
       topResetPityForAll: true,
+      showGlobalStats: true,
     },
     {
       id: 'bangboo',
@@ -402,6 +415,7 @@ export const BANNERS = {
       },
       isActive: true,
       topResetPityForAll: true,
+      showGlobalStats: true,
     },
   ],
 };
