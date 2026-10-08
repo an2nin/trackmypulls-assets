@@ -1,18 +1,24 @@
 {
   "game": "wuwa",
-  "updatedAt": "2026-10-08T21:41:50.278Z",
+  "updatedAt": "2026-10-08T23:21:01.474Z",
   "summary": {
     "players": 7890,
-    "totalPulls": 4958827,
-    "topRarityPulls": 92503
+    "totalPulls": 4958837,
+    "topRarityPulls": 92503,
+    "estimated": {
+      "players": 7890,
+      "totalPulls": 7735712,
+      "topRarityPulls": 144722,
+      "coverage": 0.641
+    }
   },
   "banners": {
     "featured_resonator": {
       "players": 7753,
-      "totalPulls": 3114309,
+      "totalPulls": 3114319,
       "rarities": {
         "4": {
-          "count": 381207,
+          "count": 381208,
           "rate": 12.24,
           "avgPity": 7.4,
           "pityDistribution": [
@@ -25,7 +31,7 @@
             16216,
             15255,
             13693,
-            203160
+            203161
           ]
         },
         "5": {
@@ -220,7 +226,112 @@
           "count": 27136,
           "share": 7.12
         }
-      ]
+      ],
+      "estimated": {
+        "players": 11189,
+        "totalPulls": 4768601,
+        "topItems": [
+          {
+            "name": "Aemeath",
+            "category": "r",
+            "quality": 5,
+            "count": 6227,
+            "share": 6.92
+          },
+          {
+            "name": "Hiyuki",
+            "category": "r",
+            "quality": 5,
+            "count": 6049,
+            "share": 6.72
+          },
+          {
+            "name": "Calcharo",
+            "category": "r",
+            "quality": 5,
+            "count": 6009,
+            "share": 6.68
+          },
+          {
+            "name": "Encore",
+            "category": "r",
+            "quality": 5,
+            "count": 5971,
+            "share": 6.63
+          },
+          {
+            "name": "Jianxin",
+            "category": "r",
+            "quality": 5,
+            "count": 5869,
+            "share": 6.52
+          },
+          {
+            "name": "Lingyang",
+            "category": "r",
+            "quality": 5,
+            "count": 5855,
+            "share": 6.5
+          },
+          {
+            "name": "Verina",
+            "category": "r",
+            "quality": 5,
+            "count": 5834,
+            "share": 6.48
+          },
+          {
+            "name": "Lynae",
+            "category": "r",
+            "quality": 5,
+            "count": 5059,
+            "share": 5.62
+          },
+          {
+            "name": "Aalto",
+            "category": "r",
+            "quality": 4,
+            "count": 55755,
+            "share": 9.56
+          },
+          {
+            "name": "Baizhi",
+            "category": "r",
+            "quality": 4,
+            "count": 48104,
+            "share": 8.25
+          },
+          {
+            "name": "Taoqi",
+            "category": "r",
+            "quality": 4,
+            "count": 47956,
+            "share": 8.22
+          },
+          {
+            "name": "Yuanwu",
+            "category": "r",
+            "quality": 4,
+            "count": 45698,
+            "share": 7.83
+          },
+          {
+            "name": "Yangyang",
+            "category": "r",
+            "quality": 4,
+            "count": 42218,
+            "share": 7.24
+          },
+          {
+            "name": "Mortefi",
+            "category": "r",
+            "quality": 4,
+            "count": 39948,
+            "share": 6.85
+          }
+        ],
+        "coverage": 0.653
+      }
     },
     "featured_weapon": {
       "players": 7256,
@@ -431,7 +542,112 @@
           "count": 7414,
           "share": 5.73
         }
-      ]
+      ],
+      "estimated": {
+        "players": 10409,
+        "totalPulls": 1582887,
+        "topItems": [
+          {
+            "name": "Frostburn",
+            "category": "w",
+            "quality": 5,
+            "count": 3526,
+            "share": 11.83
+          },
+          {
+            "name": "Everbright Polestar",
+            "category": "w",
+            "quality": 5,
+            "count": 3439,
+            "share": 11.54
+          },
+          {
+            "name": "Kumokiri",
+            "category": "w",
+            "quality": 5,
+            "count": 2253,
+            "share": 7.56
+          },
+          {
+            "name": "Spectrum Blaster",
+            "category": "w",
+            "quality": 5,
+            "count": 1849,
+            "share": 6.2
+          },
+          {
+            "name": "Azure Oath",
+            "category": "w",
+            "quality": 5,
+            "count": 1511,
+            "share": 5.07
+          },
+          {
+            "name": "Defier's Thorn",
+            "category": "w",
+            "quality": 5,
+            "count": 1351,
+            "share": 4.53
+          },
+          {
+            "name": "Forged Dwarf Star",
+            "category": "w",
+            "quality": 5,
+            "count": 1345,
+            "share": 4.51
+          },
+          {
+            "name": "Moongazer's Sigil",
+            "category": "w",
+            "quality": 5,
+            "count": 1286,
+            "share": 4.32
+          },
+          {
+            "name": "Commando of Conviction",
+            "category": "w",
+            "quality": 4,
+            "count": 19099,
+            "share": 9.75
+          },
+          {
+            "name": "Fusion Accretion",
+            "category": "w",
+            "quality": 4,
+            "count": 14407,
+            "share": 7.36
+          },
+          {
+            "name": "Waning Redshift",
+            "category": "w",
+            "quality": 4,
+            "count": 12987,
+            "share": 6.63
+          },
+          {
+            "name": "Discord",
+            "category": "w",
+            "quality": 4,
+            "count": 12624,
+            "share": 6.45
+          },
+          {
+            "name": "Relativistic Jet",
+            "category": "w",
+            "quality": 4,
+            "count": 11220,
+            "share": 5.73
+          },
+          {
+            "name": "Undying Flame",
+            "category": "w",
+            "quality": 4,
+            "count": 10842,
+            "share": 5.54
+          }
+        ],
+        "coverage": 0.66
+      }
     },
     "standard_resonator": {
       "players": 4271,
@@ -642,7 +858,112 @@
           "count": 807,
           "share": 4.02
         }
-      ]
+      ],
+      "estimated": {
+        "players": 7046,
+        "totalPulls": 232485,
+        "topItems": [
+          {
+            "name": "Jianxin",
+            "category": "r",
+            "quality": 5,
+            "count": 836,
+            "share": 20.62
+          },
+          {
+            "name": "Encore",
+            "category": "r",
+            "quality": 5,
+            "count": 822,
+            "share": 20.26
+          },
+          {
+            "name": "Calcharo",
+            "category": "r",
+            "quality": 5,
+            "count": 819,
+            "share": 20.2
+          },
+          {
+            "name": "Verina",
+            "category": "r",
+            "quality": 5,
+            "count": 802,
+            "share": 19.79
+          },
+          {
+            "name": "Lingyang",
+            "category": "r",
+            "quality": 5,
+            "count": 769,
+            "share": 18.96
+          },
+          {
+            "name": "Daybreaker's Spine",
+            "category": "w",
+            "quality": 5,
+            "count": 2,
+            "share": 0.04
+          },
+          {
+            "name": "Kumokiri",
+            "category": "w",
+            "quality": 5,
+            "count": 1,
+            "share": 0.04
+          },
+          {
+            "name": "Everbright Polestar",
+            "category": "w",
+            "quality": 5,
+            "count": 1,
+            "share": 0.03
+          },
+          {
+            "name": "Baizhi",
+            "category": "r",
+            "quality": 4,
+            "count": 3877,
+            "share": 11.93
+          },
+          {
+            "name": "Sanhua",
+            "category": "r",
+            "quality": 4,
+            "count": 1328,
+            "share": 4.09
+          },
+          {
+            "name": "Yangyang",
+            "category": "r",
+            "quality": 4,
+            "count": 1311,
+            "share": 4.03
+          },
+          {
+            "name": "Taoqi",
+            "category": "r",
+            "quality": 4,
+            "count": 1306,
+            "share": 4.02
+          },
+          {
+            "name": "Mortefi",
+            "category": "r",
+            "quality": 4,
+            "count": 1277,
+            "share": 3.93
+          },
+          {
+            "name": "Danjin",
+            "category": "r",
+            "quality": 4,
+            "count": 1273,
+            "share": 3.92
+          }
+        ],
+        "coverage": 0.619
+      }
     },
     "standard_weapon": {
       "players": 7022,
@@ -853,7 +1174,112 @@
           "count": 3433,
           "share": 4.25
         }
-      ]
+      ],
+      "estimated": {
+        "players": 10820,
+        "totalPulls": 1111299,
+        "topItems": [
+          {
+            "name": "Phasic Homogenizer",
+            "category": "w",
+            "quality": 5,
+            "count": 4252,
+            "share": 21.07
+          },
+          {
+            "name": "Emerald of Genesis",
+            "category": "w",
+            "quality": 5,
+            "count": 4097,
+            "share": 20.31
+          },
+          {
+            "name": "Static Mist",
+            "category": "w",
+            "quality": 5,
+            "count": 2723,
+            "share": 13.5
+          },
+          {
+            "name": "Pulsation Bracer",
+            "category": "w",
+            "quality": 5,
+            "count": 2081,
+            "share": 10.32
+          },
+          {
+            "name": "Radiance Cleaver",
+            "category": "w",
+            "quality": 5,
+            "count": 1896,
+            "share": 9.4
+          },
+          {
+            "name": "Cosmic Ripples",
+            "category": "w",
+            "quality": 5,
+            "count": 1520,
+            "share": 7.54
+          },
+          {
+            "name": "Boson Astrolabe",
+            "category": "w",
+            "quality": 5,
+            "count": 1065,
+            "share": 5.28
+          },
+          {
+            "name": "Laser Shearer",
+            "category": "w",
+            "quality": 5,
+            "count": 997,
+            "share": 4.94
+          },
+          {
+            "name": "Chixia",
+            "category": "r",
+            "quality": 4,
+            "count": 6069,
+            "share": 4.34
+          },
+          {
+            "name": "Sanhua",
+            "category": "r",
+            "quality": 4,
+            "count": 6069,
+            "share": 4.34
+          },
+          {
+            "name": "Taoqi",
+            "category": "r",
+            "quality": 4,
+            "count": 5993,
+            "share": 4.29
+          },
+          {
+            "name": "Yuanwu",
+            "category": "r",
+            "quality": 4,
+            "count": 5926,
+            "share": 4.24
+          },
+          {
+            "name": "Youhu",
+            "category": "r",
+            "quality": 4,
+            "count": 5913,
+            "share": 4.23
+          },
+          {
+            "name": "Lumi",
+            "category": "r",
+            "quality": 4,
+            "count": 5871,
+            "share": 4.2
+          }
+        ],
+        "coverage": 0.578
+      }
     },
     "cp_collab_resonator": {
       "players": 92,
@@ -1057,7 +1483,105 @@
           "count": 19,
           "share": 1.88
         }
-      ]
+      ],
+      "estimated": {
+        "players": 241,
+        "totalPulls": 24292,
+        "topItems": [
+          {
+            "name": "Lucy",
+            "category": "r",
+            "quality": 5,
+            "count": 223,
+            "share": 57.92
+          },
+          {
+            "name": "Verina",
+            "category": "r",
+            "quality": 5,
+            "count": 33,
+            "share": 8.57
+          },
+          {
+            "name": "Encore",
+            "category": "r",
+            "quality": 5,
+            "count": 33,
+            "share": 8.5
+          },
+          {
+            "name": "Lingyang",
+            "category": "r",
+            "quality": 5,
+            "count": 33,
+            "share": 8.45
+          },
+          {
+            "name": "Jianxin",
+            "category": "r",
+            "quality": 5,
+            "count": 27,
+            "share": 7.04
+          },
+          {
+            "name": "Calcharo",
+            "category": "r",
+            "quality": 5,
+            "count": 21,
+            "share": 5.37
+          },
+          {
+            "name": "Rebecca",
+            "category": "r",
+            "quality": 5,
+            "count": 16,
+            "share": 4.15
+          },
+          {
+            "name": "Taoqi",
+            "category": "r",
+            "quality": 4,
+            "count": 667,
+            "share": 21.65
+          },
+          {
+            "name": "Youhu",
+            "category": "r",
+            "quality": 4,
+            "count": 661,
+            "share": 21.46
+          },
+          {
+            "name": "Lumi",
+            "category": "r",
+            "quality": 4,
+            "count": 660,
+            "share": 21.44
+          },
+          {
+            "name": "Sanhua",
+            "category": "r",
+            "quality": 4,
+            "count": 64,
+            "share": 2.07
+          },
+          {
+            "name": "Yangyang",
+            "category": "r",
+            "quality": 4,
+            "count": 62,
+            "share": 2.01
+          },
+          {
+            "name": "Aalto",
+            "category": "r",
+            "quality": 4,
+            "count": 59,
+            "share": 1.92
+          }
+        ],
+        "coverage": 0.33
+      }
     },
     "cp_collab_weapon": {
       "players": 38,
@@ -1226,7 +1750,70 @@
           "count": 7,
           "share": 2.52
         }
-      ]
+      ],
+      "estimated": {
+        "players": 102,
+        "totalPulls": 7008,
+        "topItems": [
+          {
+            "name": "Spectral Trigger",
+            "category": "w",
+            "quality": 5,
+            "count": 88,
+            "share": 64.85
+          },
+          {
+            "name": "Skull Thresher",
+            "category": "w",
+            "quality": 5,
+            "count": 48,
+            "share": 35.15
+          },
+          {
+            "name": "Relativistic Jet",
+            "category": "w",
+            "quality": 4,
+            "count": 207,
+            "share": 24.09
+          },
+          {
+            "name": "Fusion Accretion",
+            "category": "w",
+            "quality": 4,
+            "count": 175,
+            "share": 20.3
+          },
+          {
+            "name": "Cadenza",
+            "category": "w",
+            "quality": 4,
+            "count": 172,
+            "share": 20.03
+          },
+          {
+            "name": "Lumi",
+            "category": "r",
+            "quality": 4,
+            "count": 32,
+            "share": 3.67
+          },
+          {
+            "name": "Chixia",
+            "category": "r",
+            "quality": 4,
+            "count": 25,
+            "share": 2.89
+          },
+          {
+            "name": "Baizhi",
+            "category": "r",
+            "quality": 4,
+            "count": 20,
+            "share": 2.33
+          }
+        ],
+        "coverage": 0.324
+      }
     },
     "new_voyage_resonator": {
       "players": 12,
@@ -1423,7 +2010,98 @@
           "count": 3,
           "share": 3.85
         }
-      ]
+      ],
+      "estimated": {
+        "players": 40,
+        "totalPulls": 1970,
+        "topItems": [
+          {
+            "name": "Shorekeeper",
+            "category": "r",
+            "quality": 5,
+            "count": 15,
+            "share": 41.75
+          },
+          {
+            "name": "Augusta",
+            "category": "r",
+            "quality": 5,
+            "count": 10,
+            "share": 27.96
+          },
+          {
+            "name": "Encore",
+            "category": "r",
+            "quality": 5,
+            "count": 5,
+            "share": 13.98
+          },
+          {
+            "name": "Phrolova",
+            "category": "r",
+            "quality": 5,
+            "count": 3,
+            "share": 7.41
+          },
+          {
+            "name": "Calcharo",
+            "category": "r",
+            "quality": 5,
+            "count": 2,
+            "share": 5.11
+          },
+          {
+            "name": "Jianxin",
+            "category": "r",
+            "quality": 5,
+            "count": 1,
+            "share": 3.78
+          },
+          {
+            "name": "Baizhi",
+            "category": "r",
+            "quality": 4,
+            "count": 75,
+            "share": 29.57
+          },
+          {
+            "name": "Mortefi",
+            "category": "r",
+            "quality": 4,
+            "count": 41,
+            "share": 16.09
+          },
+          {
+            "name": "Chixia",
+            "category": "r",
+            "quality": 4,
+            "count": 31,
+            "share": 12.09
+          },
+          {
+            "name": "Sanhua",
+            "category": "r",
+            "quality": 4,
+            "count": 19,
+            "share": 7.57
+          },
+          {
+            "name": "Taoqi",
+            "category": "r",
+            "quality": 4,
+            "count": 17,
+            "share": 6.89
+          },
+          {
+            "name": "Undying Flame",
+            "category": "w",
+            "quality": 4,
+            "count": 10,
+            "share": 3.94
+          }
+        ],
+        "coverage": 0.307
+      }
     },
     "new_voyage_weapon": {
       "players": 8,
@@ -1599,7 +2277,77 @@
           "count": 1,
           "share": 3.7
         }
-      ]
+      ],
+      "estimated": {
+        "players": 26,
+        "totalPulls": 818,
+        "topItems": [
+          {
+            "name": "Stellar Symphony",
+            "category": "w",
+            "quality": 5,
+            "count": 11,
+            "share": 55.82
+          },
+          {
+            "name": "Thunderflare Dominion",
+            "category": "w",
+            "quality": 5,
+            "count": 6,
+            "share": 30.64
+          },
+          {
+            "name": "Lethean Elegy",
+            "category": "w",
+            "quality": 5,
+            "count": 3,
+            "share": 13.54
+          },
+          {
+            "name": "Variation",
+            "category": "w",
+            "quality": 4,
+            "count": 32,
+            "share": 33.05
+          },
+          {
+            "name": "Overture",
+            "category": "w",
+            "quality": 4,
+            "count": 18,
+            "share": 18.09
+          },
+          {
+            "name": "Cadenza",
+            "category": "w",
+            "quality": 4,
+            "count": 10,
+            "share": 10.65
+          },
+          {
+            "name": "Youhu",
+            "category": "r",
+            "quality": 4,
+            "count": 8,
+            "share": 7.91
+          },
+          {
+            "name": "Yangyang",
+            "category": "r",
+            "quality": 4,
+            "count": 5,
+            "share": 5.61
+          },
+          {
+            "name": "Buling",
+            "category": "r",
+            "quality": 4,
+            "count": 5,
+            "share": 5.17
+          }
+        ],
+        "coverage": 0.284
+      }
     },
     "reverb_resonator": {
       "players": 88,
@@ -1810,7 +2558,112 @@
           "count": 5,
           "share": 2.63
         }
-      ]
+      ],
+      "estimated": {
+        "players": 187,
+        "totalPulls": 4144,
+        "topItems": [
+          {
+            "name": "Jinhsi",
+            "category": "r",
+            "quality": 5,
+            "count": 17,
+            "share": 31.51
+          },
+          {
+            "name": "Changli",
+            "category": "r",
+            "quality": 5,
+            "count": 8,
+            "share": 13.82
+          },
+          {
+            "name": "Yinlin",
+            "category": "r",
+            "quality": 5,
+            "count": 7,
+            "share": 13.09
+          },
+          {
+            "name": "Jianxin",
+            "category": "r",
+            "quality": 5,
+            "count": 7,
+            "share": 12.51
+          },
+          {
+            "name": "Lingyang",
+            "category": "r",
+            "quality": 5,
+            "count": 7,
+            "share": 12.51
+          },
+          {
+            "name": "Zhezhi",
+            "category": "r",
+            "quality": 5,
+            "count": 4,
+            "share": 6.63
+          },
+          {
+            "name": "Encore",
+            "category": "r",
+            "quality": 5,
+            "count": 4,
+            "share": 6.61
+          },
+          {
+            "name": "Calcharo",
+            "category": "r",
+            "quality": 5,
+            "count": 2,
+            "share": 3.31
+          },
+          {
+            "name": "Yangyang",
+            "category": "r",
+            "quality": 4,
+            "count": 144,
+            "share": 27.7
+          },
+          {
+            "name": "Buling",
+            "category": "r",
+            "quality": 4,
+            "count": 87,
+            "share": 16.81
+          },
+          {
+            "name": "Sanhua",
+            "category": "r",
+            "quality": 4,
+            "count": 85,
+            "share": 16.46
+          },
+          {
+            "name": "Taoqi",
+            "category": "r",
+            "quality": 4,
+            "count": 18,
+            "share": 3.39
+          },
+          {
+            "name": "Chixia",
+            "category": "r",
+            "quality": 4,
+            "count": 15,
+            "share": 2.97
+          },
+          {
+            "name": "Youhu",
+            "category": "r",
+            "quality": 4,
+            "count": 15,
+            "share": 2.97
+          }
+        ],
+        "coverage": 0.361
+      }
     },
     "reverb_weapon": {
       "players": 16,
@@ -1993,7 +2846,89 @@
           "count": 3,
           "share": 3.85
         }
-      ]
+      ],
+      "estimated": {
+        "players": 50,
+        "totalPulls": 2208,
+        "topItems": [
+          {
+            "name": "Stringmaster",
+            "category": "w",
+            "quality": 5,
+            "count": 24,
+            "share": 55.28
+          },
+          {
+            "name": "Blazing Brilliance",
+            "category": "w",
+            "quality": 5,
+            "count": 11,
+            "share": 24.89
+          },
+          {
+            "name": "Ages of Harvest",
+            "category": "w",
+            "quality": 5,
+            "count": 5,
+            "share": 11.52
+          },
+          {
+            "name": "Verity's Handle",
+            "category": "w",
+            "quality": 5,
+            "count": 4,
+            "share": 8.3
+          },
+          {
+            "name": "Variation",
+            "category": "w",
+            "quality": 4,
+            "count": 68,
+            "share": 25.32
+          },
+          {
+            "name": "Dauntless Evernight",
+            "category": "w",
+            "quality": 4,
+            "count": 65,
+            "share": 24.13
+          },
+          {
+            "name": "Endless Collapse",
+            "category": "w",
+            "quality": 4,
+            "count": 54,
+            "share": 19.91
+          },
+          {
+            "name": "Buling",
+            "category": "r",
+            "quality": 4,
+            "count": 12,
+            "share": 4.52
+          },
+          {
+            "name": "Sanhua",
+            "category": "r",
+            "quality": 4,
+            "count": 12,
+            "share": 4.37
+          },
+          {
+            "name": "Fusion Accretion",
+            "category": "w",
+            "quality": 4,
+            "count": 10,
+            "share": 3.85
+          }
+        ],
+        "coverage": 0.287
+      }
     }
+  },
+  "methodology": {
+    "stalePlayers": 6848,
+    "medianDaysSinceImport": 136,
+    "halfLifeWeeks": 52
   }
 }
