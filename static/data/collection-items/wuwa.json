@@ -805,7 +805,8 @@
       "quality": "4",
       "attributes": {
         "weapons": "gauntlets"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Amity Accord",
@@ -819,28 +820,32 @@
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Aureate Zenith",
       "quality": "4",
       "attributes": {
         "weapons": "broadblade"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Autumntrace",
       "quality": "4",
       "attributes": {
         "weapons": "broadblade"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Broadblade#41",
       "quality": "4",
       "attributes": {
         "weapons": "broadblade"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Cadenza",
@@ -854,7 +859,8 @@
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Celestial Spiral",
@@ -903,14 +909,16 @@
       "quality": "4",
       "attributes": {
         "weapons": "sword"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Feather Edge",
       "quality": "4",
       "attributes": {
         "weapons": "sword"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Fusion Accretion",
@@ -924,7 +932,8 @@
       "quality": "4",
       "attributes": {
         "weapons": "gauntlets"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Helios Cleaver",
@@ -952,14 +961,16 @@
       "quality": "4",
       "attributes": {
         "weapons": "gauntlets"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Lumingloss",
       "quality": "4",
       "attributes": {
         "weapons": "sword"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Lunar Cutter",
@@ -980,7 +991,8 @@
       "quality": "4",
       "attributes": {
         "weapons": "broadblade"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Novaburst",
@@ -1008,21 +1020,24 @@
       "quality": "4",
       "attributes": {
         "weapons": "pistols"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Radiant Dawn",
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Rectifier#25",
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Relativistic Jet",
@@ -1036,14 +1051,16 @@
       "quality": "4",
       "attributes": {
         "weapons": "pistols"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Solar Flame",
       "quality": "4",
       "attributes": {
         "weapons": "pistols"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Somnoire Anchor",
@@ -1057,21 +1074,24 @@
       "quality": "4",
       "attributes": {
         "weapons": "gauntlets"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Sword#18",
       "quality": "4",
       "attributes": {
         "weapons": "sword"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Thunderbolt",
       "quality": "4",
       "attributes": {
         "weapons": "pistols"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Undying Flame",
@@ -1092,7 +1112,8 @@
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Waning Redshift",
