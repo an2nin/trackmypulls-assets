@@ -119,7 +119,17 @@
           "5": 80
         },
         "topResetPityForAll": true,
-        "isActive": true
+        "isActive": true,
+        "fiftyFifty": {
+          "itemType": "characters",
+          "loseItems": [
+            "Calcharo",
+            "Encore",
+            "Jianxin",
+            "Lingyang",
+            "Verina"
+          ]
+        }
       },
       {
         "id": "featured_weapon",
