@@ -490,7 +490,8 @@
       "quality": "5",
       "attributes": {
         "weapons": "sword"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Blooming Jadehaven",
@@ -1006,7 +1007,8 @@
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Overture",
@@ -1067,7 +1069,8 @@
       "quality": "4",
       "attributes": {
         "weapons": "sword"
-      }
+      },
+      "isNonGacha": true
     },
     {
       "name": "Stonard",
