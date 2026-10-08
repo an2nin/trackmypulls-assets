@@ -2,6 +2,7 @@
   {
     "slug": "wuwa",
     "name": "Wuthering Waves",
+    "shortName": "WuWa",
     "description": "Open World Gacha Game",
     "gachaTerm": "Convene",
     "image": "",
@@ -311,6 +312,7 @@
   {
     "slug": "endfield",
     "name": "Arknights: Endfield",
+    "shortName": "Endfield",
     "description": "Open World Gacha Game",
     "gachaTerm": "Headhunt",
     "image": "",
@@ -525,6 +527,7 @@
   {
     "slug": "zzz",
     "name": "Zenless Zone Zero",
+    "shortName": "ZZZ",
     "description": "Open World Gacha Game",
     "gachaTerm": "Signal",
     "image": "",

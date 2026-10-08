@@ -2,6 +2,7 @@ export const GAMES = [
   {
     slug: 'wuwa',
     name: 'Wuthering Waves',
+    shortName: 'WuWa',
     description: 'Open World Gacha Game',
     gachaTerm: 'Convene',
     image: '',
@@ -130,6 +131,7 @@ export const GAMES = [
   {
     slug: 'endfield',
     name: 'Arknights: Endfield',
+    shortName: 'Endfield',
     description: 'Open World Gacha Game',
     gachaTerm: 'Headhunt',
     image: '',
@@ -271,6 +273,7 @@ export const GAMES = [
   {
     slug: 'zzz',
     name: 'Zenless Zone Zero',
+    shortName: 'ZZZ',
     description: 'Open World Gacha Game',
     gachaTerm: 'Signal',
     image: '',
