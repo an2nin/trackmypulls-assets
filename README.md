@@ -93,6 +93,16 @@ A banner in `games.json` can mark its top rarity as a rate-up with `rateUp`: eac
 
 The admin UI's banner editor sets all of these.
 
+## Non-Gacha Items
+
+A collection file can list items that exist in the game but can't be pulled, such as battle pass, crafted or event weapons. They're marked with `"isNonGacha": true`, which is left out for gacha items:
+
+```json
+{ "name": "Flickers in the Mist", "quality": "6", "attributes": { "weapons": "arts unit" }, "isNonGacha": true }
+```
+
+The admin UI sets it from the item editor, and its source check can flag items a source reports as rewards.
+
 ## Sync
 
 This repository is used as a shared input for downstream apps. The asset sync workflow copies the contents of [`assets`](./assets) into target application repositories.

@@ -1,5 +1,13 @@
 export const CHANGELOGS = [
   {
+    date: 'Oct 8, 2026',
+    changes: [
+      'Added 50/50 tracking for Wuthering Waves and Zenless Zone Zero: a crown marks every top-rarity pull that won its 50/50 (75/25 on ZZZ W-Engine banners)',
+      'Tracker summary cards now show your 50/50 win rate, plus a "Guaranteed" badge when your next top-rarity pull is guaranteed to be the featured one',
+      'Banner pages now show your 50/50 record: wins, win rate against the expected odds, and whether your next top-rarity pull is guaranteed',
+    ],
+  },
+  {
     date: 'Oct 7, 2026',
     changes: [
       'Added Zenless Zone Zero (beta): import your Signal Search history from the game, or bring it over from an rng.moe backup',
