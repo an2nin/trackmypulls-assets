@@ -176,7 +176,7 @@ export const GAMES = [
         label: 'Elements',
         icon: 'element',
         values: [
-          'cyro',
+          'cryo',
           'electric',
           'heat',
           'nature',
