@@ -310,6 +310,29 @@ export const BANNERS = {
       },
       isActive: true,
       topResetPityForAll: true,
+      fiftyFifty: {
+        itemType: 'characters',
+        loseItems: [
+          {
+            name: 'Caesar',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          'Grace',
+          'Koleda',
+          'Lycaon',
+          'Nekomata',
+          'Rina',
+          'Soldier 11',
+          {
+            name: 'Yanagi',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          {
+            name: 'Zhu Yuan',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+        ],
+      },
     },
     {
       id: 'wengine',
