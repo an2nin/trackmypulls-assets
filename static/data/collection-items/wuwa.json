@@ -297,6 +297,14 @@
       }
     },
     {
+      "name": "Suoming",
+      "quality": "5",
+      "attributes": {
+        "elements": "electro",
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Verina",
       "quality": "5",
       "attributes": {
@@ -478,6 +486,13 @@
       }
     },
     {
+      "name": "Bloodpact's Pledge",
+      "quality": "5",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Blooming Jadehaven",
       "quality": "5",
       "attributes": {
@@ -502,7 +517,7 @@
       "name": "Daybreaker's Spine",
       "quality": "5",
       "attributes": {
-        "weapons": "broadblade"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -614,7 +629,7 @@
       "name": "Moongazer's Sigil",
       "quality": "5",
       "attributes": {
-        "weapons": "rectifier"
+        "weapons": "gauntlets"
       }
     },
     {
@@ -744,6 +759,13 @@
       }
     },
     {
+      "name": "Unspoken Rue",
+      "quality": "5",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Verdant Summit",
       "quality": "5",
       "attributes": {
@@ -779,6 +801,13 @@
       }
     },
     {
+      "name": "Aether Strike",
+      "quality": "4",
+      "attributes": {
+        "weapons": "gauntlets"
+      }
+    },
+    {
       "name": "Amity Accord",
       "quality": "4",
       "attributes": {
@@ -786,10 +815,45 @@
       }
     },
     {
+      "name": "Augment",
+      "quality": "4",
+      "attributes": {
+        "weapons": "rectifier"
+      }
+    },
+    {
+      "name": "Aureate Zenith",
+      "quality": "4",
+      "attributes": {
+        "weapons": "broadblade"
+      }
+    },
+    {
+      "name": "Autumntrace",
+      "quality": "4",
+      "attributes": {
+        "weapons": "broadblade"
+      }
+    },
+    {
+      "name": "Broadblade#41",
+      "quality": "4",
+      "attributes": {
+        "weapons": "broadblade"
+      }
+    },
+    {
       "name": "Cadenza",
       "quality": "4",
       "attributes": {
         "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Call of the Abyss",
+      "quality": "4",
+      "attributes": {
+        "weapons": "rectifier"
       }
     },
     {
@@ -835,10 +899,31 @@
       }
     },
     {
+      "name": "Fables of Wisdom",
+      "quality": "4",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
+      "name": "Feather Edge",
+      "quality": "4",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Fusion Accretion",
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
+      }
+    },
+    {
+      "name": "Gauntlets#21D",
+      "quality": "4",
+      "attributes": {
+        "weapons": "gauntlets"
       }
     },
     {
@@ -863,6 +948,20 @@
       }
     },
     {
+      "name": "Legend of Drunken Hero",
+      "quality": "4",
+      "attributes": {
+        "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Lumingloss",
+      "quality": "4",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
       "name": "Lunar Cutter",
       "quality": "4",
       "attributes": {
@@ -877,10 +976,24 @@
       }
     },
     {
+      "name": "Meditations on Mercy",
+      "quality": "4",
+      "attributes": {
+        "weapons": "broadblade"
+      }
+    },
+    {
       "name": "Novaburst",
       "quality": "4",
       "attributes": {
         "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Ocean's Gift",
+      "quality": "4",
+      "attributes": {
+        "weapons": "rectifier"
       }
     },
     {
@@ -891,7 +1004,70 @@
       }
     },
     {
+      "name": "Pistols#26",
+      "quality": "4",
+      "attributes": {
+        "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Radiant Dawn",
+      "quality": "4",
+      "attributes": {
+        "weapons": "rectifier"
+      }
+    },
+    {
+      "name": "Rectifier#25",
+      "quality": "4",
+      "attributes": {
+        "weapons": "rectifier"
+      }
+    },
+    {
       "name": "Relativistic Jet",
+      "quality": "4",
+      "attributes": {
+        "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Romance in Farewell",
+      "quality": "4",
+      "attributes": {
+        "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Solar Flame",
+      "quality": "4",
+      "attributes": {
+        "weapons": "pistols"
+      }
+    },
+    {
+      "name": "Somnoire Anchor",
+      "quality": "4",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
+      "name": "Stonard",
+      "quality": "4",
+      "attributes": {
+        "weapons": "gauntlets"
+      }
+    },
+    {
+      "name": "Sword#18",
+      "quality": "4",
+      "attributes": {
+        "weapons": "sword"
+      }
+    },
+    {
+      "name": "Thunderbolt",
       "quality": "4",
       "attributes": {
         "weapons": "pistols"
@@ -906,6 +1082,13 @@
     },
     {
       "name": "Variation",
+      "quality": "4",
+      "attributes": {
+        "weapons": "rectifier"
+      }
+    },
+    {
+      "name": "Waltz in Masquerade",
       "quality": "4",
       "attributes": {
         "weapons": "rectifier"
