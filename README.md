@@ -72,24 +72,26 @@ Keep config, data, and assets aligned so the frontend can consume the new entry 
 4. Add the image subfolders needed by that game's config and item data, such as character, weapon, element, or other attribute folders.
 5. Verify the config slug, item data file, and image folder naming all match.
 
-## Banner 50/50 Pools
+## Banner Rate-Up Pools
 
-A banner in `games.json` can mark its top rarity as a 50/50 with `fiftyFifty`. `loseItems` lists what you can get by losing it, by collection item name:
+A banner in `games.json` can mark its top rarity as a rate-up with `rateUp`: each top-rarity pull is either the featured item or one from an off-banner pool. `loseItems` lists what you can get by losing it, by collection item name:
 
 ```json
-"fiftyFifty": {
-  "itemType": "characters",
+"rateUp": {
+  "itemType": "weapons",
+  "chance": 75,
   "loseItems": [
-    "Calcharo",
-    { "name": "SomeCharacter", "since": "2026-09-15" }
+    "Steel Cushion",
+    { "name": "Timeweaver", "since": "2026-07-29T11:00:00+08:00" }
   ]
 }
 ```
 
+- `chance` is the featured item's percentage, shown as the odds label (`75` → "75/25"). Leave it out for a 50/50.
 - A plain name has been in the pool since launch.
-- `{ "name", "since" }` is a formerly limited item that joined the pool later. `since` is an ISO date, or a full time with offset (`2026-09-15T04:00:00+08:00`) when the pool changed partway through a day. Pulls of it before `since` count as 50/50 wins.
+- `{ "name", "since" }` is a formerly limited item that joined the pool later. `since` is an ISO date, or a full time with offset when the pool changed partway through a day. Pulls of it before `since` count as wins.
 
-The admin UI's banner editor sets both.
+The admin UI's banner editor sets all of these.
 
 ## Sync
 

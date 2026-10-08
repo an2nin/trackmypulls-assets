@@ -14,7 +14,7 @@ export const BANNERS = {
       },
       topResetPityForAll: true,
       isActive: true,
-      fiftyFifty: {
+      rateUp: {
         itemType: 'characters',
         loseItems: [
           'Calcharo',
@@ -310,7 +310,7 @@ export const BANNERS = {
       },
       isActive: true,
       topResetPityForAll: true,
-      fiftyFifty: {
+      rateUp: {
         itemType: 'characters',
         loseItems: [
           {
@@ -348,8 +348,9 @@ export const BANNERS = {
       },
       isActive: true,
       topResetPityForAll: true,
-      fiftyFifty: {
+      rateUp: {
         itemType: 'weapons',
+        chance: 75,
         loseItems: [
           'Fusion Compiler',
           'Hellfire Gears',

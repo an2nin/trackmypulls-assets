@@ -121,7 +121,7 @@
         },
         "topResetPityForAll": true,
         "isActive": true,
-        "fiftyFifty": {
+        "rateUp": {
           "itemType": "characters",
           "loseItems": [
             "Calcharo",
@@ -672,7 +672,7 @@
         },
         "isActive": true,
         "topResetPityForAll": true,
-        "fiftyFifty": {
+        "rateUp": {
           "itemType": "characters",
           "loseItems": [
             {
@@ -710,8 +710,9 @@
         },
         "isActive": true,
         "topResetPityForAll": true,
-        "fiftyFifty": {
+        "rateUp": {
           "itemType": "weapons",
+          "chance": 75,
           "loseItems": [
             "Fusion Compiler",
             "Hellfire Gears",
