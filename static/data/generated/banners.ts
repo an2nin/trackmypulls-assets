@@ -348,6 +348,29 @@ export const BANNERS = {
       },
       isActive: true,
       topResetPityForAll: true,
+      fiftyFifty: {
+        itemType: 'weapons',
+        loseItems: [
+          'Fusion Compiler',
+          'Hellfire Gears',
+          {
+            name: 'Riot Suppressor Mark VI',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          'Steel Cushion',
+          'The Brimstone',
+          'The Restrained',
+          {
+            name: 'Timeweaver',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          {
+            name: 'Tusks of Fury',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          'Weeping Cradle',
+        ],
+      },
     },
     {
       id: 'stable',
