@@ -22,12 +22,14 @@ jobs:
           - name: trackmypulls
             repository: an2nin/trackmypulls
             ref: master
+            assets_src: static/assets/images
             assets_path: public/assets/images
             data_path: app/lib/config
           - name: wuwapal
             repository: an2nin/wuwapal
             ref: master
-            assets_path: public/assets/images
+            assets_src: static/assets/images/wuwa
+            assets_path: public/assets/images/wuwa
             data_path: ""
     steps:
       - name: Checkout gacha-data repo
@@ -45,7 +47,7 @@ jobs:
         if: inputs.scope != 'data' && matrix.target.assets_path != ''
         run: |
           mkdir -p "./main-repo/${{ matrix.target.assets_path }}"
-          rsync -a --delete --itemize-changes ./static/assets/images/ "./main-repo/${{ matrix.target.assets_path }}/"
+          rsync -a --delete --itemize-changes "./${{ matrix.target.assets_src }}/" "./main-repo/${{ matrix.target.assets_path }}/"
 
       - name: Copy data
         if: inputs.scope != 'assets' && matrix.target.data_path != ''
