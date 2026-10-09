@@ -1,6 +1,6 @@
 {
   "game": "zzz",
-  "updatedAt": "2026-10-08T23:57:21.236Z",
+  "updatedAt": "2026-10-09T00:02:26.658Z",
   "summary": {
     "players": 3,
     "totalPulls": 9766,
@@ -1308,7 +1308,7 @@
   },
   "methodology": {
     "stalePlayers": 0,
-    "medianDaysSinceImport": 1,
+    "medianDaysSinceImport": 2,
     "halfLifeWeeks": 52
   }
 }
