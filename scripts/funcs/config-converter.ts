@@ -10,7 +10,6 @@ type ConfigFile = { name: string; exportName: string; asConst?: boolean };
 
 const CONFIG_FILES: ConfigFile[] = [
   { name: "banner-styles", exportName: "BannerStyles", asConst: true },
-  { name: "changelogs", exportName: "CHANGELOGS" },
   { name: "langs", exportName: "LANGS", asConst: true },
   { name: "supporters", exportName: "SUPPORTERS" },
 ];
