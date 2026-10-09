@@ -1,0 +1,86 @@
+name: Sync to app repos
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "What to sync"
+        type: choice
+        default: all
+        options:
+          - all
+          - assets
+          - data
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        target:
+          - name: trackmypulls
+            repository: an2nin/trackmypulls
+            ref: master
+            assets_path: public/assets/images
+            data_path: app/lib/config
+          - name: wuwapal
+            repository: an2nin/wuwapal
+            ref: master
+            assets_path: public/assets/images
+            data_path: ""
+    steps:
+      - name: Checkout gacha-data repo
+        uses: actions/checkout@v4
+
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ matrix.target.repository }}
+          path: main-repo
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
+          ref: ${{ matrix.target.ref }}
+
+      - name: Copy assets
+        if: inputs.scope != 'data' && matrix.target.assets_path != ''
+        run: |
+          mkdir -p "./main-repo/${{ matrix.target.assets_path }}"
+          rsync -a --delete --itemize-changes ./static/assets/images/ "./main-repo/${{ matrix.target.assets_path }}/"
+
+      - name: Copy data
+        if: inputs.scope != 'assets' && matrix.target.data_path != ''
+        run: |
+          mkdir -p "./main-repo/${{ matrix.target.data_path }}"
+          rsync -a --delete --itemize-changes ./static/data/generated/ "./main-repo/${{ matrix.target.data_path }}/"
+
+      - name: Commit and push
+        env:
+          ASSETS_PATH: ${{ matrix.target.assets_path }}
+          DATA_PATH: ${{ matrix.target.data_path }}
+        run: |
+          cd main-repo
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # Stage each path and record which ones actually changed.
+          changed=()
+          if [ -n "$ASSETS_PATH" ] && [ -d "$ASSETS_PATH" ]; then
+            git add -A "$ASSETS_PATH"
+            git diff --cached --quiet -- "$ASSETS_PATH" || changed+=("images")
+          fi
+          if [ -n "$DATA_PATH" ] && [ -d "$DATA_PATH" ]; then
+            git add -A "$DATA_PATH"
+            git diff --cached --quiet -- "$DATA_PATH" || changed+=("data")
+          fi
+
+          if [ ${#changed[@]} -eq 0 ]; then
+            echo "No changes for ${{ matrix.target.name }}, skipping push"
+            exit 0
+          fi
+
+          what="${changed[0]}"
+          [ ${#changed[@]} -eq 2 ] && what="images and data"
+          echo "Changed: $what"
+          git diff --cached --stat
+          git commit -m "chore: sync $what from trackmypulls-gacha-data"
+          git push origin HEAD:${{ matrix.target.ref }}
