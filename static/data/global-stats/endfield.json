@@ -1,41 +1,41 @@
 {
   "game": "endfield",
-  "updatedAt": "2026-10-09T08:41:09.307Z",
+  "updatedAt": "2026-10-09T19:20:02.877Z",
   "summary": {
-    "players": 5506,
-    "totalPulls": 2872640,
-    "topRarityPulls": 87245,
+    "players": 5509,
+    "totalPulls": 2873178,
+    "topRarityPulls": 87262,
     "estimated": {
-      "players": 5506,
-      "totalPulls": 5310217,
-      "topRarityPulls": 165576,
+      "players": 5509,
+      "totalPulls": 5311519,
+      "topRarityPulls": 165609,
       "coverage": 0.541
     }
   },
   "banners": {
     "special": {
-      "players": 5475,
-      "totalPulls": 1409062,
+      "players": 5477,
+      "totalPulls": 1409363,
       "rarities": {
         "5": {
-          "count": 189329,
+          "count": 189369,
           "rate": 13.44,
           "avgPity": 6.8,
           "pityDistribution": [
-            17955,
-            15816,
-            14275,
-            12872,
+            17957,
+            15823,
+            14281,
+            12875,
             11340,
-            10265,
-            9352,
-            8235,
-            7460,
-            80702
+            10269,
+            9353,
+            8237,
+            7462,
+            80711
           ]
         },
         "6": {
-          "count": 28597,
+          "count": 28602,
           "rate": 2.03,
           "avgPity": 47,
           "pityDistribution": [
@@ -50,9 +50,9 @@
             358,
             340,
             319,
-            325,
+            326,
             292,
-            323,
+            324,
             271,
             290,
             310,
@@ -107,7 +107,7 @@
             700,
             1237,
             1618,
-            1786,
+            1787,
             1714,
             1472,
             1224,
@@ -115,7 +115,7 @@
             601,
             385,
             222,
-            122,
+            123,
             78,
             59,
             46
@@ -129,7 +129,7 @@
           "category": "c",
           "quality": 6,
           "count": 4577,
-          "share": 16.01
+          "share": 16
         },
         {
           "name": "Gilberta",
@@ -143,7 +143,7 @@
           "category": "c",
           "quality": 6,
           "count": 2644,
-          "share": 9.25
+          "share": 9.24
         },
         {
           "name": "Zhuang Fangyi",
@@ -178,54 +178,54 @@
           "category": "c",
           "quality": 6,
           "count": 1723,
-          "share": 6.03
+          "share": 6.02
         },
         {
           "name": "Wulfgard",
           "category": "c",
           "quality": 5,
-          "count": 21176,
-          "share": 11.18
+          "count": 21182,
+          "share": 11.19
         },
         {
           "name": "Xaihi",
           "category": "c",
           "quality": 5,
-          "count": 21142,
+          "count": 21149,
           "share": 11.17
         },
         {
           "name": "Snowshine",
           "category": "c",
           "quality": 5,
-          "count": 21082,
+          "count": 21087,
           "share": 11.14
         },
         {
           "name": "Arclight",
           "category": "c",
           "quality": 5,
-          "count": 21071,
+          "count": 21076,
           "share": 11.13
         },
         {
           "name": "Avywenna",
           "category": "c",
           "quality": 5,
-          "count": 21058,
+          "count": 21059,
           "share": 11.12
         },
         {
           "name": "Alesh",
           "category": "c",
           "quality": 5,
-          "count": 21036,
+          "count": 21040,
           "share": 11.11
         }
       ],
       "estimated": {
-        "players": 5475,
-        "totalPulls": 2662172,
+        "players": 5477,
+        "totalPulls": 2662986,
         "topItems": [
           {
             "name": "Zhuang Fangyi",
@@ -245,7 +245,7 @@
             "name": "Rossi",
             "category": "c",
             "quality": 6,
-            "count": 4321,
+            "count": 4320,
             "share": 7.86
           },
           {
@@ -266,7 +266,7 @@
             "name": "Ardelia",
             "category": "c",
             "quality": 6,
-            "count": 3445,
+            "count": 3444,
             "share": 6.27
           },
           {
@@ -287,42 +287,42 @@
             "name": "Snowshine",
             "category": "c",
             "quality": 5,
-            "count": 40125,
+            "count": 40139,
             "share": 11.25
           },
           {
             "name": "Wulfgard",
             "category": "c",
             "quality": 5,
-            "count": 39918,
+            "count": 39939,
             "share": 11.19
           },
           {
             "name": "Arclight",
             "category": "c",
             "quality": 5,
-            "count": 39871,
-            "share": 11.17
+            "count": 39886,
+            "share": 11.18
           },
           {
             "name": "Xaihi",
             "category": "c",
             "quality": 5,
-            "count": 39805,
+            "count": 39826,
             "share": 11.16
           },
           {
             "name": "Perlica",
             "category": "c",
             "quality": 5,
-            "count": 39622,
-            "share": 11.1
+            "count": 39643,
+            "share": 11.11
           },
           {
             "name": "Alesh",
             "category": "c",
             "quality": 5,
-            "count": 39561,
+            "count": 39574,
             "share": 11.09
           }
         ],
@@ -330,54 +330,54 @@
       }
     },
     "arsenal": {
-      "players": 5436,
-      "totalPulls": 964924,
+      "players": 5439,
+      "totalPulls": 965130,
       "rarities": {
         "5": {
-          "count": 165538,
+          "count": 165576,
           "rate": 17.16,
           "avgPity": 4.7,
           "pityDistribution": [
-            32626,
-            25587,
-            20476,
-            16356,
-            13307,
-            10607,
-            8447,
-            6760,
-            5248,
-            23412
+            32635,
+            25592,
+            20479,
+            16361,
+            13310,
+            10608,
+            8452,
+            6761,
+            5249,
+            23417
           ]
         },
         "6": {
-          "count": 50047,
+          "count": 50059,
           "rate": 5.19,
           "avgPity": 18.6,
           "pityDistribution": [
             2417,
-            2270,
+            2271,
             2163,
             2015,
             1990,
-            1862,
-            1781,
-            1644,
+            1863,
+            1782,
+            1646,
             1537,
-            1645,
+            1646,
             1439,
             1378,
             1306,
             1234,
             1142,
             1115,
-            1089,
+            1091,
             1049,
             984,
             843,
-            925,
+            926,
             846,
-            743,
+            744,
             796,
             744,
             723,
@@ -388,13 +388,13 @@
             590,
             550,
             489,
-            484,
+            485,
             487,
             424,
             444,
             395,
             419,
-            4535
+            4536
           ]
         }
       },
@@ -405,7 +405,7 @@
           "category": "w",
           "quality": 6,
           "count": 4657,
-          "share": 9.31
+          "share": 9.3
         },
         {
           "name": "Forgeborn Scathe",
@@ -425,14 +425,14 @@
           "name": "Valiant",
           "category": "w",
           "quality": 6,
-          "count": 2876,
+          "count": 2877,
           "share": 5.75
         },
         {
           "name": "Clannibal",
           "category": "w",
           "quality": 6,
-          "count": 2764,
+          "count": 2765,
           "share": 5.52
         },
         {
@@ -446,69 +446,69 @@
           "name": "JET",
           "category": "w",
           "quality": 6,
-          "count": 2652,
+          "count": 2653,
           "share": 5.3
         },
         {
           "name": "Former Finery",
           "category": "w",
           "quality": 6,
-          "count": 2560,
+          "count": 2561,
           "share": 5.12
         },
         {
           "name": "Stanza of Memorials",
           "category": "w",
           "quality": 5,
-          "count": 8000,
+          "count": 8001,
           "share": 4.83
         },
         {
           "name": "Opus: The Living",
           "category": "w",
           "quality": 5,
-          "count": 7981,
+          "count": 7983,
           "share": 4.82
         },
         {
           "name": "Monaihe",
           "category": "w",
           "quality": 5,
-          "count": 7966,
+          "count": 7967,
           "share": 4.81
         },
         {
           "name": "Twelve Questions",
           "category": "w",
           "quality": 5,
-          "count": 7962,
+          "count": 7963,
           "share": 4.81
         },
         {
           "name": "Aspirant",
           "category": "w",
           "quality": 5,
-          "count": 7948,
+          "count": 7950,
           "share": 4.8
         },
         {
           "name": "OBJ Razorhorn",
           "category": "w",
           "quality": 5,
-          "count": 7918,
+          "count": 7920,
           "share": 4.78
         }
       ],
       "estimated": {
-        "players": 5436,
-        "totalPulls": 1837096,
+        "players": 5439,
+        "totalPulls": 1837538,
         "topItems": [
           {
             "name": "Wedge",
             "category": "w",
             "quality": 6,
-            "count": 8102,
-            "share": 8.43
+            "count": 8101,
+            "share": 8.42
           },
           {
             "name": "JET",
@@ -521,28 +521,28 @@
             "name": "Valiant",
             "category": "w",
             "quality": 6,
-            "count": 5461,
+            "count": 5464,
             "share": 5.68
           },
           {
             "name": "Chivalric Virtues",
             "category": "w",
             "quality": 6,
-            "count": 5433,
+            "count": 5432,
             "share": 5.65
           },
           {
             "name": "Clannibal",
             "category": "w",
             "quality": 6,
-            "count": 4991,
+            "count": 4996,
             "share": 5.19
           },
           {
             "name": "Oblivion",
             "category": "w",
             "quality": 6,
-            "count": 4607,
+            "count": 4611,
             "share": 4.79
           },
           {
@@ -560,45 +560,45 @@
             "share": 4.54
           },
           {
-            "name": "Opus: The Living",
-            "category": "w",
-            "quality": 5,
-            "count": 15273,
-            "share": 4.86
-          },
-          {
             "name": "Wild Wanderer",
             "category": "w",
             "quality": 5,
-            "count": 15265,
+            "count": 15278,
+            "share": 4.86
+          },
+          {
+            "name": "Opus: The Living",
+            "category": "w",
+            "quality": 5,
+            "count": 15277,
             "share": 4.86
           },
           {
             "name": "Monaihe",
             "category": "w",
             "quality": 5,
-            "count": 15197,
-            "share": 4.84
+            "count": 15198,
+            "share": 4.83
           },
           {
             "name": "Twelve Questions",
             "category": "w",
             "quality": 5,
-            "count": 15187,
+            "count": 15188,
             "share": 4.83
           },
           {
             "name": "Stanza of Memorials",
             "category": "w",
             "quality": 5,
-            "count": 15141,
+            "count": 15145,
             "share": 4.82
           },
           {
             "name": "Sundering Steel",
             "category": "w",
             "quality": 5,
-            "count": 15059,
+            "count": 15067,
             "share": 4.79
           }
         ],
@@ -606,24 +606,24 @@
       }
     },
     "standard": {
-      "players": 5447,
-      "totalPulls": 498654,
+      "players": 5450,
+      "totalPulls": 498685,
       "rarities": {
         "5": {
-          "count": 68663,
+          "count": 68669,
           "rate": 13.77,
           "avgPity": 6.7,
           "pityDistribution": [
             6661,
-            5858,
-            5275,
+            5859,
+            5277,
             4711,
             4368,
-            3797,
-            3334,
+            3798,
+            3335,
             3047,
             2701,
-            28880
+            28881
           ]
         },
         "6": {
@@ -783,20 +783,20 @@
           "name": "Xaihi",
           "category": "c",
           "quality": 5,
-          "count": 7625,
-          "share": 11.1
+          "count": 7627,
+          "share": 11.11
         },
         {
           "name": "Arclight",
           "category": "c",
           "quality": 5,
-          "count": 7620,
+          "count": 7623,
           "share": 11.1
         }
       ],
       "estimated": {
-        "players": 5447,
-        "totalPulls": 810949,
+        "players": 5450,
+        "totalPulls": 810995,
         "topItems": [
           {
             "name": "Pogranichnik",
@@ -837,14 +837,14 @@
             "name": "Snowshine",
             "category": "c",
             "quality": 5,
-            "count": 12676,
+            "count": 12675,
             "share": 11.4
           },
           {
             "name": "Avywenna",
             "category": "c",
             "quality": 5,
-            "count": 12470,
+            "count": 12471,
             "share": 11.22
           },
           {
@@ -858,8 +858,8 @@
             "name": "Wulfgard",
             "category": "c",
             "quality": 5,
-            "count": 12390,
-            "share": 11.15
+            "count": 12389,
+            "share": 11.14
           },
           {
             "name": "Perlica",
@@ -872,8 +872,8 @@
             "name": "Chen Qianyu",
             "category": "c",
             "quality": 5,
-            "count": 12356,
-            "share": 11.12
+            "count": 12355,
+            "share": 11.11
           }
         ],
         "coverage": 0.615
@@ -882,7 +882,7 @@
   },
   "methodology": {
     "stalePlayers": 5295,
-    "medianDaysSinceImport": 206,
+    "medianDaysSinceImport": 205,
     "halfLifeWeeks": 52
   }
 }
