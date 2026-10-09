@@ -1,5 +1,12 @@
 export const CHANGELOGS = [
   {
+    date: 'Oct 9, 2026',
+    changes: [
+      'Added Global Stats for Wuthering Waves and Arknights: Endfield',
+      'Banner pages now give you a Luck Rating that ranks your pity against every other player on that banner',
+    ],
+  },
+  {
     date: 'Oct 8, 2026',
     changes: [
       'Added 50/50 tracking for Wuthering Waves and Zenless Zone Zero: a crown marks every top-rarity pull that won its 50/50 (75/25 on ZZZ W-Engine banners)',
